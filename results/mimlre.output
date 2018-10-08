@@ -1,0 +1,3605 @@
+SF200 per:age mimlre  eng-WL-111-174637-12999421  83
+SF200 per:alternate_names mimlre NIL
+SF200 per:cause_of_death mimlre NIL
+SF200 per:charges mimlre NIL
+SF200 per:children mimlre NIL
+SF200 per:cities_of_residence mimlre NIL
+SF200 per:city_of_birth mimlre  eng-WL-111-174637-12996189  Stevenage
+SF200 per:city_of_death mimlre NIL
+SF200 per:countries_of_residence mimlre NIL
+SF200 per:country_of_birth mimlre NIL
+SF200 per:country_of_death mimlre NIL
+SF200 per:date_of_birth mimlre NIL
+SF200 per:date_of_death mimlre NIL
+SF200 per:employee_of mimlre NIL
+SF200 per:member_of mimlre  eng-WL-111-174639-12996116  Super Mac
+SF200 per:origin mimlre NIL
+SF200 per:other_family mimlre NIL
+SF200 per:parents mimlre NIL
+SF200 per:religion mimlre NIL
+SF200 per:schools_attended mimlre NIL
+SF200 per:siblings mimlre NIL
+SF200 per:spouse mimlre NIL
+SF200 per:stateorprovince_of_birth mimlre NIL
+SF200 per:stateorprovince_of_death mimlre NIL
+SF200 per:stateorprovinces_of_residence mimlre NIL
+SF200 per:title mimlre NIL
+SF201 per:age mimlre NIL
+SF201 per:alternate_names mimlre NIL
+SF201 per:cause_of_death mimlre NIL
+SF201 per:charges mimlre NIL
+SF201 per:children mimlre NIL
+SF201 per:cities_of_residence mimlre NIL
+SF201 per:city_of_birth mimlre NIL
+SF201 per:city_of_death mimlre NIL
+SF201 per:countries_of_residence mimlre NIL
+SF201 per:country_of_birth mimlre NIL
+SF201 per:country_of_death mimlre NIL
+SF201 per:date_of_birth mimlre NIL
+SF201 per:date_of_death mimlre NIL
+SF201 per:employee_of mimlre NIL
+SF201 per:member_of mimlre NIL
+SF201 per:origin mimlre NIL
+SF201 per:other_family mimlre NIL
+SF201 per:parents mimlre NIL
+SF201 per:religion mimlre NIL
+SF201 per:schools_attended mimlre NIL
+SF201 per:siblings mimlre NIL
+SF201 per:spouse mimlre NIL
+SF201 per:stateorprovince_of_birth mimlre NIL
+SF201 per:stateorprovince_of_death mimlre NIL
+SF201 per:stateorprovinces_of_residence mimlre NIL
+SF201 per:title mimlre NIL
+SF202 per:age mimlre  APW_ENG_20070515.1673.LDC2009T13  69
+SF202 per:alternate_names mimlre NIL
+SF202 per:cause_of_death mimlre NIL
+SF202 per:charges mimlre NIL
+SF202 per:children mimlre NIL
+SF202 per:cities_of_residence mimlre NIL
+SF202 per:city_of_birth mimlre  NYT_ENG_20071009.0171.LDC2009T13  Tupelo
+SF202 per:city_of_death mimlre NIL
+SF202 per:countries_of_residence mimlre NIL
+SF202 per:country_of_birth mimlre NIL
+SF202 per:country_of_death mimlre NIL
+SF202 per:date_of_birth mimlre NIL
+SF202 per:date_of_death mimlre NIL
+SF202 per:employee_of mimlre NIL
+SF202 per:member_of mimlre  eng-WL-11-174611-12969239  AFA
+SF202 per:member_of mimlre  CNN902-1.941222.LDC98T25  American Family Association
+SF202 per:origin mimlre NIL
+SF202 per:other_family mimlre NIL
+SF202 per:parents mimlre NIL
+SF202 per:religion mimlre NIL
+SF202 per:schools_attended mimlre NIL
+SF202 per:siblings mimlre NIL
+SF202 per:spouse mimlre NIL
+SF202 per:stateorprovince_of_birth mimlre  APW_ENG_20071112.1166.LDC2009T13  Mississippi
+SF202 per:stateorprovince_of_death mimlre NIL
+SF202 per:stateorprovinces_of_residence mimlre NIL
+SF202 per:title mimlre NIL
+SF203 per:age mimlre NIL
+SF203 per:alternate_names mimlre NIL
+SF203 per:cause_of_death mimlre NIL
+SF203 per:charges mimlre  eng-WL-11-174587-12962379  assault
+SF203 per:children mimlre NIL
+SF203 per:cities_of_residence mimlre  eng-WL-11-174572-12946729  Los Angeles
+SF203 per:city_of_birth mimlre  eng-WL-11-174587-12961521  Miami
+SF203 per:city_of_death mimlre NIL
+SF203 per:countries_of_residence mimlre NIL
+SF203 per:country_of_birth mimlre NIL
+SF203 per:country_of_death mimlre NIL
+SF203 per:date_of_birth mimlre NIL
+SF203 per:date_of_death mimlre NIL
+SF203 per:employee_of mimlre NIL
+SF203 per:member_of mimlre NIL
+SF203 per:origin mimlre  eng-WL-11-174572-12949599  American
+SF203 per:other_family mimlre NIL
+SF203 per:parents mimlre NIL
+SF203 per:religion mimlre NIL
+SF203 per:schools_attended mimlre NIL
+SF203 per:siblings mimlre NIL
+SF203 per:spouse mimlre NIL
+SF203 per:stateorprovince_of_birth mimlre  eng-WL-11-174595-12968343  CA
+SF203 per:stateorprovince_of_death mimlre NIL
+SF203 per:stateorprovinces_of_residence mimlre NIL
+SF203 per:title mimlre  eng-WL-11-174572-12949599  musician
+SF204 per:age mimlre NIL
+SF204 per:alternate_names mimlre NIL
+SF204 per:cause_of_death mimlre NIL
+SF204 per:charges mimlre NIL
+SF204 per:children mimlre NIL
+SF204 per:cities_of_residence mimlre NIL
+SF204 per:city_of_birth mimlre  eng-WL-11-174594-12963735  NY City Hall
+SF204 per:city_of_death mimlre NIL
+SF204 per:countries_of_residence mimlre NIL
+SF204 per:country_of_birth mimlre NIL
+SF204 per:country_of_death mimlre NIL
+SF204 per:date_of_birth mimlre NIL
+SF204 per:date_of_death mimlre NIL
+SF204 per:employee_of mimlre NIL
+SF204 per:member_of mimlre NIL
+SF204 per:origin mimlre NIL
+SF204 per:other_family mimlre NIL
+SF204 per:parents mimlre NIL
+SF204 per:religion mimlre NIL
+SF204 per:schools_attended mimlre NIL
+SF204 per:siblings mimlre NIL
+SF204 per:spouse mimlre  APW_ENG_20080207.0029.LDC2009T13  Rebecca Gayheart
+SF204 per:spouse mimlre  eng-WL-11-174643-13000465  Ellen Pompeo
+SF204 per:spouse mimlre  APW_ENG_20080207.0029.LDC2009T13  Debra Messing
+SF204 per:spouse mimlre  eng-WL-11-174594-12963355  Patrick Dempsey
+SF204 per:stateorprovince_of_birth mimlre  eng-WL-11-174592-12941938  Washington
+SF204 per:stateorprovince_of_death mimlre NIL
+SF204 per:stateorprovinces_of_residence mimlre NIL
+SF204 per:title mimlre  eng-WL-11-174594-12963735  producer
+SF204 per:title mimlre  APW_ENG_20071114.0999.LDC2009T13  Mayor
+SF204 per:title mimlre  eng-WL-11-174592-12942490  record producer
+SF205 per:age mimlre NIL
+SF205 per:alternate_names mimlre NIL
+SF205 per:cause_of_death mimlre NIL
+SF205 per:charges mimlre NIL
+SF205 per:children mimlre NIL
+SF205 per:cities_of_residence mimlre NIL
+SF205 per:city_of_birth mimlre NIL
+SF205 per:city_of_death mimlre NIL
+SF205 per:countries_of_residence mimlre NIL
+SF205 per:country_of_birth mimlre  eng-WL-11-174584-12960854  New Zealand
+SF205 per:country_of_death mimlre NIL
+SF205 per:date_of_birth mimlre NIL
+SF205 per:date_of_death mimlre NIL
+SF205 per:employee_of mimlre NIL
+SF205 per:member_of mimlre NIL
+SF205 per:origin mimlre NIL
+SF205 per:other_family mimlre NIL
+SF205 per:parents mimlre NIL
+SF205 per:religion mimlre NIL
+SF205 per:schools_attended mimlre NIL
+SF205 per:siblings mimlre NIL
+SF205 per:spouse mimlre NIL
+SF205 per:stateorprovince_of_birth mimlre  eng-WL-11-174584-12960400  California
+SF205 per:stateorprovince_of_death mimlre NIL
+SF205 per:stateorprovinces_of_residence mimlre NIL
+SF205 per:title mimlre NIL
+SF207 per:age mimlre NIL
+SF207 per:alternate_names mimlre NIL
+SF207 per:cause_of_death mimlre NIL
+SF207 per:charges mimlre NIL
+SF207 per:children mimlre NIL
+SF207 per:cities_of_residence mimlre NIL
+SF207 per:city_of_birth mimlre  eng-WL-109-174581-12950588  New York City
+SF207 per:city_of_death mimlre NIL
+SF207 per:countries_of_residence mimlre NIL
+SF207 per:country_of_birth mimlre NIL
+SF207 per:country_of_death mimlre NIL
+SF207 per:date_of_birth mimlre NIL
+SF207 per:date_of_death mimlre NIL
+SF207 per:employee_of mimlre NIL
+SF207 per:member_of mimlre  APW_ENG_20081108.0105.LDC2009T13  Philip Glass
+SF207 per:origin mimlre  eng-WL-11-174611-12981156  American
+SF207 per:other_family mimlre NIL
+SF207 per:parents mimlre NIL
+SF207 per:religion mimlre NIL
+SF207 per:schools_attended mimlre NIL
+SF207 per:siblings mimlre NIL
+SF207 per:spouse mimlre NIL
+SF207 per:stateorprovince_of_birth mimlre  eng-WL-109-174581-12950588  New York
+SF207 per:stateorprovince_of_death mimlre NIL
+SF207 per:stateorprovinces_of_residence mimlre NIL
+SF207 per:title mimlre  eng-WL-11-174611-12981156  composer
+SF207 per:title mimlre  NYT_ENG_20070527.0022.LDC2009T13  pianist
+SF208 per:age mimlre NIL
+SF208 per:alternate_names mimlre  eng-WL-107-174567-12931837  Hugh Hefner
+SF208 per:alternate_names mimlre  eng-WL-11-174643-12999882  Kendra Baskett
+SF208 per:cause_of_death mimlre NIL
+SF208 per:charges mimlre NIL
+SF208 per:children mimlre  eng-WL-105-174565-12930839  Hank Baskett
+SF208 per:cities_of_residence mimlre NIL
+SF208 per:city_of_birth mimlre  eng-WL-105-174565-12930839  Miami
+SF208 per:city_of_death mimlre NIL
+SF208 per:countries_of_residence mimlre NIL
+SF208 per:country_of_birth mimlre NIL
+SF208 per:country_of_death mimlre NIL
+SF208 per:date_of_birth mimlre NIL
+SF208 per:date_of_death mimlre NIL
+SF208 per:employee_of mimlre NIL
+SF208 per:member_of mimlre NIL
+SF208 per:origin mimlre NIL
+SF208 per:other_family mimlre NIL
+SF208 per:parents mimlre NIL
+SF208 per:religion mimlre NIL
+SF208 per:schools_attended mimlre NIL
+SF208 per:siblings mimlre NIL
+SF208 per:spouse mimlre NIL
+SF208 per:stateorprovince_of_birth mimlre  eng-WL-107-174567-12931837  LA
+SF208 per:stateorprovince_of_death mimlre NIL
+SF208 per:stateorprovinces_of_residence mimlre NIL
+SF208 per:title mimlre NIL
+SF209 org:alternate_names mimlre NIL
+SF209 org:city_of_headquarters mimlre NIL
+SF209 org:country_of_headquarters mimlre NIL
+SF209 org:dissolved mimlre NIL
+SF209 org:founded mimlre NIL
+SF209 org:founded_by mimlre NIL
+SF209 org:member_of mimlre NIL
+SF209 org:members mimlre NIL
+SF209 org:number_of_employees/members mimlre NIL
+SF209 org:parents mimlre NIL
+SF209 org:political/religious_affiliation mimlre NIL
+SF209 org:shareholders mimlre NIL
+SF209 org:stateorprovince_of_headquarters mimlre NIL
+SF209 org:subsidiaries mimlre NIL
+SF209 org:top_members/employees mimlre NIL
+SF209 org:website mimlre NIL
+SF210 org:alternate_names mimlre NIL
+SF210 org:city_of_headquarters mimlre  APW_ENG_20071129.1237.LDC2009T13  London
+SF210 org:country_of_headquarters mimlre  AFP_ENG_20070710.0252.LDC2009T13  England
+SF210 org:dissolved mimlre NIL
+SF210 org:founded mimlre NIL
+SF210 org:founded_by mimlre NIL
+SF210 org:member_of mimlre NIL
+SF210 org:members mimlre NIL
+SF210 org:number_of_employees/members mimlre NIL
+SF210 org:parents mimlre NIL
+SF210 org:political/religious_affiliation mimlre NIL
+SF210 org:shareholders mimlre NIL
+SF210 org:stateorprovince_of_headquarters mimlre  AFP_ENG_20071106.0123.LDC2009T13  Wales
+SF210 org:subsidiaries mimlre NIL
+SF210 org:top_members/employees mimlre  XIN_ENG_20070522.0158.LDC2009T13  Ken Macdonald
+SF210 org:website mimlre NIL
+SF211 per:age mimlre  NYT_ENG_20070302.0252.LDC2009T13  24
+SF211 per:alternate_names mimlre NIL
+SF211 per:cause_of_death mimlre NIL
+SF211 per:charges mimlre NIL
+SF211 per:children mimlre NIL
+SF211 per:cities_of_residence mimlre  eng-WL-11-174592-12943032  Saratoga
+SF211 per:city_of_birth mimlre NIL
+SF211 per:city_of_death mimlre NIL
+SF211 per:countries_of_residence mimlre NIL
+SF211 per:country_of_birth mimlre NIL
+SF211 per:country_of_death mimlre NIL
+SF211 per:date_of_birth mimlre NIL
+SF211 per:date_of_death mimlre NIL
+SF211 per:employee_of mimlre NIL
+SF211 per:member_of mimlre NIL
+SF211 per:origin mimlre  NYT_ENG_20070302.0252.LDC2009T13  Korean
+SF211 per:origin mimlre  NYT_ENG_20070302.0252.LDC2009T13  American
+SF211 per:origin mimlre  eng-WL-110-174626-12995815  French
+SF211 per:other_family mimlre NIL
+SF211 per:parents mimlre NIL
+SF211 per:religion mimlre NIL
+SF211 per:schools_attended mimlre NIL
+SF211 per:siblings mimlre NIL
+SF211 per:spouse mimlre NIL
+SF211 per:stateorprovince_of_birth mimlre  eng-WL-11-174592-12943032  CA
+SF211 per:stateorprovince_of_death mimlre NIL
+SF211 per:stateorprovinces_of_residence mimlre NIL
+SF211 per:title mimlre NIL
+SF212 per:age mimlre  NYT_ENG_20080726.0163.LDC2009T13  34
+SF212 per:alternate_names mimlre NIL
+SF212 per:cause_of_death mimlre NIL
+SF212 per:charges mimlre NIL
+SF212 per:children mimlre NIL
+SF212 per:cities_of_residence mimlre NIL
+SF212 per:city_of_birth mimlre  eng-WL-11-174592-12942309  Portland
+SF212 per:city_of_death mimlre NIL
+SF212 per:countries_of_residence mimlre NIL
+SF212 per:country_of_birth mimlre  NYT_ENG_20080726.0163.LDC2009T13  Mexico
+SF212 per:country_of_death mimlre NIL
+SF212 per:date_of_birth mimlre NIL
+SF212 per:date_of_death mimlre NIL
+SF212 per:employee_of mimlre NIL
+SF212 per:member_of mimlre NIL
+SF212 per:origin mimlre NIL
+SF212 per:other_family mimlre NIL
+SF212 per:parents mimlre NIL
+SF212 per:religion mimlre NIL
+SF212 per:schools_attended mimlre NIL
+SF212 per:siblings mimlre NIL
+SF212 per:spouse mimlre NIL
+SF212 per:stateorprovince_of_birth mimlre  NYT_ENG_20080726.0163.LDC2009T13  Maine
+SF212 per:stateorprovince_of_death mimlre NIL
+SF212 per:stateorprovinces_of_residence mimlre NIL
+SF212 per:title mimlre  eng-WL-11-174595-12968786  model
+SF213 org:alternate_names mimlre  eng-WL-11-174596-12959021  OHRC
+SF213 org:city_of_headquarters mimlre NIL
+SF213 org:country_of_headquarters mimlre  eng-WL-11-174596-12951562  Canada
+SF213 org:dissolved mimlre NIL
+SF213 org:founded mimlre NIL
+SF213 org:founded_by mimlre NIL
+SF213 org:member_of mimlre NIL
+SF213 org:members mimlre NIL
+SF213 org:number_of_employees/members mimlre NIL
+SF213 org:parents mimlre NIL
+SF213 org:political/religious_affiliation mimlre  eng-WL-11-174596-12958306  independent
+SF213 org:political/religious_affiliation mimlre  AFP_ENG_20080427.0022.LDC2009T13  national
+SF213 org:shareholders mimlre NIL
+SF213 org:stateorprovince_of_headquarters mimlre  eng-WL-11-174596-12953475  Ontario
+SF213 org:subsidiaries mimlre NIL
+SF213 org:top_members/employees mimlre  eng-WL-11-174596-12951562  Barbara Hall
+SF213 org:website mimlre NIL
+SF214 org:alternate_names mimlre NIL
+SF214 org:city_of_headquarters mimlre NIL
+SF214 org:country_of_headquarters mimlre NIL
+SF214 org:dissolved mimlre NIL
+SF214 org:founded mimlre NIL
+SF214 org:founded_by mimlre NIL
+SF214 org:member_of mimlre NIL
+SF214 org:members mimlre NIL
+SF214 org:number_of_employees/members mimlre NIL
+SF214 org:parents mimlre NIL
+SF214 org:political/religious_affiliation mimlre  APW_ENG_20070612.1305.LDC2009T13  neutral
+SF214 org:political/religious_affiliation mimlre  APW_ENG_20071115.1110.LDC2009T13  international
+SF214 org:political/religious_affiliation mimlre  APW_ENG_20070701.0515.LDC2009T13  feminist
+SF214 org:political/religious_affiliation mimlre  eng-WL-11-174596-12959510  right
+SF214 org:shareholders mimlre NIL
+SF214 org:stateorprovince_of_headquarters mimlre NIL
+SF214 org:subsidiaries mimlre NIL
+SF214 org:top_members/employees mimlre  eng-WL-11-174596-12954953  Noam Halfon
+SF214 org:top_members/employees mimlre  eng-WL-11-174596-12959510  Aaron Ben-Zeev
+SF214 org:top_members/employees mimlre  eng-WL-11-174596-12959510  Aaron Ben Zeev
+SF214 org:top_members/employees mimlre  NYT_ENG_20070127.0178.LDC2009T13  Atay Citron
+SF214 org:top_members/employees mimlre  APW_ENG_20081113.0932.LDC2009T13  Aharon Ben-Zeev
+SF214 org:website mimlre NIL
+SF215 org:alternate_names mimlre NIL
+SF215 org:city_of_headquarters mimlre  eng-WL-11-174595-12968204  London
+SF215 org:country_of_headquarters mimlre  eng-NG-31-142498-10049449  UK
+SF215 org:dissolved mimlre NIL
+SF215 org:founded mimlre NIL
+SF215 org:founded_by mimlre NIL
+SF215 org:member_of mimlre NIL
+SF215 org:members mimlre NIL
+SF215 org:number_of_employees/members mimlre  AFP_ENG_20071024.0291.LDC2009T13  18
+SF215 org:parents mimlre NIL
+SF215 org:political/religious_affiliation mimlre NIL
+SF215 org:shareholders mimlre NIL
+SF215 org:stateorprovince_of_headquarters mimlre NIL
+SF215 org:subsidiaries mimlre NIL
+SF215 org:top_members/employees mimlre  eng-WL-107-174567-12932582  Doherty
+SF215 org:top_members/employees mimlre  NYT_ENG_20070106.0002.LDC2009T13  Kate Moss
+SF215 org:website mimlre NIL
+SF216 org:alternate_names mimlre NIL
+SF216 org:city_of_headquarters mimlre NIL
+SF216 org:country_of_headquarters mimlre NIL
+SF216 org:dissolved mimlre NIL
+SF216 org:founded mimlre NIL
+SF216 org:founded_by mimlre NIL
+SF216 org:member_of mimlre NIL
+SF216 org:members mimlre NIL
+SF216 org:number_of_employees/members mimlre  eng-WL-108-174570-12988404  forty
+SF216 org:parents mimlre NIL
+SF216 org:political/religious_affiliation mimlre  APW_ENG_20080403.0289.LDC2009T13  independent
+SF216 org:political/religious_affiliation mimlre  AFP_ENG_20071109.0487.LDC2009T13  international
+SF216 org:political/religious_affiliation mimlre  AFP_ENG_20080713.0425.LDC2009T13  moderate
+SF216 org:political/religious_affiliation mimlre  AFP_ENG_20070309.0194.LDC2009T13  national
+SF216 org:shareholders mimlre NIL
+SF216 org:stateorprovince_of_headquarters mimlre NIL
+SF216 org:subsidiaries mimlre NIL
+SF216 org:top_members/employees mimlre  AFP_ENG_20080115.0676.LDC2009T13  Lee Kun-Hee
+SF216 org:top_members/employees mimlre  AFP_ENG_20080402.0552.LDC2009T13  Lee
+SF216 org:top_members/employees mimlre  APW_ENG_20080702.0303.LDC2009T13  Lee Soo-bin
+SF216 org:top_members/employees mimlre  eng-NG-31-145805-10296007  Mark Mitchinson
+SF216 org:top_members/employees mimlre  NYT_ENG_20071119.0253.LDC2009T13  Lee Byung-Chul
+SF216 org:website mimlre NIL
+SF218 org:alternate_names mimlre NIL
+SF218 org:city_of_headquarters mimlre  eng-WL-11-174611-12972779  London
+SF218 org:country_of_headquarters mimlre NIL
+SF218 org:dissolved mimlre NIL
+SF218 org:founded mimlre NIL
+SF218 org:founded_by mimlre NIL
+SF218 org:member_of mimlre NIL
+SF218 org:members mimlre NIL
+SF218 org:number_of_employees/members mimlre NIL
+SF218 org:parents mimlre NIL
+SF218 org:political/religious_affiliation mimlre  eng-WL-11-174611-12972779  International
+SF218 org:political/religious_affiliation mimlre  APW_ENG_20081216.0521.LDC2009T13  center
+SF218 org:shareholders mimlre NIL
+SF218 org:stateorprovince_of_headquarters mimlre  AFP_ENG_20081215.0526.LDC2009T13  New York
+SF218 org:subsidiaries mimlre NIL
+SF218 org:top_members/employees mimlre  eng-WL-11-174611-12972779  Madoff
+SF218 org:website mimlre NIL
+SF219 org:alternate_names mimlre NIL
+SF219 org:city_of_headquarters mimlre NIL
+SF219 org:country_of_headquarters mimlre NIL
+SF219 org:dissolved mimlre NIL
+SF219 org:founded mimlre  APW_ENG_20071012.0854.LDC2009T13  2004
+SF219 org:founded_by mimlre NIL
+SF219 org:member_of mimlre NIL
+SF219 org:members mimlre NIL
+SF219 org:number_of_employees/members mimlre NIL
+SF219 org:parents mimlre NIL
+SF219 org:political/religious_affiliation mimlre  XIN_ENG_20080129.0333.LDC2009T13  international
+SF219 org:political/religious_affiliation mimlre  APW_ENG_20071012.0854.LDC2009T13  left
+SF219 org:shareholders mimlre NIL
+SF219 org:stateorprovince_of_headquarters mimlre NIL
+SF219 org:subsidiaries mimlre NIL
+SF219 org:top_members/employees mimlre  AFP_ENG_20081108.0117.LDC2009T13  Mortier
+SF219 org:website mimlre NIL
+SF220 org:alternate_names mimlre NIL
+SF220 org:city_of_headquarters mimlre NIL
+SF220 org:country_of_headquarters mimlre  XIN_ENG_20080914.0050.LDC2009T13  India
+SF220 org:dissolved mimlre NIL
+SF220 org:founded mimlre NIL
+SF220 org:founded_by mimlre NIL
+SF220 org:member_of mimlre NIL
+SF220 org:members mimlre NIL
+SF220 org:number_of_employees/members mimlre NIL
+SF220 org:parents mimlre NIL
+SF220 org:political/religious_affiliation mimlre  APW_ENG_20081205.0508.LDC2009T13  international
+SF220 org:shareholders mimlre NIL
+SF220 org:stateorprovince_of_headquarters mimlre NIL
+SF220 org:subsidiaries mimlre NIL
+SF220 org:top_members/employees mimlre NIL
+SF220 org:website mimlre NIL
+SF221 org:alternate_names mimlre NIL
+SF221 org:city_of_headquarters mimlre  APW_ENG_20071116.1175.LDC2009T13  Norwood
+SF221 org:country_of_headquarters mimlre  NYT_ENG_20080804.0198.LDC2009T13  New England
+SF221 org:dissolved mimlre NIL
+SF221 org:founded mimlre  NYT_ENG_20080310.0187.LDC2009T13  1997
+SF221 org:founded_by mimlre NIL
+SF221 org:member_of mimlre NIL
+SF221 org:members mimlre NIL
+SF221 org:number_of_employees/members mimlre NIL
+SF221 org:parents mimlre NIL
+SF221 org:political/religious_affiliation mimlre  eng-NG-31-102460-11644766  national
+SF221 org:shareholders mimlre NIL
+SF221 org:stateorprovince_of_headquarters mimlre  APW_ENG_20071116.1175.LDC2009T13  Washington
+SF221 org:subsidiaries mimlre NIL
+SF221 org:top_members/employees mimlre  NYT_ENG_20080310.0187.LDC2009T13  Mike Harris
+SF221 org:website mimlre NIL
+SF222 org:alternate_names mimlre NIL
+SF222 org:city_of_headquarters mimlre  LTW_ENG_20080915.0051.LDC2009T13  Agoura Hills
+SF222 org:country_of_headquarters mimlre NIL
+SF222 org:dissolved mimlre NIL
+SF222 org:founded mimlre NIL
+SF222 org:founded_by mimlre NIL
+SF222 org:member_of mimlre NIL
+SF222 org:members mimlre NIL
+SF222 org:number_of_employees/members mimlre NIL
+SF222 org:parents mimlre NIL
+SF222 org:political/religious_affiliation mimlre  LTW_ENG_20070106.0068.LDC2009T13  right
+SF222 org:shareholders mimlre NIL
+SF222 org:stateorprovince_of_headquarters mimlre  NYT_ENG_20070104.0056.LDC2009T13  Texas
+SF222 org:subsidiaries mimlre NIL
+SF222 org:top_members/employees mimlre  NYT_ENG_20081109.0038.LDC2009T13  William Dallas
+SF222 org:website mimlre NIL
+SF223 org:alternate_names mimlre  NYT_ENG_20080904.0135.LDC2009T13  UNITA
+SF223 org:city_of_headquarters mimlre  APW_ENG_20080904.0421.LDC2009T13  Luanda
+SF223 org:country_of_headquarters mimlre  APW_ENG_20080904.0421.LDC2009T13  Angola
+SF223 org:dissolved mimlre NIL
+SF223 org:founded mimlre  NYT_ENG_20080909.0142.LDC2009T13  1992
+SF223 org:founded_by mimlre NIL
+SF223 org:member_of mimlre NIL
+SF223 org:members mimlre NIL
+SF223 org:number_of_employees/members mimlre NIL
+SF223 org:parents mimlre NIL
+SF223 org:political/religious_affiliation mimlre  APW_ENG_20080509.0893.LDC2009T13  opposition
+SF223 org:political/religious_affiliation mimlre  AFP_ENG_20080809.0299.LDC2009T13  international
+SF223 org:political/religious_affiliation mimlre  XIN_ENG_20080910.0140.LDC2009T13  national
+SF223 org:political/religious_affiliation mimlre  AFP_ENG_20080322.0356.LDC2009T13  apartheid
+SF223 org:political/religious_affiliation mimlre  APW_ENG_20080904.0306.LDC2009T13  independence
+SF223 org:shareholders mimlre NIL
+SF223 org:stateorprovince_of_headquarters mimlre NIL
+SF223 org:subsidiaries mimlre NIL
+SF223 org:top_members/employees mimlre  APW_ENG_20080904.0306.LDC2009T13  Savimbi
+SF223 org:top_members/employees mimlre  APW_ENG_20080904.0306.LDC2009T13  Jonas Savimbi
+SF223 org:website mimlre NIL
+SF225 org:alternate_names mimlre NIL
+SF225 org:city_of_headquarters mimlre  NYT_ENG_20070905.0002.LDC2009T13  Old Lane
+SF225 org:country_of_headquarters mimlre NIL
+SF225 org:dissolved mimlre NIL
+SF225 org:founded mimlre  APW_ENG_20071207.1775.LDC2009T13  2005
+SF225 org:founded_by mimlre NIL
+SF225 org:member_of mimlre NIL
+SF225 org:members mimlre NIL
+SF225 org:number_of_employees/members mimlre NIL
+SF225 org:parents mimlre NIL
+SF225 org:political/religious_affiliation mimlre  NYT_ENG_20080921.0033.LDC2009T13  left
+SF225 org:shareholders mimlre NIL
+SF225 org:stateorprovince_of_headquarters mimlre NIL
+SF225 org:subsidiaries mimlre NIL
+SF225 org:top_members/employees mimlre  NYT_ENG_20080921.0033.LDC2009T13  Citigroup
+SF225 org:website mimlre NIL
+SF227 org:alternate_names mimlre  NYT_ENG_20081031.0087.LDC2009T13  NRCC
+SF227 org:city_of_headquarters mimlre  NYT_ENG_20080910.0156.LDC2009T13  Ken Spain
+SF227 org:country_of_headquarters mimlre NIL
+SF227 org:dissolved mimlre NIL
+SF227 org:founded mimlre NIL
+SF227 org:founded_by mimlre NIL
+SF227 org:member_of mimlre NIL
+SF227 org:members mimlre NIL
+SF227 org:number_of_employees/members mimlre NIL
+SF227 org:parents mimlre NIL
+SF227 org:political/religious_affiliation mimlre NIL
+SF227 org:shareholders mimlre NIL
+SF227 org:stateorprovince_of_headquarters mimlre  APW_ENG_20081023.0044.LDC2009T13  Colorado
+SF227 org:subsidiaries mimlre NIL
+SF227 org:top_members/employees mimlre  NYT_ENG_20080831.0008.LDC2009T13  Tom Cole
+SF227 org:website mimlre NIL
+SF228 org:alternate_names mimlre  APW_ENG_20080717.1155.LDC2009T13  PRCA
+SF228 org:city_of_headquarters mimlre  LTW_ENG_20080127.0022.LDC2009T13  Colorado Springs
+SF228 org:country_of_headquarters mimlre  APW_ENG_20080717.1155.LDC2009T13  United States
+SF228 org:dissolved mimlre NIL
+SF228 org:founded mimlre NIL
+SF228 org:founded_by mimlre NIL
+SF228 org:member_of mimlre NIL
+SF228 org:members mimlre NIL
+SF228 org:number_of_employees/members mimlre NIL
+SF228 org:parents mimlre  APW_ENG_20070215.0180.LDC2009T13  Burlingame
+SF228 org:political/religious_affiliation mimlre  NYT_ENG_20080714.0027.LDC2009T13  center
+SF228 org:political/religious_affiliation mimlre  APW_ENG_20080717.1155.LDC2009T13  national
+SF228 org:political/religious_affiliation mimlre  AFP_ENG_20070523.0369.LDC2009T13  right
+SF228 org:political/religious_affiliation mimlre  APW_ENG_20080717.1155.LDC2009T13  animal welfare
+SF228 org:political/religious_affiliation mimlre  NYT_ENG_20070215.0017.LDC2009T13  Red
+SF228 org:shareholders mimlre NIL
+SF228 org:stateorprovince_of_headquarters mimlre  LTW_ENG_20080127.0022.LDC2009T13  Colorado
+SF228 org:subsidiaries mimlre NIL
+SF228 org:top_members/employees mimlre  APW_ENG_20080129.1389.LDC2009T13  J.B. Mauney
+SF228 org:top_members/employees mimlre  APW_ENG_20071116.0306.LDC2009T13  Troy Ellermen
+SF228 org:top_members/employees mimlre  APW_ENG_20070215.0180.LDC2009T13  Victor Conte
+SF228 org:website mimlre NIL
+SF229 org:alternate_names mimlre  NYT_ENG_20070413.0206.LDC2009T13  St. Anselm College
+SF229 org:alternate_names mimlre  APW_ENG_20071108.1317.LDC2009T13  Saint Anselm College
+SF229 org:city_of_headquarters mimlre  NYT_ENG_20071127.0221.LDC2009T13  Manchester
+SF229 org:country_of_headquarters mimlre  APW_ENG_20071108.1317.LDC2009T13  United States
+SF229 org:dissolved mimlre NIL
+SF229 org:founded mimlre  APW_ENG_20070317.0852.LDC2009T13  1999
+SF229 org:founded_by mimlre NIL
+SF229 org:member_of mimlre NIL
+SF229 org:members mimlre NIL
+SF229 org:number_of_employees/members mimlre  NYT_ENG_20070413.0206.LDC2009T13  250
+SF229 org:parents mimlre NIL
+SF229 org:political/religious_affiliation mimlre  APW_ENG_20071117.0655.LDC2009T13  National
+SF229 org:political/religious_affiliation mimlre  NYT_ENG_20080106.0060.LDC2009T13  independent
+SF229 org:political/religious_affiliation mimlre  APW_ENG_20071108.1317.LDC2009T13  democracy
+SF229 org:shareholders mimlre NIL
+SF229 org:stateorprovince_of_headquarters mimlre  APW_ENG_20081021.0830.LDC2009T13  New Hampshire
+SF229 org:subsidiaries mimlre NIL
+SF229 org:top_members/employees mimlre  NYT_ENG_20080410.0247.LDC2009T13  Jennifer Donahue
+SF229 org:top_members/employees mimlre  NYT_ENG_20071206.0073.LDC2009T13  Paul Christopher Manuel
+SF229 org:top_members/employees mimlre  NYT_ENG_20080110.0011.LDC2009T13  Paul Manuel
+SF229 org:website mimlre NIL
+SF230 org:alternate_names mimlre NIL
+SF230 org:city_of_headquarters mimlre  NYT_ENG_20081208.0046.LDC2009T13  Roxbury
+SF230 org:country_of_headquarters mimlre  AFP_ENG_20080309.0405.LDC2009T13  United States
+SF230 org:dissolved mimlre NIL
+SF230 org:founded mimlre NIL
+SF230 org:founded_by mimlre NIL
+SF230 org:member_of mimlre NIL
+SF230 org:members mimlre NIL
+SF230 org:number_of_employees/members mimlre NIL
+SF230 org:parents mimlre NIL
+SF230 org:political/religious_affiliation mimlre  NYT_ENG_20070104.0245.LDC2009T13  left
+SF230 org:shareholders mimlre NIL
+SF230 org:stateorprovince_of_headquarters mimlre  NYT_ENG_20071029.0111.LDC2009T13  Massachusetts
+SF230 org:subsidiaries mimlre NIL
+SF230 org:top_members/employees mimlre  NYT_ENG_20081208.0046.LDC2009T13  Finneran
+SF230 org:top_members/employees mimlre  NYT_ENG_20080501.0044.LDC2009T13  Salvatore F. DiMasi
+SF230 org:website mimlre NIL
+SF231 per:age mimlre NIL
+SF231 per:alternate_names mimlre NIL
+SF231 per:cause_of_death mimlre NIL
+SF231 per:charges mimlre NIL
+SF231 per:children mimlre NIL
+SF231 per:cities_of_residence mimlre NIL
+SF231 per:city_of_birth mimlre NIL
+SF231 per:city_of_death mimlre NIL
+SF231 per:countries_of_residence mimlre NIL
+SF231 per:country_of_birth mimlre  APW_ENG_20071227.0823.LDC2009T13  Finland
+SF231 per:country_of_death mimlre NIL
+SF231 per:date_of_birth mimlre NIL
+SF231 per:date_of_death mimlre NIL
+SF231 per:employee_of mimlre NIL
+SF231 per:member_of mimlre  AFP_ENG_20080315.0478.LDC2009T13  McLaren
+SF231 per:origin mimlre  AFP_ENG_20081019.0361.LDC2009T13  Chinese
+SF231 per:origin mimlre  AFP_ENG_20080720.0211.LDC2009T13  German
+SF231 per:origin mimlre  AFP_ENG_20070930.0425.LDC2009T13  Japanese
+SF231 per:origin mimlre  AFP_ENG_20080805.0296.LDC2009T13  British
+SF231 per:origin mimlre  APW_ENG_20081101.0340.LDC2009T13  Hungarian
+SF231 per:origin mimlre  APW_ENG_20080912.0624.LDC2009T13  Belgian
+SF231 per:origin mimlre  AFP_ENG_20080316.0403.LDC2009T13  Australian
+SF231 per:origin mimlre  AFP_ENG_20080706.0196.LDC2009T13  Briton
+SF231 per:other_family mimlre NIL
+SF231 per:parents mimlre NIL
+SF231 per:religion mimlre NIL
+SF231 per:schools_attended mimlre NIL
+SF231 per:siblings mimlre NIL
+SF231 per:spouse mimlre NIL
+SF231 per:stateorprovince_of_birth mimlre NIL
+SF231 per:stateorprovince_of_death mimlre NIL
+SF231 per:stateorprovinces_of_residence mimlre NIL
+SF231 per:title mimlre NIL
+SF232 org:alternate_names mimlre NIL
+SF232 org:city_of_headquarters mimlre  APW_ENG_20080924.1420.LDC2009T13  Central Florida
+SF232 org:country_of_headquarters mimlre NIL
+SF232 org:dissolved mimlre NIL
+SF232 org:founded mimlre NIL
+SF232 org:founded_by mimlre NIL
+SF232 org:member_of mimlre NIL
+SF232 org:members mimlre NIL
+SF232 org:number_of_employees/members mimlre NIL
+SF232 org:parents mimlre NIL
+SF232 org:political/religious_affiliation mimlre  NYT_ENG_20070327.0226.LDC2009T13  Center
+SF232 org:shareholders mimlre NIL
+SF232 org:stateorprovince_of_headquarters mimlre NIL
+SF232 org:subsidiaries mimlre NIL
+SF232 org:top_members/employees mimlre  NYT_ENG_20070728.0068.LDC2009T13  Richard Lapchick
+SF232 org:top_members/employees mimlre  NYT_ENG_20070303.0087.LDC2009T13  Lapchick
+SF232 org:top_members/employees mimlre  NYT_ENG_20070127.0098.LDC2009T13  Richard E. Lapchick
+SF232 org:website mimlre NIL
+SF234 org:alternate_names mimlre NIL
+SF234 org:city_of_headquarters mimlre  NYT_ENG_20070510.0232.LDC2009T13  Parsippany
+SF234 org:country_of_headquarters mimlre NIL
+SF234 org:dissolved mimlre NIL
+SF234 org:founded mimlre  NYT_ENG_20070404.0010.LDC2009T13  1982
+SF234 org:founded_by mimlre NIL
+SF234 org:member_of mimlre NIL
+SF234 org:members mimlre NIL
+SF234 org:number_of_employees/members mimlre NIL
+SF234 org:parents mimlre NIL
+SF234 org:political/religious_affiliation mimlre  NYT_ENG_20070406.0114.LDC2009T13  independence
+SF234 org:political/religious_affiliation mimlre  NYT_ENG_20070404.0020.LDC2009T13  center
+SF234 org:political/religious_affiliation mimlre  NYT_ENG_20070410.0163.LDC2009T13  unaffiliated
+SF234 org:shareholders mimlre NIL
+SF234 org:stateorprovince_of_headquarters mimlre  NYT_ENG_20070406.0114.LDC2009T13  Georgia
+SF234 org:subsidiaries mimlre NIL
+SF234 org:top_members/employees mimlre  NYT_ENG_20070410.0163.LDC2009T13  Fred Goldberg
+SF234 org:top_members/employees mimlre  NYT_ENG_20070406.0114.LDC2009T13  Michael Lister
+SF234 org:top_members/employees mimlre  NYT_ENG_20070323.0091.LDC2009T13  John Hewitt
+SF234 org:top_members/employees mimlre  NYT_ENG_20070404.0010.LDC2009T13  Cendant
+SF234 org:website mimlre NIL
+SF235 org:alternate_names mimlre NIL
+SF235 org:city_of_headquarters mimlre  NYT_ENG_20071217.0234.LDC2009T13  Kansas City
+SF235 org:country_of_headquarters mimlre NIL
+SF235 org:dissolved mimlre NIL
+SF235 org:founded mimlre NIL
+SF235 org:founded_by mimlre NIL
+SF235 org:member_of mimlre NIL
+SF235 org:members mimlre NIL
+SF235 org:number_of_employees/members mimlre NIL
+SF235 org:parents mimlre  NYT_ENG_20081020.0160.LDC2009T13  JBS
+SF235 org:parents mimlre  APW_ENG_20080305.0053.LDC2009T13  JBS SA
+SF235 org:political/religious_affiliation mimlre NIL
+SF235 org:shareholders mimlre NIL
+SF235 org:stateorprovince_of_headquarters mimlre  APW_ENG_20081020.0873.LDC2009T13  Missouri
+SF235 org:subsidiaries mimlre NIL
+SF235 org:top_members/employees mimlre NIL
+SF235 org:website mimlre NIL
+SF236 org:alternate_names mimlre  NYT_ENG_20070426.0080.LDC2009T13  NMFA
+SF236 org:city_of_headquarters mimlre  NYT_ENG_20080428.0004.LDC2009T13  Alexandria
+SF236 org:country_of_headquarters mimlre  eng-NG-31-102460-11230088  Afghanistan
+SF236 org:dissolved mimlre NIL
+SF236 org:founded mimlre NIL
+SF236 org:founded_by mimlre NIL
+SF236 org:member_of mimlre  NYT_ENG_20071016.0076.LDC2009T13  Smart Television Alliance
+SF236 org:members mimlre NIL
+SF236 org:number_of_employees/members mimlre NIL
+SF236 org:parents mimlre NIL
+SF236 org:political/religious_affiliation mimlre NIL
+SF236 org:shareholders mimlre NIL
+SF236 org:stateorprovince_of_headquarters mimlre  LTW_ENG_20070801.0124.LDC2009T13  Virginia
+SF236 org:subsidiaries mimlre NIL
+SF236 org:top_members/employees mimlre  LTW_ENG_20070217.0013.LDC2009T13  Raezer
+SF236 org:website mimlre NIL
+SF237 org:alternate_names mimlre NIL
+SF237 org:city_of_headquarters mimlre  APW_ENG_20080430.0264.LDC2009T13  Basel
+SF237 org:country_of_headquarters mimlre  APW_ENG_20080430.0264.LDC2009T13  Switzerland
+SF237 org:dissolved mimlre NIL
+SF237 org:founded mimlre  NYT_ENG_20080429.0226.LDC2009T13  1984
+SF237 org:founded_by mimlre NIL
+SF237 org:member_of mimlre NIL
+SF237 org:members mimlre NIL
+SF237 org:number_of_employees/members mimlre  APW_ENG_20080430.0264.LDC2009T13  1
+SF237 org:parents mimlre NIL
+SF237 org:political/religious_affiliation mimlre  LTW_ENG_20070524.0093.LDC2009T13  National
+SF237 org:shareholders mimlre NIL
+SF237 org:stateorprovince_of_headquarters mimlre NIL
+SF237 org:subsidiaries mimlre NIL
+SF237 org:top_members/employees mimlre  APW_ENG_20080311.1540.LDC2009T13  Rick Doblin
+SF237 org:website mimlre NIL
+SF240 org:alternate_names mimlre NIL
+SF240 org:city_of_headquarters mimlre  LTW_ENG_20070424.0004.LDC2009T13  Los Angeles
+SF240 org:country_of_headquarters mimlre NIL
+SF240 org:dissolved mimlre NIL
+SF240 org:founded mimlre  LTW_ENG_20070424.0003.LDC2009T13  1987
+SF240 org:founded_by mimlre NIL
+SF240 org:member_of mimlre NIL
+SF240 org:members mimlre NIL
+SF240 org:number_of_employees/members mimlre NIL
+SF240 org:parents mimlre NIL
+SF240 org:political/religious_affiliation mimlre  LTW_ENG_20070424.0022.LDC2009T13  international
+SF240 org:shareholders mimlre NIL
+SF240 org:stateorprovince_of_headquarters mimlre  LTW_ENG_20081028.0035.LDC2009T13  New York
+SF240 org:subsidiaries mimlre NIL
+SF240 org:top_members/employees mimlre  LTW_ENG_20070907.0062.LDC2009T13  Wilhelmina
+SF240 org:top_members/employees mimlre  LTW_ENG_20081028.0036.LDC2009T13  Nan Goldin
+SF240 org:top_members/employees mimlre  LTW_ENG_20070907.0062.LDC2009T13  Judy Larson
+SF240 org:top_members/employees mimlre  LTW_ENG_20070907.0062.LDC2009T13  Wilhelmina Cole Holladay
+SF240 org:top_members/employees mimlre  LTW_ENG_20070907.0062.LDC2009T13  Larson
+SF240 org:website mimlre NIL
+SF241 per:age mimlre NIL
+SF241 per:alternate_names mimlre NIL
+SF241 per:cause_of_death mimlre NIL
+SF241 per:charges mimlre NIL
+SF241 per:children mimlre NIL
+SF241 per:cities_of_residence mimlre NIL
+SF241 per:city_of_birth mimlre NIL
+SF241 per:city_of_death mimlre NIL
+SF241 per:countries_of_residence mimlre NIL
+SF241 per:country_of_birth mimlre NIL
+SF241 per:country_of_death mimlre NIL
+SF241 per:date_of_birth mimlre NIL
+SF241 per:date_of_death mimlre NIL
+SF241 per:employee_of mimlre NIL
+SF241 per:member_of mimlre NIL
+SF241 per:origin mimlre  eng-WL-11-174598-12966692  American
+SF241 per:other_family mimlre NIL
+SF241 per:parents mimlre NIL
+SF241 per:religion mimlre NIL
+SF241 per:schools_attended mimlre NIL
+SF241 per:siblings mimlre NIL
+SF241 per:spouse mimlre NIL
+SF241 per:stateorprovince_of_birth mimlre NIL
+SF241 per:stateorprovince_of_death mimlre NIL
+SF241 per:stateorprovinces_of_residence mimlre NIL
+SF241 per:title mimlre  eng-WL-11-174598-12966506  model
+SF242 org:alternate_names mimlre NIL
+SF242 org:city_of_headquarters mimlre NIL
+SF242 org:country_of_headquarters mimlre  APW_ENG_20071029.0283.LDC2009T13  Japan
+SF242 org:dissolved mimlre NIL
+SF242 org:founded mimlre NIL
+SF242 org:founded_by mimlre NIL
+SF242 org:member_of mimlre NIL
+SF242 org:members mimlre NIL
+SF242 org:number_of_employees/members mimlre NIL
+SF242 org:parents mimlre NIL
+SF242 org:political/religious_affiliation mimlre NIL
+SF242 org:shareholders mimlre NIL
+SF242 org:stateorprovince_of_headquarters mimlre NIL
+SF242 org:subsidiaries mimlre NIL
+SF242 org:top_members/employees mimlre  AFP_ENG_20070406.0172.LDC2009T13  Hoya
+SF242 org:top_members/employees mimlre  AFP_ENG_20070409.0012.LDC2009T13  Fumio Urano
+SF242 org:top_members/employees mimlre  AFP_ENG_20070410.0053.LDC2009T13  Takashi Watanuki
+SF242 org:website mimlre NIL
+SF245 per:age mimlre  eng-WL-11-174643-12999935  48
+SF245 per:alternate_names mimlre NIL
+SF245 per:cause_of_death mimlre  eng-WL-11-174643-12999935  childbirth
+SF245 per:charges mimlre NIL
+SF245 per:children mimlre NIL
+SF245 per:cities_of_residence mimlre NIL
+SF245 per:city_of_birth mimlre  eng-WL-11-174643-12999935  Blackburn
+SF245 per:city_of_death mimlre NIL
+SF245 per:countries_of_residence mimlre NIL
+SF245 per:country_of_birth mimlre  eng-WL-11-174611-12976276  UK
+SF245 per:country_of_death mimlre NIL
+SF245 per:date_of_birth mimlre NIL
+SF245 per:date_of_death mimlre  eng-WL-11-174643-12999935  1990
+SF245 per:employee_of mimlre NIL
+SF245 per:member_of mimlre NIL
+SF245 per:origin mimlre  eng-WL-11-174643-12999668  Scottish
+SF245 per:other_family mimlre NIL
+SF245 per:parents mimlre NIL
+SF245 per:religion mimlre NIL
+SF245 per:schools_attended mimlre NIL
+SF245 per:siblings mimlre NIL
+SF245 per:spouse mimlre NIL
+SF245 per:stateorprovince_of_birth mimlre NIL
+SF245 per:stateorprovince_of_death mimlre NIL
+SF245 per:stateorprovinces_of_residence mimlre NIL
+SF245 per:title mimlre  eng-WL-11-174643-12999776  singer
+SF247 org:alternate_names mimlre NIL
+SF247 org:city_of_headquarters mimlre  eng-NG-31-146349-10375803  Dubai
+SF247 org:country_of_headquarters mimlre  XIN_ENG_20080722.0108.LDC2009T13  Malaysia
+SF247 org:dissolved mimlre NIL
+SF247 org:founded mimlre  XIN_ENG_20080526.0104.LDC2009T13  1968
+SF247 org:founded_by mimlre NIL
+SF247 org:member_of mimlre NIL
+SF247 org:members mimlre NIL
+SF247 org:number_of_employees/members mimlre NIL
+SF247 org:parents mimlre NIL
+SF247 org:political/religious_affiliation mimlre  APW_ENG_20071127.0470.LDC2009T13  national
+SF247 org:political/religious_affiliation mimlre  XIN_ENG_20080526.0104.LDC2009T13  right
+SF247 org:political/religious_affiliation mimlre  APW_ENG_20071117.0155.LDC2009T13  left
+SF247 org:shareholders mimlre NIL
+SF247 org:stateorprovince_of_headquarters mimlre NIL
+SF247 org:subsidiaries mimlre NIL
+SF247 org:top_members/employees mimlre  XIN_ENG_20070227.0228.LDC2009T13  Yong Soo Heong
+SF247 org:top_members/employees mimlre  AFP_ENG_20070729.0279.LDC2009T13  Zainuddin Maidin
+SF247 org:top_members/employees mimlre  XIN_ENG_20070227.0228.LDC2009T13  Annuar
+SF247 org:top_members/employees mimlre  XIN_ENG_20070227.0228.LDC2009T13  Azman Ujang
+SF247 org:top_members/employees mimlre  XIN_ENG_20070227.0228.LDC2009T13  Mohd Annuar Zaini
+SF247 org:website mimlre NIL
+SF248 per:age mimlre NIL
+SF248 per:alternate_names mimlre NIL
+SF248 per:cause_of_death mimlre NIL
+SF248 per:charges mimlre NIL
+SF248 per:children mimlre NIL
+SF248 per:cities_of_residence mimlre  APW_ENG_20080902.0132.LDC2009T13  New Orleans
+SF248 per:city_of_birth mimlre NIL
+SF248 per:city_of_death mimlre NIL
+SF248 per:countries_of_residence mimlre NIL
+SF248 per:country_of_birth mimlre  eng-WL-11-174611-12978933  New
+SF248 per:country_of_death mimlre NIL
+SF248 per:date_of_birth mimlre NIL
+SF248 per:date_of_death mimlre NIL
+SF248 per:employee_of mimlre NIL
+SF248 per:member_of mimlre NIL
+SF248 per:origin mimlre NIL
+SF248 per:other_family mimlre NIL
+SF248 per:parents mimlre NIL
+SF248 per:religion mimlre NIL
+SF248 per:schools_attended mimlre NIL
+SF248 per:siblings mimlre NIL
+SF248 per:spouse mimlre  eng-WL-11-174579-12937351  Portia de Rossi
+SF248 per:spouse mimlre  eng-WL-107-174567-12932492  Rossi
+SF248 per:stateorprovince_of_birth mimlre  eng-WL-11-174611-12975711  Louisiana
+SF248 per:stateorprovince_of_death mimlre NIL
+SF248 per:stateorprovinces_of_residence mimlre NIL
+SF248 per:title mimlre NIL
+SF250 org:alternate_names mimlre NIL
+SF250 org:city_of_headquarters mimlre NIL
+SF250 org:country_of_headquarters mimlre NIL
+SF250 org:dissolved mimlre NIL
+SF250 org:founded mimlre  NYT_ENG_20070201.0299.LDC2009T13  2003
+SF250 org:founded_by mimlre NIL
+SF250 org:member_of mimlre NIL
+SF250 org:members mimlre NIL
+SF250 org:number_of_employees/members mimlre NIL
+SF250 org:parents mimlre  APW_ENG_20080912.0454.LDC2009T13  Columbia
+SF250 org:political/religious_affiliation mimlre NIL
+SF250 org:shareholders mimlre NIL
+SF250 org:stateorprovince_of_headquarters mimlre  LTW_ENG_20070814.0132.LDC2009T13  Washington
+SF250 org:subsidiaries mimlre NIL
+SF250 org:top_members/employees mimlre  APW_ENG_20070202.1674.LDC2009T13  Dr. Irwin Redlener
+SF250 org:top_members/employees mimlre  LTW_ENG_20070814.0132.LDC2009T13  Irwin Redlener
+SF250 org:website mimlre NIL
+SF251 org:alternate_names mimlre NIL
+SF251 org:city_of_headquarters mimlre  NYT_ENG_20070728.0102.LDC2009T13  Longwood
+SF251 org:country_of_headquarters mimlre NIL
+SF251 org:dissolved mimlre NIL
+SF251 org:founded mimlre NIL
+SF251 org:founded_by mimlre NIL
+SF251 org:member_of mimlre NIL
+SF251 org:members mimlre NIL
+SF251 org:number_of_employees/members mimlre NIL
+SF251 org:parents mimlre NIL
+SF251 org:political/religious_affiliation mimlre  LTW_ENG_20070811.0010.LDC2009T13  left
+SF251 org:political/religious_affiliation mimlre  NYT_ENG_20070518.0055.LDC2009T13  evangelical
+SF251 org:shareholders mimlre NIL
+SF251 org:stateorprovince_of_headquarters mimlre  LTW_ENG_20070811.0010.LDC2009T13  Florida
+SF251 org:subsidiaries mimlre NIL
+SF251 org:top_members/employees mimlre NIL
+SF251 org:website mimlre NIL
+SF252 org:alternate_names mimlre NIL
+SF252 org:city_of_headquarters mimlre NIL
+SF252 org:country_of_headquarters mimlre NIL
+SF252 org:dissolved mimlre NIL
+SF252 org:founded mimlre NIL
+SF252 org:founded_by mimlre NIL
+SF252 org:member_of mimlre NIL
+SF252 org:members mimlre NIL
+SF252 org:number_of_employees/members mimlre NIL
+SF252 org:parents mimlre NIL
+SF252 org:political/religious_affiliation mimlre NIL
+SF252 org:shareholders mimlre NIL
+SF252 org:stateorprovince_of_headquarters mimlre  AFP_ENG_20080819.0190.LDC2009T13  California
+SF252 org:subsidiaries mimlre NIL
+SF252 org:top_members/employees mimlre  XIN_ENG_20071020.0186.LDC2009T13  Ali
+SF252 org:top_members/employees mimlre  XIN_ENG_20071020.0186.LDC2009T13  Najee Ali
+SF252 org:website mimlre NIL
+SF253 org:alternate_names mimlre NIL
+SF253 org:city_of_headquarters mimlre NIL
+SF253 org:country_of_headquarters mimlre NIL
+SF253 org:dissolved mimlre NIL
+SF253 org:founded mimlre NIL
+SF253 org:founded_by mimlre NIL
+SF253 org:member_of mimlre NIL
+SF253 org:members mimlre NIL
+SF253 org:number_of_employees/members mimlre NIL
+SF253 org:parents mimlre NIL
+SF253 org:political/religious_affiliation mimlre NIL
+SF253 org:shareholders mimlre NIL
+SF253 org:stateorprovince_of_headquarters mimlre NIL
+SF253 org:subsidiaries mimlre NIL
+SF253 org:top_members/employees mimlre NIL
+SF253 org:website mimlre NIL
+SF254 org:alternate_names mimlre NIL
+SF254 org:city_of_headquarters mimlre NIL
+SF254 org:country_of_headquarters mimlre NIL
+SF254 org:dissolved mimlre NIL
+SF254 org:founded mimlre NIL
+SF254 org:founded_by mimlre NIL
+SF254 org:member_of mimlre NIL
+SF254 org:members mimlre NIL
+SF254 org:number_of_employees/members mimlre NIL
+SF254 org:parents mimlre NIL
+SF254 org:political/religious_affiliation mimlre NIL
+SF254 org:shareholders mimlre NIL
+SF254 org:stateorprovince_of_headquarters mimlre NIL
+SF254 org:subsidiaries mimlre NIL
+SF254 org:top_members/employees mimlre NIL
+SF254 org:website mimlre NIL
+SF255 org:alternate_names mimlre NIL
+SF255 org:city_of_headquarters mimlre NIL
+SF255 org:country_of_headquarters mimlre  XIN_ENG_20080903.0310.LDC2009T13  China
+SF255 org:dissolved mimlre NIL
+SF255 org:founded mimlre NIL
+SF255 org:founded_by mimlre NIL
+SF255 org:member_of mimlre NIL
+SF255 org:members mimlre NIL
+SF255 org:number_of_employees/members mimlre NIL
+SF255 org:parents mimlre NIL
+SF255 org:political/religious_affiliation mimlre NIL
+SF255 org:shareholders mimlre NIL
+SF255 org:stateorprovince_of_headquarters mimlre NIL
+SF255 org:subsidiaries mimlre NIL
+SF255 org:top_members/employees mimlre  XIN_ENG_20080903.0308.LDC2009T13  Ma Zongjin
+SF255 org:website mimlre NIL
+SF256 org:alternate_names mimlre NIL
+SF256 org:city_of_headquarters mimlre NIL
+SF256 org:country_of_headquarters mimlre  APW_ENG_20080701.0070.LDC2009T13  United States
+SF256 org:dissolved mimlre NIL
+SF256 org:founded mimlre NIL
+SF256 org:founded_by mimlre NIL
+SF256 org:member_of mimlre NIL
+SF256 org:members mimlre NIL
+SF256 org:number_of_employees/members mimlre NIL
+SF256 org:parents mimlre NIL
+SF256 org:political/religious_affiliation mimlre  AFP_ENG_20080425.0022.LDC2009T13  International
+SF256 org:shareholders mimlre NIL
+SF256 org:stateorprovince_of_headquarters mimlre  APW_ENG_20080520.0333.LDC2009T13  Illinois
+SF256 org:subsidiaries mimlre NIL
+SF256 org:top_members/employees mimlre NIL
+SF256 org:website mimlre NIL
+SF257 org:alternate_names mimlre NIL
+SF257 org:city_of_headquarters mimlre  APW_ENG_20070222.1417.LDC2009T13  Mittal
+SF257 org:country_of_headquarters mimlre  APW_ENG_20070201.0341.LDC2009T13  Luxembourg
+SF257 org:dissolved mimlre NIL
+SF257 org:founded mimlre NIL
+SF257 org:founded_by mimlre NIL
+SF257 org:member_of mimlre NIL
+SF257 org:members mimlre NIL
+SF257 org:number_of_employees/members mimlre NIL
+SF257 org:parents mimlre NIL
+SF257 org:political/religious_affiliation mimlre  APW_ENG_20070416.1273.LDC2009T13  labor
+SF257 org:political/religious_affiliation mimlre  APW_ENG_20070220.1017.LDC2009T13  right
+SF257 org:political/religious_affiliation mimlre  APW_ENG_20070201.0341.LDC2009T13  neutral
+SF257 org:shareholders mimlre NIL
+SF257 org:stateorprovince_of_headquarters mimlre  APW_ENG_20070220.1460.LDC2009T13  West Virginia
+SF257 org:subsidiaries mimlre NIL
+SF257 org:top_members/employees mimlre  APW_ENG_20070220.1460.LDC2009T13  Mark Glyptis
+SF257 org:top_members/employees mimlre  APW_ENG_20070201.0341.LDC2009T13  James Bouchard
+SF257 org:website mimlre NIL
+SF258 org:alternate_names mimlre NIL
+SF258 org:city_of_headquarters mimlre  AFP_ENG_20081128.0619.LDC2009T13  Mumbai
+SF258 org:country_of_headquarters mimlre  eng-WL-11-174596-12950865  Indonesia
+SF258 org:dissolved mimlre NIL
+SF258 org:founded mimlre NIL
+SF258 org:founded_by mimlre NIL
+SF258 org:member_of mimlre NIL
+SF258 org:members mimlre NIL
+SF258 org:number_of_employees/members mimlre NIL
+SF258 org:parents mimlre NIL
+SF258 org:political/religious_affiliation mimlre NIL
+SF258 org:shareholders mimlre NIL
+SF258 org:stateorprovince_of_headquarters mimlre NIL
+SF258 org:subsidiaries mimlre NIL
+SF258 org:top_members/employees mimlre NIL
+SF258 org:website mimlre NIL
+SF259 org:alternate_names mimlre NIL
+SF259 org:city_of_headquarters mimlre  AFP_ENG_20071111.0346.LDC2009T13  Jerusalem
+SF259 org:country_of_headquarters mimlre  AFP_ENG_20071105.0300.LDC2009T13  Israel
+SF259 org:dissolved mimlre NIL
+SF259 org:founded mimlre NIL
+SF259 org:founded_by mimlre NIL
+SF259 org:member_of mimlre NIL
+SF259 org:members mimlre NIL
+SF259 org:number_of_employees/members mimlre NIL
+SF259 org:parents mimlre  eng-NG-31-142150-10025651  Army
+SF259 org:political/religious_affiliation mimlre  eng-WL-11-174596-12953087  International
+SF259 org:political/religious_affiliation mimlre  APW_ENG_20070924.1185.LDC2009T13  right
+SF259 org:political/religious_affiliation mimlre  eng-WL-11-174596-12953087  national
+SF259 org:shareholders mimlre NIL
+SF259 org:stateorprovince_of_headquarters mimlre  eng-NG-31-142150-10025651  Hawaii
+SF259 org:subsidiaries mimlre NIL
+SF259 org:top_members/employees mimlre NIL
+SF259 org:website mimlre NIL
+SF260 org:alternate_names mimlre NIL
+SF260 org:city_of_headquarters mimlre  NYT_ENG_20070204.0006.LDC2009T13  Phoenix
+SF260 org:country_of_headquarters mimlre NIL
+SF260 org:dissolved mimlre NIL
+SF260 org:founded mimlre NIL
+SF260 org:founded_by mimlre NIL
+SF260 org:member_of mimlre NIL
+SF260 org:members mimlre NIL
+SF260 org:number_of_employees/members mimlre  NYT_ENG_20070920.0130.LDC2009T13  15
+SF260 org:parents mimlre NIL
+SF260 org:political/religious_affiliation mimlre  NYT_ENG_20070204.0006.LDC2009T13  left
+SF260 org:shareholders mimlre NIL
+SF260 org:stateorprovince_of_headquarters mimlre  NYT_ENG_20070917.0134.LDC2009T13  Arizona
+SF260 org:subsidiaries mimlre NIL
+SF260 org:top_members/employees mimlre NIL
+SF260 org:website mimlre NIL
+SF261 org:alternate_names mimlre NIL
+SF261 org:city_of_headquarters mimlre  NYT_ENG_20080522.0276.LDC2009T13  Jerusalem
+SF261 org:country_of_headquarters mimlre  NYT_ENG_20080522.0276.LDC2009T13  Israel
+SF261 org:dissolved mimlre NIL
+SF261 org:founded mimlre NIL
+SF261 org:founded_by mimlre  LTW_ENG_20080509.0103.LDC2009T13  Olmert
+SF261 org:member_of mimlre NIL
+SF261 org:members mimlre NIL
+SF261 org:number_of_employees/members mimlre NIL
+SF261 org:parents mimlre NIL
+SF261 org:political/religious_affiliation mimlre NIL
+SF261 org:shareholders mimlre NIL
+SF261 org:stateorprovince_of_headquarters mimlre NIL
+SF261 org:subsidiaries mimlre NIL
+SF261 org:top_members/employees mimlre  LTW_ENG_20080509.0103.LDC2009T13  Olmert
+SF261 org:website mimlre NIL
+SF263 org:alternate_names mimlre NIL
+SF263 org:city_of_headquarters mimlre  APW_ENG_20071211.0028.LDC2009T13  Chesterfield
+SF263 org:country_of_headquarters mimlre  NYT_ENG_20081203.0146.LDC2009T13  United States
+SF263 org:dissolved mimlre NIL
+SF263 org:founded mimlre  NYT_ENG_20071207.0121.LDC2009T13  1955
+SF263 org:founded_by mimlre NIL
+SF263 org:member_of mimlre NIL
+SF263 org:members mimlre NIL
+SF263 org:number_of_employees/members mimlre NIL
+SF263 org:parents mimlre NIL
+SF263 org:political/religious_affiliation mimlre  NYT_ENG_20071123.0155.LDC2009T13  national
+SF263 org:shareholders mimlre NIL
+SF263 org:stateorprovince_of_headquarters mimlre  APW_ENG_20071120.0379.LDC2009T13  Missouri
+SF263 org:subsidiaries mimlre NIL
+SF263 org:top_members/employees mimlre NIL
+SF263 org:website mimlre NIL
+SF264 org:alternate_names mimlre NIL
+SF264 org:city_of_headquarters mimlre NIL
+SF264 org:country_of_headquarters mimlre NIL
+SF264 org:dissolved mimlre NIL
+SF264 org:founded mimlre  LTW_ENG_20070804.0046.LDC2009T13  1973
+SF264 org:founded_by mimlre NIL
+SF264 org:member_of mimlre NIL
+SF264 org:members mimlre NIL
+SF264 org:number_of_employees/members mimlre NIL
+SF264 org:parents mimlre NIL
+SF264 org:political/religious_affiliation mimlre NIL
+SF264 org:shareholders mimlre NIL
+SF264 org:stateorprovince_of_headquarters mimlre  eng-NG-31-126512-12055955  California
+SF264 org:subsidiaries mimlre NIL
+SF264 org:top_members/employees mimlre NIL
+SF264 org:website mimlre NIL
+SF266 org:alternate_names mimlre NIL
+SF266 org:city_of_headquarters mimlre NIL
+SF266 org:country_of_headquarters mimlre  APW_ENG_20070316.0421.LDC2009T13  South
+SF266 org:dissolved mimlre NIL
+SF266 org:founded mimlre NIL
+SF266 org:founded_by mimlre NIL
+SF266 org:member_of mimlre NIL
+SF266 org:members mimlre NIL
+SF266 org:number_of_employees/members mimlre NIL
+SF266 org:parents mimlre NIL
+SF266 org:political/religious_affiliation mimlre  XIN_ENG_20081218.0087.LDC2009T13  left
+SF266 org:political/religious_affiliation mimlre  APW_ENG_20080521.1140.LDC2009T13  international
+SF266 org:political/religious_affiliation mimlre  XIN_ENG_20070605.0254.LDC2009T13  national
+SF266 org:shareholders mimlre NIL
+SF266 org:stateorprovince_of_headquarters mimlre NIL
+SF266 org:subsidiaries mimlre NIL
+SF266 org:top_members/employees mimlre  APW_ENG_20070316.0421.LDC2009T13  Han Wan-sang
+SF266 org:top_members/employees mimlre  XIN_ENG_20080807.0082.LDC2009T13  Gwendolyn T. Pang
+SF266 org:website mimlre NIL
+SF267 per:age mimlre NIL
+SF267 per:alternate_names mimlre NIL
+SF267 per:cause_of_death mimlre NIL
+SF267 per:charges mimlre NIL
+SF267 per:children mimlre NIL
+SF267 per:cities_of_residence mimlre  eng-WL-11-174611-12982057  Detroit
+SF267 per:city_of_birth mimlre NIL
+SF267 per:city_of_death mimlre NIL
+SF267 per:countries_of_residence mimlre NIL
+SF267 per:country_of_birth mimlre  APW_ENG_20070708.0671.LDC2009T13  United States
+SF267 per:country_of_death mimlre NIL
+SF267 per:date_of_birth mimlre NIL
+SF267 per:date_of_death mimlre NIL
+SF267 per:employee_of mimlre  NYT_ENG_20070326.0095.LDC2009T13  Georgia
+SF267 per:employee_of mimlre  LTW_ENG_20070710.0106.LDC2009T13  University of Virginia
+SF267 per:member_of mimlre  eng-WL-11-174611-12976916  NAACP
+SF267 per:member_of mimlre  eng-WL-11-174611-12976571  LGBT
+SF267 per:member_of mimlre  APW_ENG_20080714.0100.LDC2009T13  Democratic
+SF267 per:member_of mimlre  eng-NG-31-147907-10554054  Republican
+SF267 per:origin mimlre NIL
+SF267 per:other_family mimlre NIL
+SF267 per:parents mimlre NIL
+SF267 per:religion mimlre NIL
+SF267 per:schools_attended mimlre NIL
+SF267 per:siblings mimlre NIL
+SF267 per:spouse mimlre NIL
+SF267 per:stateorprovince_of_birth mimlre  eng-WL-11-174611-12982298  Florida
+SF267 per:stateorprovince_of_death mimlre NIL
+SF267 per:stateorprovinces_of_residence mimlre NIL
+SF267 per:title mimlre  APW_ENG_20070918.1029.LDC2009T13  composer
+SF268 per:age mimlre  AFP_ENG_20080711.0076.LDC2009T13  77
+SF268 per:alternate_names mimlre NIL
+SF268 per:cause_of_death mimlre NIL
+SF268 per:charges mimlre NIL
+SF268 per:children mimlre NIL
+SF268 per:cities_of_residence mimlre NIL
+SF268 per:city_of_birth mimlre  XIN_ENG_20070619.0007.LDC2009T13  Havana
+SF268 per:city_of_death mimlre NIL
+SF268 per:countries_of_residence mimlre NIL
+SF268 per:country_of_birth mimlre  APW_ENG_20080116.1150.LDC2009T13  Cuba
+SF268 per:country_of_death mimlre NIL
+SF268 per:date_of_birth mimlre NIL
+SF268 per:date_of_death mimlre NIL
+SF268 per:employee_of mimlre  APW_ENG_20080116.1150.LDC2009T13  Cuba
+SF268 per:employee_of mimlre  APW_ENG_20080225.1054.LDC2009T13  United States
+SF268 per:employee_of mimlre  XIN_ENG_20080224.0264.LDC2009T13  new
+SF268 per:employee_of mimlre  XIN_ENG_20081219.0148.LDC2009T13  Brazil
+SF268 per:employee_of mimlre  LTW_ENG_20080301.0115.LDC2009T13  Arizona
+SF268 per:member_of mimlre  APW_ENG_20070801.0774.LDC2009T13  Communist Party
+SF268 per:origin mimlre  AFP_ENG_20080429.0758.LDC2009T13  Salvadoran
+SF268 per:origin mimlre  XIN_ENG_20080501.0116.LDC2009T13  Qatari
+SF268 per:origin mimlre  APW_ENG_20080227.0666.LDC2009T13  Cuban
+SF268 per:origin mimlre  XIN_ENG_20081101.0127.LDC2009T13  Brazilian
+SF268 per:other_family mimlre NIL
+SF268 per:parents mimlre NIL
+SF268 per:religion mimlre NIL
+SF268 per:schools_attended mimlre NIL
+SF268 per:siblings mimlre NIL
+SF268 per:spouse mimlre  AFP_ENG_20070618.0644.LDC2009T13  Vilma Espin Guillois
+SF268 per:spouse mimlre  AFP_ENG_20070618.0644.LDC2009T13  Vilma Espin
+SF268 per:stateorprovince_of_birth mimlre NIL
+SF268 per:stateorprovince_of_death mimlre NIL
+SF268 per:stateorprovinces_of_residence mimlre NIL
+SF268 per:title mimlre  AFP_ENG_20070503.0521.LDC2009T13  Governor
+SF268 per:title mimlre  XIN_ENG_20071224.0296.LDC2009T13  minister
+SF268 per:title mimlre  XIN_ENG_20080224.0266.LDC2009T13  President
+SF269 per:age mimlre  eng-WL-11-174584-12960453  25
+SF269 per:alternate_names mimlre NIL
+SF269 per:cause_of_death mimlre NIL
+SF269 per:charges mimlre NIL
+SF269 per:children mimlre NIL
+SF269 per:cities_of_residence mimlre NIL
+SF269 per:city_of_birth mimlre  eng-WL-11-174584-12960463  Vienna
+SF269 per:city_of_death mimlre NIL
+SF269 per:countries_of_residence mimlre NIL
+SF269 per:country_of_birth mimlre NIL
+SF269 per:country_of_death mimlre NIL
+SF269 per:date_of_birth mimlre NIL
+SF269 per:date_of_death mimlre NIL
+SF269 per:employee_of mimlre NIL
+SF269 per:member_of mimlre NIL
+SF269 per:origin mimlre  eng-WL-11-174584-12960410  Canadian
+SF269 per:other_family mimlre NIL
+SF269 per:parents mimlre NIL
+SF269 per:religion mimlre NIL
+SF269 per:schools_attended mimlre NIL
+SF269 per:siblings mimlre NIL
+SF269 per:spouse mimlre NIL
+SF269 per:stateorprovince_of_birth mimlre NIL
+SF269 per:stateorprovince_of_death mimlre NIL
+SF269 per:stateorprovinces_of_residence mimlre NIL
+SF269 per:title mimlre NIL
+SF270 per:age mimlre NIL
+SF270 per:alternate_names mimlre NIL
+SF270 per:cause_of_death mimlre NIL
+SF270 per:charges mimlre  NYT_ENG_20070812.0004.LDC2009T13  terrorism
+SF270 per:children mimlre NIL
+SF270 per:cities_of_residence mimlre NIL
+SF270 per:city_of_birth mimlre NIL
+SF270 per:city_of_death mimlre NIL
+SF270 per:countries_of_residence mimlre NIL
+SF270 per:country_of_birth mimlre NIL
+SF270 per:country_of_death mimlre NIL
+SF270 per:date_of_birth mimlre NIL
+SF270 per:date_of_death mimlre NIL
+SF270 per:employee_of mimlre NIL
+SF270 per:member_of mimlre NIL
+SF270 per:origin mimlre NIL
+SF270 per:other_family mimlre NIL
+SF270 per:parents mimlre NIL
+SF270 per:religion mimlre NIL
+SF270 per:schools_attended mimlre NIL
+SF270 per:siblings mimlre NIL
+SF270 per:spouse mimlre NIL
+SF270 per:stateorprovince_of_birth mimlre NIL
+SF270 per:stateorprovince_of_death mimlre NIL
+SF270 per:stateorprovinces_of_residence mimlre NIL
+SF270 per:title mimlre  eng-WL-11-174592-12942566  executive producer
+SF270 per:title mimlre  eng-WL-11-174592-12942541  writer
+SF270 per:title mimlre  eng-WL-11-174592-12942566  producer
+SF272 per:age mimlre NIL
+SF272 per:alternate_names mimlre NIL
+SF272 per:cause_of_death mimlre NIL
+SF272 per:charges mimlre NIL
+SF272 per:children mimlre NIL
+SF272 per:cities_of_residence mimlre  eng-WL-11-174587-12962966  The City
+SF272 per:city_of_birth mimlre  eng-WL-11-174592-12942004  Paris
+SF272 per:city_of_death mimlre NIL
+SF272 per:countries_of_residence mimlre NIL
+SF272 per:country_of_birth mimlre  eng-WL-11-174587-12961841  India
+SF272 per:country_of_death mimlre NIL
+SF272 per:date_of_birth mimlre NIL
+SF272 per:date_of_death mimlre NIL
+SF272 per:employee_of mimlre NIL
+SF272 per:member_of mimlre  eng-WL-11-174587-12961841  Gucci
+SF272 per:origin mimlre  eng-WL-11-174592-12942004  American
+SF272 per:other_family mimlre NIL
+SF272 per:parents mimlre NIL
+SF272 per:religion mimlre NIL
+SF272 per:schools_attended mimlre NIL
+SF272 per:siblings mimlre NIL
+SF272 per:spouse mimlre NIL
+SF272 per:stateorprovince_of_birth mimlre  eng-WL-11-174592-12942004  Texas
+SF272 per:stateorprovince_of_death mimlre NIL
+SF272 per:stateorprovinces_of_residence mimlre NIL
+SF272 per:title mimlre  eng-WL-11-174572-12946915  DJ
+SF272 per:title mimlre  eng-WL-11-174587-12961841  model
+SF273 per:age mimlre  APW_ENG_20071214.0144.LDC2009T13  71
+SF273 per:alternate_names mimlre NIL
+SF273 per:cause_of_death mimlre NIL
+SF273 per:charges mimlre NIL
+SF273 per:children mimlre  NYT_ENG_20070924.0172.LDC2009T13  Frank
+SF273 per:cities_of_residence mimlre NIL
+SF273 per:city_of_birth mimlre  NYT_ENG_20070913.0137.LDC2009T13  Chicago
+SF273 per:city_of_death mimlre NIL
+SF273 per:countries_of_residence mimlre NIL
+SF273 per:country_of_birth mimlre NIL
+SF273 per:country_of_death mimlre NIL
+SF273 per:date_of_birth mimlre NIL
+SF273 per:date_of_death mimlre NIL
+SF273 per:employee_of mimlre NIL
+SF273 per:member_of mimlre NIL
+SF273 per:origin mimlre  NYT_ENG_20070516.0279.LDC2009T13  Cuban
+SF273 per:other_family mimlre NIL
+SF273 per:parents mimlre NIL
+SF273 per:religion mimlre NIL
+SF273 per:schools_attended mimlre NIL
+SF273 per:siblings mimlre NIL
+SF273 per:spouse mimlre  NYT_ENG_20070924.0172.LDC2009T13  Amalia
+SF273 per:spouse mimlre  eng-NG-31-100641-11198438  Rita Moreno
+SF273 per:stateorprovince_of_birth mimlre  LTW_ENG_20070925.0088.LDC2009T13  Florida
+SF273 per:stateorprovince_of_death mimlre NIL
+SF273 per:stateorprovinces_of_residence mimlre NIL
+SF273 per:title mimlre NIL
+SF274 per:age mimlre NIL
+SF274 per:alternate_names mimlre NIL
+SF274 per:cause_of_death mimlre NIL
+SF274 per:charges mimlre NIL
+SF274 per:children mimlre NIL
+SF274 per:cities_of_residence mimlre NIL
+SF274 per:city_of_birth mimlre NIL
+SF274 per:city_of_death mimlre NIL
+SF274 per:countries_of_residence mimlre NIL
+SF274 per:country_of_birth mimlre  eng-WL-11-174611-12970182  Haiti
+SF274 per:country_of_death mimlre NIL
+SF274 per:date_of_birth mimlre NIL
+SF274 per:date_of_death mimlre NIL
+SF274 per:employee_of mimlre NIL
+SF274 per:member_of mimlre NIL
+SF274 per:origin mimlre  eng-WL-11-174611-12969451  American
+SF274 per:other_family mimlre NIL
+SF274 per:parents mimlre NIL
+SF274 per:religion mimlre NIL
+SF274 per:schools_attended mimlre NIL
+SF274 per:siblings mimlre NIL
+SF274 per:spouse mimlre NIL
+SF274 per:stateorprovince_of_birth mimlre NIL
+SF274 per:stateorprovince_of_death mimlre NIL
+SF274 per:stateorprovinces_of_residence mimlre NIL
+SF274 per:title mimlre  eng-WL-107-174567-12931878  President
+SF275 per:age mimlre NIL
+SF275 per:alternate_names mimlre NIL
+SF275 per:cause_of_death mimlre NIL
+SF275 per:charges mimlre NIL
+SF275 per:children mimlre NIL
+SF275 per:cities_of_residence mimlre  eng-WL-11-174587-12962186  The City
+SF275 per:cities_of_residence mimlre  eng-WL-11-174572-12947769  London
+SF275 per:cities_of_residence mimlre  eng-WL-11-174587-12962442  SoHo
+SF275 per:city_of_birth mimlre  eng-WL-11-174572-12947769  London
+SF275 per:city_of_death mimlre NIL
+SF275 per:countries_of_residence mimlre  eng-WL-11-174587-12961224  England
+SF275 per:country_of_birth mimlre  eng-WL-11-174587-12961224  England
+SF275 per:country_of_death mimlre NIL
+SF275 per:date_of_birth mimlre NIL
+SF275 per:date_of_death mimlre NIL
+SF275 per:employee_of mimlre NIL
+SF275 per:member_of mimlre  eng-WL-11-174587-12963117  MTV
+SF275 per:origin mimlre NIL
+SF275 per:other_family mimlre NIL
+SF275 per:parents mimlre NIL
+SF275 per:religion mimlre NIL
+SF275 per:schools_attended mimlre  eng-WL-11-174587-12961973  ARC New York
+SF275 per:siblings mimlre NIL
+SF275 per:spouse mimlre NIL
+SF275 per:stateorprovince_of_birth mimlre  eng-WL-11-174572-12949486  New York
+SF275 per:stateorprovince_of_death mimlre NIL
+SF275 per:stateorprovinces_of_residence mimlre NIL
+SF275 per:title mimlre NIL
+SF278 per:age mimlre NIL
+SF278 per:alternate_names mimlre NIL
+SF278 per:cause_of_death mimlre NIL
+SF278 per:charges mimlre NIL
+SF278 per:children mimlre NIL
+SF278 per:cities_of_residence mimlre NIL
+SF278 per:city_of_birth mimlre  eng-WL-11-174598-12964840  Dublin
+SF278 per:city_of_death mimlre NIL
+SF278 per:countries_of_residence mimlre NIL
+SF278 per:country_of_birth mimlre  eng-WL-11-174585-12939662  Australia
+SF278 per:country_of_death mimlre NIL
+SF278 per:date_of_birth mimlre NIL
+SF278 per:date_of_death mimlre NIL
+SF278 per:employee_of mimlre NIL
+SF278 per:member_of mimlre  eng-WL-110-174612-12992908  Goodrem
+SF278 per:origin mimlre NIL
+SF278 per:other_family mimlre NIL
+SF278 per:parents mimlre NIL
+SF278 per:religion mimlre NIL
+SF278 per:schools_attended mimlre NIL
+SF278 per:siblings mimlre NIL
+SF278 per:spouse mimlre NIL
+SF278 per:stateorprovince_of_birth mimlre NIL
+SF278 per:stateorprovince_of_death mimlre NIL
+SF278 per:stateorprovinces_of_residence mimlre NIL
+SF278 per:title mimlre  eng-WL-11-174598-12964840  Producer
+SF278 per:title mimlre  eng-WL-11-174598-12965695  singer
+SF279 per:age mimlre NIL
+SF279 per:alternate_names mimlre NIL
+SF279 per:cause_of_death mimlre NIL
+SF279 per:charges mimlre NIL
+SF279 per:children mimlre NIL
+SF279 per:cities_of_residence mimlre NIL
+SF279 per:city_of_birth mimlre NIL
+SF279 per:city_of_death mimlre NIL
+SF279 per:countries_of_residence mimlre NIL
+SF279 per:country_of_birth mimlre NIL
+SF279 per:country_of_death mimlre NIL
+SF279 per:date_of_birth mimlre NIL
+SF279 per:date_of_death mimlre NIL
+SF279 per:employee_of mimlre NIL
+SF279 per:member_of mimlre  eng-WL-11-174584-12964210  Bachelorette
+SF279 per:origin mimlre NIL
+SF279 per:other_family mimlre NIL
+SF279 per:parents mimlre NIL
+SF279 per:religion mimlre NIL
+SF279 per:schools_attended mimlre NIL
+SF279 per:siblings mimlre NIL
+SF279 per:spouse mimlre  eng-WL-11-174584-12964309  Ryan Sutter
+SF279 per:stateorprovince_of_birth mimlre NIL
+SF279 per:stateorprovince_of_death mimlre NIL
+SF279 per:stateorprovinces_of_residence mimlre NIL
+SF279 per:title mimlre NIL
+SF281 per:age mimlre NIL
+SF281 per:alternate_names mimlre NIL
+SF281 per:cause_of_death mimlre NIL
+SF281 per:charges mimlre  eng-WL-11-174611-12978356  first-degree murder
+SF281 per:charges mimlre  eng-WL-11-174611-12980037  hate crimes
+SF281 per:charges mimlre  eng-WL-11-174611-12976821  felony
+SF281 per:charges mimlre  eng-WL-11-174611-12978356  murder
+SF281 per:children mimlre NIL
+SF281 per:cities_of_residence mimlre NIL
+SF281 per:city_of_birth mimlre NIL
+SF281 per:city_of_death mimlre NIL
+SF281 per:countries_of_residence mimlre NIL
+SF281 per:country_of_birth mimlre NIL
+SF281 per:country_of_death mimlre NIL
+SF281 per:date_of_birth mimlre NIL
+SF281 per:date_of_death mimlre NIL
+SF281 per:employee_of mimlre NIL
+SF281 per:member_of mimlre  eng-WL-11-174611-12981530  LGBT
+SF281 per:origin mimlre NIL
+SF281 per:other_family mimlre NIL
+SF281 per:parents mimlre NIL
+SF281 per:religion mimlre NIL
+SF281 per:schools_attended mimlre NIL
+SF281 per:siblings mimlre NIL
+SF281 per:spouse mimlre NIL
+SF281 per:stateorprovince_of_birth mimlre  eng-WL-11-174611-12978356  California
+SF281 per:stateorprovince_of_death mimlre NIL
+SF281 per:stateorprovinces_of_residence mimlre NIL
+SF281 per:title mimlre  eng-WL-11-174611-12980615  King
+SF283 per:age mimlre  eng-WL-11-174611-12985354  29
+SF283 per:alternate_names mimlre NIL
+SF283 per:cause_of_death mimlre  eng-WL-11-174611-12982793  attack
+SF283 per:charges mimlre  eng-WL-11-174611-12982850  murder
+SF283 per:charges mimlre  eng-WL-11-174611-12985283  robbery
+SF283 per:charges mimlre  eng-WL-11-174611-12982793  escape
+SF283 per:charges mimlre  APW_ENG_20071005.1520.LDC2009T13  assault
+SF283 per:charges mimlre  eng-WL-11-174611-12985283  second-degree murder
+SF283 per:charges mimlre  APW_ENG_20071005.1520.LDC2009T13  mugging
+SF283 per:charges mimlre  eng-WL-11-174611-12982793  manslaughter
+SF283 per:charges mimlre  eng-WL-11-174611-12982850  hate crimes
+SF283 per:children mimlre NIL
+SF283 per:cities_of_residence mimlre  eng-WL-11-174611-12982850  Brooklyn
+SF283 per:city_of_birth mimlre  eng-WL-11-174611-12982850  Brooklyn
+SF283 per:city_of_death mimlre  NYT_ENG_20070803.0025.LDC2009T13  Plumb Beach
+SF283 per:countries_of_residence mimlre NIL
+SF283 per:country_of_birth mimlre NIL
+SF283 per:country_of_death mimlre NIL
+SF283 per:date_of_birth mimlre NIL
+SF283 per:date_of_death mimlre NIL
+SF283 per:employee_of mimlre NIL
+SF283 per:member_of mimlre NIL
+SF283 per:origin mimlre NIL
+SF283 per:other_family mimlre NIL
+SF283 per:parents mimlre NIL
+SF283 per:religion mimlre NIL
+SF283 per:schools_attended mimlre NIL
+SF283 per:siblings mimlre NIL
+SF283 per:spouse mimlre  NYT_ENG_20071121.0024.LDC2009T13  Fox
+SF283 per:spouse mimlre  APW_ENG_20071011.1580.LDC2009T13  Anthony Fortunato
+SF283 per:stateorprovince_of_birth mimlre  eng-NG-31-142091-9996720  New York
+SF283 per:stateorprovince_of_death mimlre NIL
+SF283 per:stateorprovinces_of_residence mimlre  eng-NG-31-142091-9996720  New York
+SF283 per:title mimlre NIL
+SF284 per:age mimlre  APW_ENG_20071001.1186.LDC2009T13  2
+SF284 per:alternate_names mimlre NIL
+SF284 per:cause_of_death mimlre NIL
+SF284 per:charges mimlre NIL
+SF284 per:children mimlre NIL
+SF284 per:cities_of_residence mimlre NIL
+SF284 per:city_of_birth mimlre NIL
+SF284 per:city_of_death mimlre NIL
+SF284 per:countries_of_residence mimlre NIL
+SF284 per:country_of_birth mimlre NIL
+SF284 per:country_of_death mimlre NIL
+SF284 per:date_of_birth mimlre NIL
+SF284 per:date_of_death mimlre NIL
+SF284 per:employee_of mimlre NIL
+SF284 per:member_of mimlre  eng-WL-11-174594-12963301  Photos of Britney Spears
+SF284 per:origin mimlre NIL
+SF284 per:other_family mimlre NIL
+SF284 per:parents mimlre NIL
+SF284 per:religion mimlre NIL
+SF284 per:schools_attended mimlre NIL
+SF284 per:siblings mimlre NIL
+SF284 per:spouse mimlre NIL
+SF284 per:stateorprovince_of_birth mimlre  eng-WL-11-174595-12967842  Florida
+SF284 per:stateorprovince_of_death mimlre NIL
+SF284 per:stateorprovinces_of_residence mimlre NIL
+SF284 per:title mimlre  AFP_ENG_20070731.0526.LDC2009T13  attorney
+SF285 per:age mimlre NIL
+SF285 per:alternate_names mimlre  eng-WL-11-174587-12962988  Sam
+SF285 per:cause_of_death mimlre NIL
+SF285 per:charges mimlre  eng-WL-11-174572-12948082  DUI
+SF285 per:children mimlre NIL
+SF285 per:cities_of_residence mimlre  NYT_ENG_20081220.0046.LDC2009T13  Beverly Hills
+SF285 per:city_of_birth mimlre  NYT_ENG_20081220.0046.LDC2009T13  Beverly Hills
+SF285 per:city_of_death mimlre NIL
+SF285 per:countries_of_residence mimlre NIL
+SF285 per:country_of_birth mimlre NIL
+SF285 per:country_of_death mimlre NIL
+SF285 per:date_of_birth mimlre NIL
+SF285 per:date_of_death mimlre NIL
+SF285 per:employee_of mimlre NIL
+SF285 per:member_of mimlre NIL
+SF285 per:origin mimlre NIL
+SF285 per:other_family mimlre NIL
+SF285 per:parents mimlre NIL
+SF285 per:religion mimlre NIL
+SF285 per:schools_attended mimlre NIL
+SF285 per:siblings mimlre NIL
+SF285 per:spouse mimlre  eng-WL-11-174597-12965566  Heidi Montag
+SF285 per:spouse mimlre  eng-WL-11-174587-12962319  Heidi
+SF285 per:stateorprovince_of_birth mimlre  eng-WL-11-174587-12961792  CA
+SF285 per:stateorprovince_of_death mimlre NIL
+SF285 per:stateorprovinces_of_residence mimlre NIL
+SF285 per:title mimlre  eng-WL-11-174572-12949401  King
+SF286 per:age mimlre NIL
+SF286 per:alternate_names mimlre  eng-WL-11-174596-12950688  Jason Kenney
+SF286 per:cause_of_death mimlre NIL
+SF286 per:charges mimlre  eng-WL-11-174596-12954709  libel
+SF286 per:children mimlre NIL
+SF286 per:cities_of_residence mimlre NIL
+SF286 per:city_of_birth mimlre  eng-WL-11-174596-12952939  Ottawa
+SF286 per:city_of_death mimlre NIL
+SF286 per:countries_of_residence mimlre NIL
+SF286 per:country_of_birth mimlre  eng-WL-11-174596-12954922  Canada
+SF286 per:country_of_death mimlre NIL
+SF286 per:date_of_birth mimlre  eng-WL-11-174596-12954968  January 11 , 2008
+SF286 per:date_of_death mimlre NIL
+SF286 per:employee_of mimlre  eng-NG-31-142883-10102848  Western Standard
+SF286 per:member_of mimlre  eng-NG-31-142883-10102848  Western Standard
+SF286 per:member_of mimlre  eng-WL-11-174596-12950688  Alliance
+SF286 per:origin mimlre  eng-NG-31-142883-10102848  Danish
+SF286 per:origin mimlre  eng-WL-11-174596-12952696  Canadian
+SF286 per:other_family mimlre NIL
+SF286 per:parents mimlre NIL
+SF286 per:religion mimlre NIL
+SF286 per:schools_attended mimlre NIL
+SF286 per:siblings mimlre NIL
+SF286 per:spouse mimlre NIL
+SF286 per:stateorprovince_of_birth mimlre NIL
+SF286 per:stateorprovince_of_death mimlre NIL
+SF286 per:stateorprovinces_of_residence mimlre NIL
+SF286 per:title mimlre  eng-WL-11-174596-12950752  author
+SF287 per:age mimlre NIL
+SF287 per:alternate_names mimlre NIL
+SF287 per:cause_of_death mimlre NIL
+SF287 per:charges mimlre NIL
+SF287 per:children mimlre NIL
+SF287 per:cities_of_residence mimlre NIL
+SF287 per:city_of_birth mimlre NIL
+SF287 per:city_of_death mimlre NIL
+SF287 per:countries_of_residence mimlre NIL
+SF287 per:country_of_birth mimlre NIL
+SF287 per:country_of_death mimlre NIL
+SF287 per:date_of_birth mimlre NIL
+SF287 per:date_of_death mimlre NIL
+SF287 per:employee_of mimlre NIL
+SF287 per:member_of mimlre NIL
+SF287 per:origin mimlre NIL
+SF287 per:other_family mimlre NIL
+SF287 per:parents mimlre NIL
+SF287 per:religion mimlre NIL
+SF287 per:schools_attended mimlre NIL
+SF287 per:siblings mimlre NIL
+SF287 per:spouse mimlre NIL
+SF287 per:stateorprovince_of_birth mimlre NIL
+SF287 per:stateorprovince_of_death mimlre NIL
+SF287 per:stateorprovinces_of_residence mimlre NIL
+SF287 per:title mimlre NIL
+SF289 per:age mimlre NIL
+SF289 per:alternate_names mimlre NIL
+SF289 per:cause_of_death mimlre NIL
+SF289 per:charges mimlre NIL
+SF289 per:children mimlre NIL
+SF289 per:cities_of_residence mimlre NIL
+SF289 per:city_of_birth mimlre  eng-WL-11-174584-12960382  Vienna
+SF289 per:city_of_death mimlre NIL
+SF289 per:countries_of_residence mimlre NIL
+SF289 per:country_of_birth mimlre NIL
+SF289 per:country_of_death mimlre NIL
+SF289 per:date_of_birth mimlre NIL
+SF289 per:date_of_death mimlre NIL
+SF289 per:employee_of mimlre NIL
+SF289 per:member_of mimlre  eng-WL-11-174584-12960605  Bachelorette
+SF289 per:origin mimlre NIL
+SF289 per:other_family mimlre NIL
+SF289 per:parents mimlre NIL
+SF289 per:religion mimlre NIL
+SF289 per:schools_attended mimlre NIL
+SF289 per:siblings mimlre NIL
+SF289 per:spouse mimlre NIL
+SF289 per:stateorprovince_of_birth mimlre  eng-WL-11-174584-12960721  Ok
+SF289 per:stateorprovince_of_death mimlre NIL
+SF289 per:stateorprovinces_of_residence mimlre NIL
+SF289 per:title mimlre NIL
+SF290 per:age mimlre NIL
+SF290 per:alternate_names mimlre NIL
+SF290 per:cause_of_death mimlre NIL
+SF290 per:charges mimlre  XIN_ENG_20071226.0268.LDC2009T13  murder
+SF290 per:children mimlre NIL
+SF290 per:cities_of_residence mimlre NIL
+SF290 per:city_of_birth mimlre NIL
+SF290 per:city_of_death mimlre NIL
+SF290 per:countries_of_residence mimlre NIL
+SF290 per:country_of_birth mimlre  AFP_ENG_20071218.0141.LDC2009T13  Cuba
+SF290 per:country_of_death mimlre NIL
+SF290 per:date_of_birth mimlre NIL
+SF290 per:date_of_death mimlre NIL
+SF290 per:employee_of mimlre  APW_ENG_20080521.1464.LDC2009T13  United States
+SF290 per:employee_of mimlre  AFP_ENG_20071120.0729.LDC2009T13  France
+SF290 per:employee_of mimlre  XIN_ENG_20080925.0188.LDC2009T13  Venezuela
+SF290 per:employee_of mimlre  AFP_ENG_20080306.0167.LDC2009T13  Colombia
+SF290 per:member_of mimlre  XIN_ENG_20071121.0436.LDC2009T13  FARC
+SF290 per:origin mimlre  APW_ENG_20081123.0775.LDC2009T13  Russian
+SF290 per:origin mimlre  XIN_ENG_20080709.0177.LDC2009T13  Colombian
+SF290 per:origin mimlre  AFP_ENG_20070227.0688.LDC2009T13  Venezuelan
+SF290 per:origin mimlre  eng-WL-11-99241-10725593  Iranian
+SF290 per:origin mimlre  AFP_ENG_20081009.0026.LDC2009T13  Cuban
+SF290 per:other_family mimlre NIL
+SF290 per:parents mimlre NIL
+SF290 per:religion mimlre NIL
+SF290 per:schools_attended mimlre NIL
+SF290 per:siblings mimlre NIL
+SF290 per:spouse mimlre NIL
+SF290 per:stateorprovince_of_birth mimlre NIL
+SF290 per:stateorprovince_of_death mimlre NIL
+SF290 per:stateorprovinces_of_residence mimlre NIL
+SF290 per:title mimlre  APW_ENG_20080302.0622.LDC2009T13  President
+SF291 per:age mimlre NIL
+SF291 per:alternate_names mimlre NIL
+SF291 per:cause_of_death mimlre NIL
+SF291 per:charges mimlre NIL
+SF291 per:children mimlre NIL
+SF291 per:cities_of_residence mimlre NIL
+SF291 per:city_of_birth mimlre NIL
+SF291 per:city_of_death mimlre NIL
+SF291 per:countries_of_residence mimlre  eng-WL-110-174612-12990908  Canada
+SF291 per:country_of_birth mimlre  eng-WL-110-174612-12990908  Canada
+SF291 per:country_of_death mimlre NIL
+SF291 per:date_of_birth mimlre NIL
+SF291 per:date_of_death mimlre NIL
+SF291 per:employee_of mimlre NIL
+SF291 per:member_of mimlre  eng-WL-110-174612-12990548  Rihanna
+SF291 per:origin mimlre  eng-WL-110-174612-12991273  Canadian
+SF291 per:other_family mimlre NIL
+SF291 per:parents mimlre NIL
+SF291 per:religion mimlre NIL
+SF291 per:schools_attended mimlre NIL
+SF291 per:siblings mimlre NIL
+SF291 per:spouse mimlre NIL
+SF291 per:stateorprovince_of_birth mimlre NIL
+SF291 per:stateorprovince_of_death mimlre NIL
+SF291 per:stateorprovinces_of_residence mimlre NIL
+SF291 per:title mimlre  eng-WL-110-174612-12990681  DJ
+SF292 per:age mimlre NIL
+SF292 per:alternate_names mimlre NIL
+SF292 per:cause_of_death mimlre NIL
+SF292 per:charges mimlre NIL
+SF292 per:children mimlre NIL
+SF292 per:cities_of_residence mimlre  eng-WL-11-174572-12950291  Seattle
+SF292 per:cities_of_residence mimlre  eng-WL-11-174587-12961516  Miami Beach
+SF292 per:city_of_birth mimlre  eng-WL-11-174587-12962091  London
+SF292 per:city_of_death mimlre NIL
+SF292 per:countries_of_residence mimlre NIL
+SF292 per:country_of_birth mimlre NIL
+SF292 per:country_of_death mimlre NIL
+SF292 per:date_of_birth mimlre NIL
+SF292 per:date_of_death mimlre NIL
+SF292 per:employee_of mimlre  eng-WL-11-174587-12962096  Colorado
+SF292 per:member_of mimlre NIL
+SF292 per:origin mimlre  eng-WL-11-174572-12950291  American
+SF292 per:other_family mimlre NIL
+SF292 per:parents mimlre NIL
+SF292 per:religion mimlre NIL
+SF292 per:schools_attended mimlre NIL
+SF292 per:siblings mimlre NIL
+SF292 per:spouse mimlre NIL
+SF292 per:stateorprovince_of_birth mimlre  eng-WL-11-174587-12962397  New York
+SF292 per:stateorprovince_of_death mimlre NIL
+SF292 per:stateorprovinces_of_residence mimlre NIL
+SF292 per:title mimlre NIL
+SF293 per:age mimlre  AFP_ENG_20070315.0103.LDC2009T13  48
+SF293 per:alternate_names mimlre NIL
+SF293 per:cause_of_death mimlre NIL
+SF293 per:charges mimlre NIL
+SF293 per:children mimlre NIL
+SF293 per:cities_of_residence mimlre  AFP_ENG_20070416.0533.LDC2009T13  Mchinji
+SF293 per:city_of_birth mimlre  APW_ENG_20080528.0757.LDC2009T13  London
+SF293 per:city_of_death mimlre NIL
+SF293 per:countries_of_residence mimlre  AFP_ENG_20081120.0237.LDC2009T13  Malawi
+SF293 per:country_of_birth mimlre  AFP_ENG_20081120.0237.LDC2009T13  Malawi
+SF293 per:country_of_death mimlre NIL
+SF293 per:date_of_birth mimlre NIL
+SF293 per:date_of_death mimlre NIL
+SF293 per:employee_of mimlre NIL
+SF293 per:member_of mimlre NIL
+SF293 per:origin mimlre  APW_ENG_20070109.0784.LDC2009T13  Malawian
+SF293 per:origin mimlre  AFP_ENG_20080525.0338.LDC2009T13  African
+SF293 per:origin mimlre  eng-WL-11-174595-12971587  American
+SF293 per:other_family mimlre NIL
+SF293 per:parents mimlre NIL
+SF293 per:religion mimlre NIL
+SF293 per:schools_attended mimlre NIL
+SF293 per:siblings mimlre NIL
+SF293 per:spouse mimlre  AFP_ENG_20070412.0661.LDC2009T13  Madonna
+SF293 per:stateorprovince_of_birth mimlre NIL
+SF293 per:stateorprovince_of_death mimlre NIL
+SF293 per:stateorprovinces_of_residence mimlre NIL
+SF293 per:title mimlre  AFP_ENG_20070419.0090.LDC2009T13  singer
+SF293 per:title mimlre  APW_ENG_20080528.0757.LDC2009T13  film director
+SF294 per:age mimlre  eng-WL-11-174599-12965294  80
+SF294 per:alternate_names mimlre NIL
+SF294 per:cause_of_death mimlre NIL
+SF294 per:charges mimlre NIL
+SF294 per:children mimlre NIL
+SF294 per:cities_of_residence mimlre NIL
+SF294 per:city_of_birth mimlre NIL
+SF294 per:city_of_death mimlre NIL
+SF294 per:countries_of_residence mimlre NIL
+SF294 per:country_of_birth mimlre  eng-WL-105-174565-12930799  Us
+SF294 per:country_of_death mimlre NIL
+SF294 per:date_of_birth mimlre NIL
+SF294 per:date_of_death mimlre NIL
+SF294 per:employee_of mimlre NIL
+SF294 per:member_of mimlre NIL
+SF294 per:origin mimlre NIL
+SF294 per:other_family mimlre NIL
+SF294 per:parents mimlre NIL
+SF294 per:religion mimlre NIL
+SF294 per:schools_attended mimlre NIL
+SF294 per:siblings mimlre NIL
+SF294 per:spouse mimlre NIL
+SF294 per:stateorprovince_of_birth mimlre NIL
+SF294 per:stateorprovince_of_death mimlre NIL
+SF294 per:stateorprovinces_of_residence mimlre NIL
+SF294 per:title mimlre NIL
+SF296 per:age mimlre  LTW_ENG_20071024.0126.LDC2009T13  41
+SF296 per:alternate_names mimlre NIL
+SF296 per:cause_of_death mimlre NIL
+SF296 per:charges mimlre  LTW_ENG_20071003.0146.LDC2009T13  identity theft
+SF296 per:charges mimlre  LTW_ENG_20071003.0146.LDC2009T13  larceny
+SF296 per:children mimlre NIL
+SF296 per:cities_of_residence mimlre  eng-WL-11-174596-12953146  Manhattan
+SF296 per:city_of_birth mimlre  APW_ENG_20070308.1119.LDC2009T13  Sao Paulo
+SF296 per:city_of_death mimlre NIL
+SF296 per:countries_of_residence mimlre NIL
+SF296 per:country_of_birth mimlre  XIN_ENG_20070308.0397.LDC2009T13  Brazil
+SF296 per:country_of_death mimlre NIL
+SF296 per:date_of_birth mimlre NIL
+SF296 per:date_of_death mimlre NIL
+SF296 per:employee_of mimlre  eng-WL-11-174596-12953146  Manhattan
+SF296 per:employee_of mimlre  NYT_ENG_20080113.0169.LDC2009T13  New York
+SF296 per:member_of mimlre  eng-WL-11-174596-12953146  Manhattan District
+SF296 per:member_of mimlre  LTW_ENG_20071003.0146.LDC2009T13  Bloomberg
+SF296 per:origin mimlre  eng-WL-11-174596-12953146  Chinese
+SF296 per:other_family mimlre NIL
+SF296 per:parents mimlre NIL
+SF296 per:religion mimlre NIL
+SF296 per:schools_attended mimlre NIL
+SF296 per:siblings mimlre NIL
+SF296 per:spouse mimlre NIL
+SF296 per:stateorprovince_of_birth mimlre  APW_ENG_20071204.1476.LDC2009T13  Connecticut
+SF296 per:stateorprovince_of_death mimlre NIL
+SF296 per:stateorprovinces_of_residence mimlre  NYT_ENG_20080113.0169.LDC2009T13  New York
+SF296 per:stateorprovinces_of_residence mimlre  LTW_ENG_20071003.0146.LDC2009T13  New Jersey
+SF296 per:title mimlre  APW_ENG_20080408.1064.LDC2009T13  Attorney
+SF297 per:age mimlre NIL
+SF297 per:alternate_names mimlre NIL
+SF297 per:cause_of_death mimlre NIL
+SF297 per:charges mimlre NIL
+SF297 per:children mimlre NIL
+SF297 per:cities_of_residence mimlre NIL
+SF297 per:city_of_birth mimlre NIL
+SF297 per:city_of_death mimlre NIL
+SF297 per:countries_of_residence mimlre NIL
+SF297 per:country_of_birth mimlre NIL
+SF297 per:country_of_death mimlre NIL
+SF297 per:date_of_birth mimlre NIL
+SF297 per:date_of_death mimlre NIL
+SF297 per:employee_of mimlre NIL
+SF297 per:member_of mimlre NIL
+SF297 per:origin mimlre NIL
+SF297 per:other_family mimlre NIL
+SF297 per:parents mimlre NIL
+SF297 per:religion mimlre NIL
+SF297 per:schools_attended mimlre NIL
+SF297 per:siblings mimlre NIL
+SF297 per:spouse mimlre NIL
+SF297 per:stateorprovince_of_birth mimlre NIL
+SF297 per:stateorprovince_of_death mimlre NIL
+SF297 per:stateorprovinces_of_residence mimlre NIL
+SF297 per:title mimlre NIL
+SF299 per:age mimlre NIL
+SF299 per:alternate_names mimlre NIL
+SF299 per:cause_of_death mimlre NIL
+SF299 per:charges mimlre NIL
+SF299 per:children mimlre NIL
+SF299 per:cities_of_residence mimlre NIL
+SF299 per:city_of_birth mimlre NIL
+SF299 per:city_of_death mimlre NIL
+SF299 per:countries_of_residence mimlre NIL
+SF299 per:country_of_birth mimlre NIL
+SF299 per:country_of_death mimlre NIL
+SF299 per:date_of_birth mimlre NIL
+SF299 per:date_of_death mimlre NIL
+SF299 per:employee_of mimlre NIL
+SF299 per:member_of mimlre NIL
+SF299 per:origin mimlre NIL
+SF299 per:other_family mimlre NIL
+SF299 per:parents mimlre NIL
+SF299 per:religion mimlre NIL
+SF299 per:schools_attended mimlre NIL
+SF299 per:siblings mimlre NIL
+SF299 per:spouse mimlre  eng-WL-11-174611-12971375  Andrew
+SF299 per:stateorprovince_of_birth mimlre  eng-WL-11-174611-12975848  New Hampshire
+SF299 per:stateorprovince_of_death mimlre NIL
+SF299 per:stateorprovinces_of_residence mimlre NIL
+SF299 per:title mimlre NIL
+SF501 org:alternate_names mimlre NIL
+SF501 org:city_of_headquarters mimlre NIL
+SF501 org:country_of_headquarters mimlre NIL
+SF501 org:dissolved mimlre NIL
+SF501 org:founded mimlre NIL
+SF501 org:founded_by mimlre NIL
+SF501 org:member_of mimlre NIL
+SF501 org:members mimlre NIL
+SF501 org:number_of_employees/members mimlre NIL
+SF501 org:parents mimlre  LTW_ENG_20080206.0082.LDC2009T13  Army
+SF501 org:political/religious_affiliation mimlre NIL
+SF501 org:shareholders mimlre NIL
+SF501 org:stateorprovince_of_headquarters mimlre NIL
+SF501 org:subsidiaries mimlre NIL
+SF501 org:top_members/employees mimlre  APW_ENG_20070318.0919.LDC2009T13  Walter Reed
+SF501 org:top_members/employees mimlre  LTW_ENG_20070223.0118.LDC2009T13  Kevin Kiley
+SF501 org:top_members/employees mimlre  LTW_ENG_20080201.0106.LDC2009T13  Eric Schoomaker
+SF501 org:top_members/employees mimlre  NYT_ENG_20070312.0053.LDC2009T13  Pete Geren
+SF501 org:top_members/employees mimlre  NYT_ENG_20070312.0053.LDC2009T13  Eric B. Schoomaker
+SF501 org:top_members/employees mimlre  NYT_ENG_20070312.0053.LDC2009T13  Kevin C. Kiley
+SF501 org:top_members/employees mimlre  AFP_ENG_20070312.0454.LDC2009T13  Geren
+SF501 org:website mimlre NIL
+SF502 org:alternate_names mimlre NIL
+SF502 org:city_of_headquarters mimlre  NYT_ENG_20070922.0122.LDC2009T13  Long Beach Mortgage
+SF502 org:country_of_headquarters mimlre NIL
+SF502 org:dissolved mimlre  NYT_ENG_20081111.0053.LDC2009T13  August 2007
+SF502 org:founded mimlre NIL
+SF502 org:founded_by mimlre NIL
+SF502 org:member_of mimlre NIL
+SF502 org:members mimlre NIL
+SF502 org:number_of_employees/members mimlre NIL
+SF502 org:parents mimlre  NYT_ENG_20070922.0116.LDC2009T13  Lehman Brothers
+SF502 org:political/religious_affiliation mimlre NIL
+SF502 org:shareholders mimlre NIL
+SF502 org:stateorprovince_of_headquarters mimlre NIL
+SF502 org:subsidiaries mimlre NIL
+SF502 org:top_members/employees mimlre  LTW_ENG_20070313.0107.LDC2009T13  Griffin
+SF502 org:website mimlre NIL
+SF504 org:alternate_names mimlre  APW_ENG_20070827.1344.LDC2009T13  Nacional
+SF504 org:city_of_headquarters mimlre NIL
+SF504 org:country_of_headquarters mimlre NIL
+SF504 org:dissolved mimlre NIL
+SF504 org:founded mimlre NIL
+SF504 org:founded_by mimlre NIL
+SF504 org:member_of mimlre NIL
+SF504 org:members mimlre NIL
+SF504 org:number_of_employees/members mimlre NIL
+SF504 org:parents mimlre NIL
+SF504 org:political/religious_affiliation mimlre  XIN_ENG_20070515.0451.LDC2009T13  international
+SF504 org:political/religious_affiliation mimlre  XIN_ENG_20070520.0177.LDC2009T13  national
+SF504 org:shareholders mimlre NIL
+SF504 org:stateorprovince_of_headquarters mimlre NIL
+SF504 org:subsidiaries mimlre NIL
+SF504 org:top_members/employees mimlre NIL
+SF504 org:website mimlre NIL
+SF505 org:alternate_names mimlre  eng-NG-31-100499-10869168  Bosch
+SF505 org:city_of_headquarters mimlre  eng-NG-31-100555-10887769  Calif
+SF505 org:country_of_headquarters mimlre  AFP_ENG_20080115.0661.LDC2009T13  Japan
+SF505 org:dissolved mimlre NIL
+SF505 org:founded mimlre  eng-NG-31-100557-11781103  2003
+SF505 org:founded_by mimlre NIL
+SF505 org:member_of mimlre NIL
+SF505 org:members mimlre NIL
+SF505 org:number_of_employees/members mimlre NIL
+SF505 org:parents mimlre  eng-NG-31-139650-9833598  Toyota
+SF505 org:political/religious_affiliation mimlre  AFP_ENG_20080709.0654.LDC2009T13  green
+SF505 org:political/religious_affiliation mimlre  eng-NG-31-100555-10887769  Right
+SF505 org:political/religious_affiliation mimlre  eng-NG-31-100555-10887769  Left
+SF505 org:shareholders mimlre NIL
+SF505 org:stateorprovince_of_headquarters mimlre  eng-NG-31-100555-10887769  California
+SF505 org:subsidiaries mimlre NIL
+SF505 org:top_members/employees mimlre  AFP_ENG_20081224.0410.LDC2009T13  Sadahiro Usui
+SF505 org:website mimlre NIL
+SF506 org:alternate_names mimlre NIL
+SF506 org:city_of_headquarters mimlre NIL
+SF506 org:country_of_headquarters mimlre NIL
+SF506 org:dissolved mimlre NIL
+SF506 org:founded mimlre NIL
+SF506 org:founded_by mimlre NIL
+SF506 org:member_of mimlre NIL
+SF506 org:members mimlre NIL
+SF506 org:number_of_employees/members mimlre NIL
+SF506 org:parents mimlre NIL
+SF506 org:political/religious_affiliation mimlre NIL
+SF506 org:shareholders mimlre NIL
+SF506 org:stateorprovince_of_headquarters mimlre NIL
+SF506 org:subsidiaries mimlre NIL
+SF506 org:top_members/employees mimlre  APW_ENG_20070205.1555.LDC2009T13  Jessica Simpson
+SF506 org:website mimlre NIL
+SF508 org:alternate_names mimlre  eng-NG-31-141913-9975812  Federal Motor Carrier Safety Administration
+SF508 org:city_of_headquarters mimlre  eng-NG-31-141913-9975812  Washington
+SF508 org:country_of_headquarters mimlre  APW_ENG_20080721.0938.LDC2009T13  United States
+SF508 org:dissolved mimlre NIL
+SF508 org:founded mimlre  NYT_ENG_20070724.0127.LDC2009T13  1991
+SF508 org:founded_by mimlre NIL
+SF508 org:member_of mimlre NIL
+SF508 org:members mimlre NIL
+SF508 org:number_of_employees/members mimlre  APW_ENG_20080721.0938.LDC2009T13  50
+SF508 org:parents mimlre NIL
+SF508 org:political/religious_affiliation mimlre NIL
+SF508 org:shareholders mimlre NIL
+SF508 org:stateorprovince_of_headquarters mimlre  eng-NG-31-141913-9975812  DC
+SF508 org:subsidiaries mimlre NIL
+SF508 org:top_members/employees mimlre  NYT_ENG_20080821.0212.LDC2009T13  Angel de la Torre
+SF508 org:top_members/employees mimlre  APW_ENG_20080721.0938.LDC2009T13  Dr. Kurt Hegmann
+SF508 org:top_members/employees mimlre  NYT_ENG_20081222.0042.LDC2009T13  Brigham A. McCown
+SF508 org:website mimlre NIL
+SF509 org:alternate_names mimlre  NYT_ENG_20071102.0185.LDC2009T13  FMR LLC
+SF509 org:city_of_headquarters mimlre  APW_ENG_20071107.0605.LDC2009T13  Boston
+SF509 org:country_of_headquarters mimlre  NYT_ENG_20070216.0223.LDC2009T13  New England
+SF509 org:dissolved mimlre NIL
+SF509 org:founded mimlre NIL
+SF509 org:founded_by mimlre NIL
+SF509 org:member_of mimlre NIL
+SF509 org:members mimlre NIL
+SF509 org:number_of_employees/members mimlre NIL
+SF509 org:parents mimlre  NYT_ENG_20070716.0270.LDC2009T13  Fidelity
+SF509 org:political/religious_affiliation mimlre  eng-NG-31-147907-10553927  right
+SF509 org:shareholders mimlre NIL
+SF509 org:stateorprovince_of_headquarters mimlre  NYT_ENG_20071107.0231.LDC2009T13  Massachusetts
+SF509 org:subsidiaries mimlre NIL
+SF509 org:top_members/employees mimlre  NYT_ENG_20070109.0056.LDC2009T13  Bob Reynolds
+SF509 org:top_members/employees mimlre  NYT_ENG_20070108.0192.LDC2009T13  Robert L. Reynolds
+SF509 org:top_members/employees mimlre  NYT_ENG_20080229.0086.LDC2009T13  Rodger A. Lawson
+SF509 org:website mimlre NIL
+SF510 org:alternate_names mimlre  APW_ENG_20080124.1278.LDC2009T13  FAA
+SF510 org:city_of_headquarters mimlre  AFP_ENG_20081208.0104.LDC2009T13  San Diego
+SF510 org:country_of_headquarters mimlre NIL
+SF510 org:dissolved mimlre NIL
+SF510 org:founded mimlre NIL
+SF510 org:founded_by mimlre NIL
+SF510 org:member_of mimlre NIL
+SF510 org:members mimlre NIL
+SF510 org:number_of_employees/members mimlre NIL
+SF510 org:parents mimlre NIL
+SF510 org:political/religious_affiliation mimlre  APW_ENG_20070420.1778.LDC2009T13  left
+SF510 org:political/religious_affiliation mimlre  APW_ENG_20071205.1181.LDC2009T13  red
+SF510 org:shareholders mimlre NIL
+SF510 org:stateorprovince_of_headquarters mimlre  XIN_ENG_20070210.0173.LDC2009T13  South Carolina
+SF510 org:subsidiaries mimlre NIL
+SF510 org:top_members/employees mimlre  NYT_ENG_20080404.0048.LDC2009T13  Douglas Peters
+SF510 org:top_members/employees mimlre  NYT_ENG_20081209.0134.LDC2009T13  Jane Garvey
+SF510 org:website mimlre NIL
+SF512 org:alternate_names mimlre NIL
+SF512 org:city_of_headquarters mimlre  APW_ENG_20071002.1207.LDC2009T13  Dallas
+SF512 org:country_of_headquarters mimlre  APW_ENG_20070925.0494.LDC2009T13  Denmark
+SF512 org:dissolved mimlre NIL
+SF512 org:founded mimlre  APW_ENG_20070209.1184.LDC2009T13  1999
+SF512 org:founded_by mimlre NIL
+SF512 org:member_of mimlre NIL
+SF512 org:members mimlre NIL
+SF512 org:number_of_employees/members mimlre NIL
+SF512 org:parents mimlre NIL
+SF512 org:political/religious_affiliation mimlre NIL
+SF512 org:shareholders mimlre NIL
+SF512 org:stateorprovince_of_headquarters mimlre NIL
+SF512 org:subsidiaries mimlre NIL
+SF512 org:top_members/employees mimlre  AFP_ENG_20070209.0263.LDC2009T13  Martin Gilbert
+SF512 org:top_members/employees mimlre  APW_ENG_20070209.1944.LDC2009T13  Moir Lockhead
+SF512 org:website mimlre NIL
+SF514 org:alternate_names mimlre NIL
+SF514 org:city_of_headquarters mimlre NIL
+SF514 org:country_of_headquarters mimlre NIL
+SF514 org:dissolved mimlre NIL
+SF514 org:founded mimlre NIL
+SF514 org:founded_by mimlre NIL
+SF514 org:member_of mimlre NIL
+SF514 org:members mimlre NIL
+SF514 org:number_of_employees/members mimlre NIL
+SF514 org:parents mimlre NIL
+SF514 org:political/religious_affiliation mimlre NIL
+SF514 org:shareholders mimlre NIL
+SF514 org:stateorprovince_of_headquarters mimlre NIL
+SF514 org:subsidiaries mimlre NIL
+SF514 org:top_members/employees mimlre NIL
+SF514 org:website mimlre NIL
+SF515 org:alternate_names mimlre NIL
+SF515 org:city_of_headquarters mimlre NIL
+SF515 org:country_of_headquarters mimlre NIL
+SF515 org:dissolved mimlre NIL
+SF515 org:founded mimlre NIL
+SF515 org:founded_by mimlre NIL
+SF515 org:member_of mimlre NIL
+SF515 org:members mimlre NIL
+SF515 org:number_of_employees/members mimlre NIL
+SF515 org:parents mimlre NIL
+SF515 org:political/religious_affiliation mimlre NIL
+SF515 org:shareholders mimlre NIL
+SF515 org:stateorprovince_of_headquarters mimlre NIL
+SF515 org:subsidiaries mimlre NIL
+SF515 org:top_members/employees mimlre NIL
+SF515 org:website mimlre NIL
+SF516 org:alternate_names mimlre NIL
+SF516 org:city_of_headquarters mimlre NIL
+SF516 org:country_of_headquarters mimlre  eng-NG-31-126872-12059586  Belgium
+SF516 org:dissolved mimlre NIL
+SF516 org:founded mimlre NIL
+SF516 org:founded_by mimlre NIL
+SF516 org:member_of mimlre NIL
+SF516 org:members mimlre NIL
+SF516 org:number_of_employees/members mimlre NIL
+SF516 org:parents mimlre NIL
+SF516 org:political/religious_affiliation mimlre  APW_ENG_20070907.0082.LDC2009T13  international
+SF516 org:political/religious_affiliation mimlre  APW_ENG_20070907.0082.LDC2009T13  Center
+SF516 org:shareholders mimlre NIL
+SF516 org:stateorprovince_of_headquarters mimlre  eng-NG-31-126277-12052775  Florida
+SF516 org:subsidiaries mimlre NIL
+SF516 org:top_members/employees mimlre NIL
+SF516 org:website mimlre NIL
+SF517 org:alternate_names mimlre NIL
+SF517 org:city_of_headquarters mimlre NIL
+SF517 org:country_of_headquarters mimlre  APW_ENG_20070612.0379.LDC2009T13  United States
+SF517 org:dissolved mimlre NIL
+SF517 org:founded mimlre  NYT_ENG_20081110.0215.LDC2009T13  2003
+SF517 org:founded_by mimlre NIL
+SF517 org:member_of mimlre NIL
+SF517 org:members mimlre  APW_ENG_20080524.0085.LDC2009T13  Calgary Vipers
+SF517 org:members mimlre  APW_ENG_20081223.0019.LDC2009T13  Laredo Broncos
+SF517 org:number_of_employees/members mimlre NIL
+SF517 org:parents mimlre NIL
+SF517 org:political/religious_affiliation mimlre  NYT_ENG_20081108.0011.LDC2009T13  independent
+SF517 org:shareholders mimlre NIL
+SF517 org:stateorprovince_of_headquarters mimlre  NYT_ENG_20081108.0011.LDC2009T13  California
+SF517 org:subsidiaries mimlre NIL
+SF517 org:top_members/employees mimlre NIL
+SF517 org:website mimlre NIL
+SF518 org:alternate_names mimlre NIL
+SF518 org:city_of_headquarters mimlre  NYT_ENG_20070806.0216.LDC2009T13  Lexington
+SF518 org:country_of_headquarters mimlre NIL
+SF518 org:dissolved mimlre NIL
+SF518 org:founded mimlre  LTW_ENG_20070814.0147.LDC2009T13  1998
+SF518 org:founded_by mimlre NIL
+SF518 org:member_of mimlre NIL
+SF518 org:members mimlre NIL
+SF518 org:number_of_employees/members mimlre NIL
+SF518 org:parents mimlre NIL
+SF518 org:political/religious_affiliation mimlre  NYT_ENG_20080310.0201.LDC2009T13  left
+SF518 org:political/religious_affiliation mimlre  NYT_ENG_20070806.0216.LDC2009T13  right
+SF518 org:shareholders mimlre NIL
+SF518 org:stateorprovince_of_headquarters mimlre NIL
+SF518 org:subsidiaries mimlre NIL
+SF518 org:top_members/employees mimlre  NYT_ENG_20070712.0087.LDC2009T13  Sean Dalton
+SF518 org:top_members/employees mimlre  NYT_ENG_20080310.0201.LDC2009T13  Founder
+SF518 org:top_members/employees mimlre  LTW_ENG_20070814.0147.LDC2009T13  Thomas Stemberg
+SF518 org:website mimlre NIL
+SF519 org:alternate_names mimlre NIL
+SF519 org:city_of_headquarters mimlre  AFP_ENG_20070531.0455.LDC2009T13  Aluminij Mostar
+SF519 org:country_of_headquarters mimlre  NYT_ENG_20070211.0078.LDC2009T13  India
+SF519 org:dissolved mimlre NIL
+SF519 org:founded mimlre NIL
+SF519 org:founded_by mimlre NIL
+SF519 org:member_of mimlre NIL
+SF519 org:members mimlre NIL
+SF519 org:number_of_employees/members mimlre NIL
+SF519 org:parents mimlre NIL
+SF519 org:political/religious_affiliation mimlre NIL
+SF519 org:shareholders mimlre NIL
+SF519 org:stateorprovince_of_headquarters mimlre NIL
+SF519 org:subsidiaries mimlre NIL
+SF519 org:top_members/employees mimlre  NYT_ENG_20070216.0136.LDC2009T13  Novelis
+SF519 org:website mimlre NIL
+SF520 org:alternate_names mimlre NIL
+SF520 org:city_of_headquarters mimlre  LTW_ENG_20070702.0009.LDC2009T13  Ocean Park
+SF520 org:country_of_headquarters mimlre  NYT_ENG_20070207.0098.LDC2009T13  China
+SF520 org:dissolved mimlre NIL
+SF520 org:founded mimlre  LTW_ENG_20080405.0040.LDC2009T13  2005
+SF520 org:founded_by mimlre NIL
+SF520 org:member_of mimlre NIL
+SF520 org:members mimlre NIL
+SF520 org:number_of_employees/members mimlre NIL
+SF520 org:parents mimlre NIL
+SF520 org:political/religious_affiliation mimlre  APW_ENG_20070912.0395.LDC2009T13  opposition
+SF520 org:political/religious_affiliation mimlre  NYT_ENG_20080210.0043.LDC2009T13  right
+SF520 org:political/religious_affiliation mimlre  APW_ENG_20070927.0348.LDC2009T13  labor
+SF520 org:political/religious_affiliation mimlre  NYT_ENG_20070802.0019.LDC2009T13  international
+SF520 org:shareholders mimlre NIL
+SF520 org:stateorprovince_of_headquarters mimlre  APW_ENG_20071205.0615.LDC2009T13  Tokyo
+SF520 org:subsidiaries mimlre NIL
+SF520 org:top_members/employees mimlre  APW_ENG_20070912.0395.LDC2009T13  Sin Chung-kai
+SF520 org:website mimlre NIL
+SF521 org:alternate_names mimlre NIL
+SF521 org:city_of_headquarters mimlre  NYT_ENG_20070503.0202.LDC2009T13  Regina
+SF521 org:country_of_headquarters mimlre  APW_ENG_20080314.0642.LDC2009T13  Canada
+SF521 org:dissolved mimlre NIL
+SF521 org:founded mimlre NIL
+SF521 org:founded_by mimlre NIL
+SF521 org:member_of mimlre NIL
+SF521 org:members mimlre NIL
+SF521 org:number_of_employees/members mimlre NIL
+SF521 org:parents mimlre NIL
+SF521 org:political/religious_affiliation mimlre NIL
+SF521 org:shareholders mimlre NIL
+SF521 org:stateorprovince_of_headquarters mimlre  NYT_ENG_20070503.0202.LDC2009T13  Saskatchewan
+SF521 org:subsidiaries mimlre NIL
+SF521 org:top_members/employees mimlre  AFP_ENG_20070503.0322.LDC2009T13  David Sutherland
+SF521 org:website mimlre NIL
+SF522 org:alternate_names mimlre  AFP_ENG_20070905.0547.LDC2009T13  Quds Force
+SF522 org:city_of_headquarters mimlre  XIN_ENG_20081003.0005.LDC2009T13  Tehran
+SF522 org:country_of_headquarters mimlre  AFP_ENG_20070905.0547.LDC2009T13  Iran
+SF522 org:dissolved mimlre NIL
+SF522 org:founded mimlre NIL
+SF522 org:founded_by mimlre NIL
+SF522 org:member_of mimlre NIL
+SF522 org:members mimlre NIL
+SF522 org:number_of_employees/members mimlre NIL
+SF522 org:parents mimlre  XIN_ENG_20070813.0101.LDC2009T13  Iranian Revolutionary Guards Corps-Quds Force
+SF522 org:parents mimlre  AFP_ENG_20070905.0547.LDC2009T13  Quds Force
+SF522 org:parents mimlre  XIN_ENG_20081119.0011.LDC2009T13  Iranian Revolutionary Guard
+SF522 org:political/religious_affiliation mimlre NIL
+SF522 org:shareholders mimlre NIL
+SF522 org:stateorprovince_of_headquarters mimlre NIL
+SF522 org:subsidiaries mimlre NIL
+SF522 org:top_members/employees mimlre NIL
+SF522 org:website mimlre NIL
+SF524 org:alternate_names mimlre NIL
+SF524 org:city_of_headquarters mimlre  APW_ENG_20080417.1459.LDC2009T13  New Orleans
+SF524 org:country_of_headquarters mimlre NIL
+SF524 org:dissolved mimlre NIL
+SF524 org:founded mimlre NIL
+SF524 org:founded_by mimlre NIL
+SF524 org:member_of mimlre  NYT_ENG_20071201.0111.LDC2009T13  American Football Conference South
+SF524 org:member_of mimlre  APW_ENG_20070501.1405.LDC2009T13  National Football League
+SF524 org:members mimlre NIL
+SF524 org:number_of_employees/members mimlre NIL
+SF524 org:parents mimlre NIL
+SF524 org:political/religious_affiliation mimlre  NYT_ENG_20071013.0134.LDC2009T13  left
+SF524 org:shareholders mimlre NIL
+SF524 org:stateorprovince_of_headquarters mimlre NIL
+SF524 org:subsidiaries mimlre NIL
+SF524 org:top_members/employees mimlre  APW_ENG_20080403.0993.LDC2009T13  Jack Del Rio
+SF524 org:top_members/employees mimlre  eng-WL-11-174643-12999754  Fred Taylor
+SF524 org:top_members/employees mimlre  eng-NG-31-140016-9856371  Mike Smith
+SF524 org:website mimlre NIL
+SF525 org:alternate_names mimlre NIL
+SF525 org:city_of_headquarters mimlre NIL
+SF525 org:country_of_headquarters mimlre NIL
+SF525 org:dissolved mimlre NIL
+SF525 org:founded mimlre NIL
+SF525 org:founded_by mimlre NIL
+SF525 org:member_of mimlre NIL
+SF525 org:members mimlre NIL
+SF525 org:number_of_employees/members mimlre NIL
+SF525 org:parents mimlre NIL
+SF525 org:political/religious_affiliation mimlre NIL
+SF525 org:shareholders mimlre NIL
+SF525 org:stateorprovince_of_headquarters mimlre NIL
+SF525 org:subsidiaries mimlre NIL
+SF525 org:top_members/employees mimlre NIL
+SF525 org:website mimlre NIL
+SF526 org:alternate_names mimlre NIL
+SF526 org:city_of_headquarters mimlre  NYT_ENG_20080701.0238.LDC2009T13  St. Petersburg
+SF526 org:country_of_headquarters mimlre  AFP_ENG_20070201.0075.LDC2009T13  Japan
+SF526 org:dissolved mimlre NIL
+SF526 org:founded mimlre  AFP_ENG_20070531.0121.LDC2009T13  2003
+SF526 org:founded_by mimlre NIL
+SF526 org:member_of mimlre NIL
+SF526 org:members mimlre NIL
+SF526 org:number_of_employees/members mimlre NIL
+SF526 org:parents mimlre NIL
+SF526 org:political/religious_affiliation mimlre  APW_ENG_20080331.0398.LDC2009T13  national
+SF526 org:political/religious_affiliation mimlre  APW_ENG_20080331.0398.LDC2009T13  right
+SF526 org:shareholders mimlre NIL
+SF526 org:stateorprovince_of_headquarters mimlre  APW_ENG_20080331.0398.LDC2009T13  Idaho
+SF526 org:subsidiaries mimlre NIL
+SF526 org:top_members/employees mimlre  NYT_ENG_20080701.0238.LDC2009T13  Rick Taylor
+SF526 org:website mimlre NIL
+SF528 org:alternate_names mimlre NIL
+SF528 org:city_of_headquarters mimlre  APW_ENG_20070723.0056.LDC2009T13  Paris
+SF528 org:country_of_headquarters mimlre  AFP_ENG_20080409.0021.LDC2009T13  France
+SF528 org:dissolved mimlre NIL
+SF528 org:founded mimlre  XIN_ENG_20070724.0326.LDC2009T13  1998
+SF528 org:founded_by mimlre NIL
+SF528 org:member_of mimlre NIL
+SF528 org:members mimlre NIL
+SF528 org:number_of_employees/members mimlre NIL
+SF528 org:parents mimlre NIL
+SF528 org:political/religious_affiliation mimlre  AFP_ENG_20081016.0207.LDC2009T13  national
+SF528 org:political/religious_affiliation mimlre  AFP_ENG_20070111.0503.LDC2009T13  right
+SF528 org:political/religious_affiliation mimlre  APW_ENG_20070723.0276.LDC2009T13  left
+SF528 org:shareholders mimlre NIL
+SF528 org:stateorprovince_of_headquarters mimlre NIL
+SF528 org:subsidiaries mimlre NIL
+SF528 org:top_members/employees mimlre NIL
+SF528 org:website mimlre NIL
+SF530 org:alternate_names mimlre NIL
+SF530 org:city_of_headquarters mimlre  AFP_ENG_20080228.0075.LDC2009T13  Memphis
+SF530 org:country_of_headquarters mimlre  AFP_ENG_20081008.0112.LDC2009T13  England
+SF530 org:dissolved mimlre NIL
+SF530 org:founded mimlre  NYT_ENG_20070330.0119.LDC2009T13  1783
+SF530 org:founded_by mimlre NIL
+SF530 org:member_of mimlre NIL
+SF530 org:members mimlre NIL
+SF530 org:number_of_employees/members mimlre NIL
+SF530 org:parents mimlre  APW_ENG_20080228.0984.LDC2009T13  Man Group
+SF530 org:political/religious_affiliation mimlre  APW_ENG_20080228.0984.LDC2009T13  independent
+SF530 org:political/religious_affiliation mimlre  NYT_ENG_20080228.0221.LDC2009T13  left
+SF530 org:shareholders mimlre NIL
+SF530 org:stateorprovince_of_headquarters mimlre  AFP_ENG_20080228.0075.LDC2009T13  Tennessee
+SF530 org:subsidiaries mimlre NIL
+SF530 org:top_members/employees mimlre  NYT_ENG_20080228.0221.LDC2009T13  Kevin Davis
+SF530 org:top_members/employees mimlre  NYT_ENG_20070330.0119.LDC2009T13  James Man
+SF530 org:website mimlre NIL
+SF531 org:alternate_names mimlre NIL
+SF531 org:city_of_headquarters mimlre NIL
+SF531 org:country_of_headquarters mimlre  AFP_ENG_20081121.0400.LDC2009T13  Singapore
+SF531 org:dissolved mimlre NIL
+SF531 org:founded mimlre  AFP_ENG_20080805.0372.LDC2009T13  2001
+SF531 org:founded_by mimlre NIL
+SF531 org:member_of mimlre NIL
+SF531 org:members mimlre NIL
+SF531 org:number_of_employees/members mimlre NIL
+SF531 org:parents mimlre NIL
+SF531 org:political/religious_affiliation mimlre  APW_ENG_20080926.1308.LDC2009T13  International
+SF531 org:political/religious_affiliation mimlre  AFP_ENG_20081024.0475.LDC2009T13  left
+SF531 org:shareholders mimlre NIL
+SF531 org:stateorprovince_of_headquarters mimlre  eng-NG-31-100316-10825718  New York
+SF531 org:subsidiaries mimlre NIL
+SF531 org:top_members/employees mimlre  AFP_ENG_20081024.0547.LDC2009T13  Chris Williamson
+SF531 org:website mimlre NIL
+SF532 org:alternate_names mimlre NIL
+SF532 org:city_of_headquarters mimlre NIL
+SF532 org:country_of_headquarters mimlre NIL
+SF532 org:dissolved mimlre NIL
+SF532 org:founded mimlre NIL
+SF532 org:founded_by mimlre NIL
+SF532 org:member_of mimlre NIL
+SF532 org:members mimlre NIL
+SF532 org:number_of_employees/members mimlre NIL
+SF532 org:parents mimlre NIL
+SF532 org:political/religious_affiliation mimlre  AFP_ENG_20070806.0522.LDC2009T13  Green
+SF532 org:political/religious_affiliation mimlre  NYT_ENG_20081004.0098.LDC2009T13  liberal
+SF532 org:political/religious_affiliation mimlre  AFP_ENG_20070806.0522.LDC2009T13  national
+SF532 org:political/religious_affiliation mimlre  NYT_ENG_20081122.0049.LDC2009T13  international
+SF532 org:political/religious_affiliation mimlre  LTW_ENG_20080924.0028.LDC2009T13  right
+SF532 org:shareholders mimlre NIL
+SF532 org:stateorprovince_of_headquarters mimlre NIL
+SF532 org:subsidiaries mimlre NIL
+SF532 org:top_members/employees mimlre NIL
+SF532 org:website mimlre NIL
+SF533 org:alternate_names mimlre NIL
+SF533 org:city_of_headquarters mimlre  APW_ENG_20070621.0630.LDC2009T13  Mogadishu
+SF533 org:country_of_headquarters mimlre NIL
+SF533 org:dissolved mimlre NIL
+SF533 org:founded mimlre NIL
+SF533 org:founded_by mimlre NIL
+SF533 org:member_of mimlre NIL
+SF533 org:members mimlre NIL
+SF533 org:number_of_employees/members mimlre NIL
+SF533 org:parents mimlre NIL
+SF533 org:political/religious_affiliation mimlre  XIN_ENG_20071119.0217.LDC2009T13  reform
+SF533 org:shareholders mimlre NIL
+SF533 org:stateorprovince_of_headquarters mimlre NIL
+SF533 org:subsidiaries mimlre NIL
+SF533 org:top_members/employees mimlre  XIN_ENG_20080219.0185.LDC2009T13  Dr. Dahir Mohamoud Mohamed
+SF533 org:top_members/employees mimlre  APW_ENG_20070321.0799.LDC2009T13  Mohamed Mohamud
+SF533 org:top_members/employees mimlre  XIN_ENG_20070308.0182.LDC2009T13  Dr. Dahir Mohamed Mohamoud
+SF533 org:top_members/employees mimlre  APW_ENG_20080419.0369.LDC2009T13  Dahir Dhere
+SF533 org:top_members/employees mimlre  XIN_ENG_20080803.0084.LDC2009T13  Dr. Dahir Dheere
+SF533 org:website mimlre NIL
+SF534 org:alternate_names mimlre NIL
+SF534 org:city_of_headquarters mimlre  XIN_ENG_20070613.0409.LDC2009T13  Buenos Aires
+SF534 org:country_of_headquarters mimlre  APW_ENG_20071025.0208.LDC2009T13  Colombia
+SF534 org:dissolved mimlre NIL
+SF534 org:founded mimlre NIL
+SF534 org:founded_by mimlre NIL
+SF534 org:member_of mimlre  APW_ENG_20070707.0112.LDC2009T13  Major League Soccer
+SF534 org:members mimlre NIL
+SF534 org:number_of_employees/members mimlre  APW_ENG_20071101.0122.LDC2009T13  1
+SF534 org:parents mimlre NIL
+SF534 org:political/religious_affiliation mimlre  APW_ENG_20070816.1541.LDC2009T13  left
+SF534 org:political/religious_affiliation mimlre  APW_ENG_20071129.1653.LDC2009T13  National
+SF534 org:shareholders mimlre NIL
+SF534 org:stateorprovince_of_headquarters mimlre NIL
+SF534 org:subsidiaries mimlre NIL
+SF534 org:top_members/employees mimlre  APW_ENG_20070707.0112.LDC2009T13  Carlos Osorio
+SF534 org:top_members/employees mimlre  APW_ENG_20071114.0280.LDC2009T13  Carlos Castillo
+SF534 org:top_members/employees mimlre  APW_ENG_20071114.0280.LDC2009T13  Andres Salinas
+SF534 org:top_members/employees mimlre  APW_ENG_20070707.0112.LDC2009T13  Juan Carlos Osorio
+SF534 org:website mimlre NIL
+SF535 org:alternate_names mimlre NIL
+SF535 org:city_of_headquarters mimlre NIL
+SF535 org:country_of_headquarters mimlre NIL
+SF535 org:dissolved mimlre NIL
+SF535 org:founded mimlre NIL
+SF535 org:founded_by mimlre NIL
+SF535 org:member_of mimlre NIL
+SF535 org:members mimlre NIL
+SF535 org:number_of_employees/members mimlre NIL
+SF535 org:parents mimlre NIL
+SF535 org:political/religious_affiliation mimlre  AFP_ENG_20071203.0399.LDC2009T13  reform
+SF535 org:political/religious_affiliation mimlre  AFP_ENG_20070917.0316.LDC2009T13  red
+SF535 org:political/religious_affiliation mimlre  AFP_ENG_20070731.0310.LDC2009T13  left
+SF535 org:shareholders mimlre NIL
+SF535 org:stateorprovince_of_headquarters mimlre NIL
+SF535 org:subsidiaries mimlre NIL
+SF535 org:top_members/employees mimlre  AFP_ENG_20071025.0420.LDC2009T13  Yoshikazu Maruyama
+SF535 org:website mimlre NIL
+SF536 org:alternate_names mimlre NIL
+SF536 org:city_of_headquarters mimlre  NYT_ENG_20070115.0006.LDC2009T13  New Orleans
+SF536 org:country_of_headquarters mimlre NIL
+SF536 org:dissolved mimlre NIL
+SF536 org:founded mimlre NIL
+SF536 org:founded_by mimlre NIL
+SF536 org:member_of mimlre NIL
+SF536 org:members mimlre NIL
+SF536 org:number_of_employees/members mimlre NIL
+SF536 org:parents mimlre NIL
+SF536 org:political/religious_affiliation mimlre NIL
+SF536 org:shareholders mimlre NIL
+SF536 org:stateorprovince_of_headquarters mimlre  NYT_ENG_20071112.0130.LDC2009T13  Georgia
+SF536 org:subsidiaries mimlre NIL
+SF536 org:top_members/employees mimlre NIL
+SF536 org:website mimlre NIL
+SF537 org:alternate_names mimlre NIL
+SF537 org:city_of_headquarters mimlre  NYT_ENG_20070410.0207.LDC2009T13  New York City
+SF537 org:country_of_headquarters mimlre  APW_ENG_20070418.1697.LDC2009T13  United States
+SF537 org:dissolved mimlre NIL
+SF537 org:founded mimlre NIL
+SF537 org:founded_by mimlre  APW_ENG_20080426.0512.LDC2009T13  Al Sharpton
+SF537 org:member_of mimlre NIL
+SF537 org:members mimlre NIL
+SF537 org:number_of_employees/members mimlre NIL
+SF537 org:parents mimlre NIL
+SF537 org:political/religious_affiliation mimlre  APW_ENG_20080509.1355.LDC2009T13  national
+SF537 org:shareholders mimlre NIL
+SF537 org:stateorprovince_of_headquarters mimlre  LTW_ENG_20070416.0012.LDC2009T13  Washington
+SF537 org:subsidiaries mimlre NIL
+SF537 org:top_members/employees mimlre  APW_ENG_20080426.0512.LDC2009T13  Al Sharpton
+SF537 org:top_members/employees mimlre  NYT_ENG_20071006.0134.LDC2009T13  Sharpton
+SF537 org:website mimlre NIL
+SF538 org:alternate_names mimlre  APW_ENG_20070209.1876.LDC2009T13  Peter Hewat
+SF538 org:city_of_headquarters mimlre  AFP_ENG_20080523.0302.LDC2009T13  Sydney
+SF538 org:country_of_headquarters mimlre  AFP_ENG_20070217.0312.LDC2009T13  South Africa
+SF538 org:dissolved mimlre NIL
+SF538 org:founded mimlre NIL
+SF538 org:founded_by mimlre NIL
+SF538 org:member_of mimlre NIL
+SF538 org:members mimlre NIL
+SF538 org:number_of_employees/members mimlre NIL
+SF538 org:parents mimlre NIL
+SF538 org:political/religious_affiliation mimlre  APW_ENG_20070405.0040.LDC2009T13  international
+SF538 org:political/religious_affiliation mimlre  APW_ENG_20070429.0086.LDC2009T13  left
+SF538 org:political/religious_affiliation mimlre  AFP_ENG_20080817.0510.LDC2009T13  national
+SF538 org:shareholders mimlre NIL
+SF538 org:stateorprovince_of_headquarters mimlre NIL
+SF538 org:subsidiaries mimlre NIL
+SF538 org:top_members/employees mimlre  APW_ENG_20070521.0450.LDC2009T13  Lachie Turner
+SF538 org:website mimlre NIL
+SF539 org:alternate_names mimlre NIL
+SF539 org:city_of_headquarters mimlre NIL
+SF539 org:country_of_headquarters mimlre NIL
+SF539 org:dissolved mimlre NIL
+SF539 org:founded mimlre NIL
+SF539 org:founded_by mimlre NIL
+SF539 org:member_of mimlre NIL
+SF539 org:members mimlre NIL
+SF539 org:number_of_employees/members mimlre NIL
+SF539 org:parents mimlre NIL
+SF539 org:political/religious_affiliation mimlre  LTW_ENG_20070407.0016.LDC2009T13  left
+SF539 org:political/religious_affiliation mimlre  APW_ENG_20071021.0890.LDC2009T13  national
+SF539 org:political/religious_affiliation mimlre  eng-NG-31-142817-10100065  right
+SF539 org:shareholders mimlre NIL
+SF539 org:stateorprovince_of_headquarters mimlre NIL
+SF539 org:subsidiaries mimlre NIL
+SF539 org:top_members/employees mimlre  eng-NG-31-142891-10110574  Allentown Call Hazleton
+SF539 org:top_members/employees mimlre  LTW_ENG_20070515.0001.LDC2009T13  Brian Tierney
+SF539 org:website mimlre NIL
+SF540 org:alternate_names mimlre NIL
+SF540 org:city_of_headquarters mimlre  AFP_ENG_20080326.0425.LDC2009T13  Boston
+SF540 org:country_of_headquarters mimlre  APW_ENG_20080424.1066.LDC2009T13  jersey
+SF540 org:dissolved mimlre NIL
+SF540 org:founded mimlre NIL
+SF540 org:founded_by mimlre NIL
+SF540 org:member_of mimlre NIL
+SF540 org:members mimlre NIL
+SF540 org:number_of_employees/members mimlre NIL
+SF540 org:parents mimlre NIL
+SF540 org:political/religious_affiliation mimlre NIL
+SF540 org:shareholders mimlre NIL
+SF540 org:stateorprovince_of_headquarters mimlre NIL
+SF540 org:subsidiaries mimlre NIL
+SF540 org:top_members/employees mimlre  NYT_ENG_20081003.0053.LDC2009T13  Tom Werner
+SF540 org:top_members/employees mimlre  NYT_ENG_20070512.0140.LDC2009T13  Tracy Stallard
+SF540 org:top_members/employees mimlre  NYT_ENG_20080111.0038.LDC2009T13  Tom Yawkey
+SF540 org:website mimlre NIL
+SF541 org:alternate_names mimlre NIL
+SF541 org:city_of_headquarters mimlre NIL
+SF541 org:country_of_headquarters mimlre NIL
+SF541 org:dissolved mimlre NIL
+SF541 org:founded mimlre NIL
+SF541 org:founded_by mimlre NIL
+SF541 org:member_of mimlre NIL
+SF541 org:members mimlre NIL
+SF541 org:number_of_employees/members mimlre NIL
+SF541 org:parents mimlre NIL
+SF541 org:political/religious_affiliation mimlre  eng-NG-31-127164-12063382  international
+SF541 org:shareholders mimlre NIL
+SF541 org:stateorprovince_of_headquarters mimlre NIL
+SF541 org:subsidiaries mimlre NIL
+SF541 org:top_members/employees mimlre NIL
+SF541 org:website mimlre NIL
+SF543 org:alternate_names mimlre NIL
+SF543 org:city_of_headquarters mimlre NIL
+SF543 org:country_of_headquarters mimlre NIL
+SF543 org:dissolved mimlre NIL
+SF543 org:founded mimlre NIL
+SF543 org:founded_by mimlre NIL
+SF543 org:member_of mimlre NIL
+SF543 org:members mimlre NIL
+SF543 org:number_of_employees/members mimlre NIL
+SF543 org:parents mimlre NIL
+SF543 org:political/religious_affiliation mimlre NIL
+SF543 org:shareholders mimlre NIL
+SF543 org:stateorprovince_of_headquarters mimlre NIL
+SF543 org:subsidiaries mimlre NIL
+SF543 org:top_members/employees mimlre  APW_ENG_20081007.1211.LDC2009T13  Luiz Furlan
+SF543 org:website mimlre NIL
+SF544 org:alternate_names mimlre  eng-NG-31-137810-12193854  Marymount Manhattan College
+SF544 org:city_of_headquarters mimlre NIL
+SF544 org:country_of_headquarters mimlre NIL
+SF544 org:dissolved mimlre NIL
+SF544 org:founded mimlre NIL
+SF544 org:founded_by mimlre NIL
+SF544 org:member_of mimlre NIL
+SF544 org:members mimlre NIL
+SF544 org:number_of_employees/members mimlre NIL
+SF544 org:parents mimlre NIL
+SF544 org:political/religious_affiliation mimlre  eng-NG-31-141808-9965987  Center
+SF544 org:political/religious_affiliation mimlre  NYT_ENG_20081114.0095.LDC2009T13  liberal
+SF544 org:political/religious_affiliation mimlre  eng-NG-31-141808-9965845  national
+SF544 org:shareholders mimlre NIL
+SF544 org:stateorprovince_of_headquarters mimlre NIL
+SF544 org:subsidiaries mimlre NIL
+SF544 org:top_members/employees mimlre  NYT_ENG_20071113.0285.LDC2009T13  Beverly Daniel Tatum
+SF544 org:website mimlre NIL
+SF545 org:alternate_names mimlre NIL
+SF545 org:city_of_headquarters mimlre NIL
+SF545 org:country_of_headquarters mimlre  XIN_ENG_20081126.0184.LDC2009T13  United States
+SF545 org:dissolved mimlre NIL
+SF545 org:founded mimlre NIL
+SF545 org:founded_by mimlre NIL
+SF545 org:member_of mimlre NIL
+SF545 org:members mimlre NIL
+SF545 org:number_of_employees/members mimlre NIL
+SF545 org:parents mimlre NIL
+SF545 org:political/religious_affiliation mimlre  AFP_ENG_20081125.0389.LDC2009T13  right
+SF545 org:political/religious_affiliation mimlre  eng-NG-31-108608-12018760  center
+SF545 org:shareholders mimlre NIL
+SF545 org:stateorprovince_of_headquarters mimlre NIL
+SF545 org:subsidiaries mimlre NIL
+SF545 org:top_members/employees mimlre NIL
+SF545 org:website mimlre NIL
+SF546 org:alternate_names mimlre NIL
+SF546 org:city_of_headquarters mimlre  LTW_ENG_20080506.0173.LDC2009T13  Taipei
+SF546 org:country_of_headquarters mimlre  CNA_ENG_20070614.0042.LDC2009T13  Taiwan
+SF546 org:dissolved mimlre NIL
+SF546 org:founded mimlre NIL
+SF546 org:founded_by mimlre NIL
+SF546 org:member_of mimlre NIL
+SF546 org:members mimlre NIL
+SF546 org:number_of_employees/members mimlre NIL
+SF546 org:parents mimlre NIL
+SF546 org:political/religious_affiliation mimlre  CNA_ENG_20080310.0037.LDC2009T13  democratic
+SF546 org:political/religious_affiliation mimlre  CNA_ENG_20071029.0044.LDC2009T13  labor
+SF546 org:political/religious_affiliation mimlre  XIN_ENG_20070325.0131.LDC2009T13  independence
+SF546 org:shareholders mimlre NIL
+SF546 org:stateorprovince_of_headquarters mimlre NIL
+SF546 org:subsidiaries mimlre NIL
+SF546 org:top_members/employees mimlre  XIN_ENG_20070325.0131.LDC2009T13  Xu Bodong
+SF546 org:top_members/employees mimlre  CNA_ENG_20071029.0044.LDC2009T13  Lee Teng
+SF546 org:website mimlre NIL
+SF548 org:alternate_names mimlre NIL
+SF548 org:city_of_headquarters mimlre  NYT_ENG_20070124.0222.LDC2009T13  Mansfield
+SF548 org:country_of_headquarters mimlre  APW_ENG_20070508.0554.LDC2009T13  Bermuda
+SF548 org:dissolved mimlre NIL
+SF548 org:founded mimlre NIL
+SF548 org:founded_by mimlre NIL
+SF548 org:member_of mimlre NIL
+SF548 org:members mimlre NIL
+SF548 org:number_of_employees/members mimlre NIL
+SF548 org:parents mimlre  APW_ENG_20070508.0554.LDC2009T13  Tyco International
+SF548 org:political/religious_affiliation mimlre  NYT_ENG_20070124.0222.LDC2009T13  independent
+SF548 org:political/religious_affiliation mimlre  APW_ENG_20070508.0554.LDC2009T13  international
+SF548 org:shareholders mimlre NIL
+SF548 org:stateorprovince_of_headquarters mimlre NIL
+SF548 org:subsidiaries mimlre NIL
+SF548 org:top_members/employees mimlre  NYT_ENG_20080409.0244.LDC2009T13  Covidien
+SF548 org:top_members/employees mimlre  eng-WL-11-174588-12938740  Restoril
+SF548 org:website mimlre NIL
+SF549 org:alternate_names mimlre  APW_ENG_20080114.0805.LDC2009T13  LLC
+SF549 org:city_of_headquarters mimlre  LTW_ENG_20070117.0008.LDC2009T13  New Orleans
+SF549 org:country_of_headquarters mimlre  NYT_ENG_20080113.0216.LDC2009T13  France
+SF549 org:dissolved mimlre NIL
+SF549 org:founded mimlre  NYT_ENG_20080122.0102.LDC2009T13  1979
+SF549 org:founded_by mimlre NIL
+SF549 org:member_of mimlre NIL
+SF549 org:members mimlre NIL
+SF549 org:number_of_employees/members mimlre NIL
+SF549 org:parents mimlre NIL
+SF549 org:political/religious_affiliation mimlre  NYT_ENG_20080223.0057.LDC2009T13  international
+SF549 org:political/religious_affiliation mimlre  NYT_ENG_20080113.0216.LDC2009T13  populist
+SF549 org:political/religious_affiliation mimlre  NYT_ENG_20080122.0102.LDC2009T13  agnostic
+SF549 org:political/religious_affiliation mimlre  APW_ENG_20071022.0218.LDC2009T13  democratic
+SF549 org:political/religious_affiliation mimlre  NYT_ENG_20080122.0104.LDC2009T13  red
+SF549 org:shareholders mimlre NIL
+SF549 org:stateorprovince_of_headquarters mimlre  NYT_ENG_20071118.0028.LDC2009T13  Texas
+SF549 org:subsidiaries mimlre NIL
+SF549 org:top_members/employees mimlre NIL
+SF549 org:website mimlre NIL
+SF550 per:age mimlre NIL
+SF550 per:alternate_names mimlre NIL
+SF550 per:cause_of_death mimlre NIL
+SF550 per:charges mimlre NIL
+SF550 per:children mimlre NIL
+SF550 per:cities_of_residence mimlre  LTW_ENG_20071223.0009.LDC2009T13  Peshawar
+SF550 per:city_of_birth mimlre NIL
+SF550 per:city_of_death mimlre NIL
+SF550 per:countries_of_residence mimlre NIL
+SF550 per:country_of_birth mimlre NIL
+SF550 per:country_of_death mimlre NIL
+SF550 per:date_of_birth mimlre NIL
+SF550 per:date_of_death mimlre NIL
+SF550 per:employee_of mimlre NIL
+SF550 per:member_of mimlre NIL
+SF550 per:origin mimlre NIL
+SF550 per:other_family mimlre NIL
+SF550 per:parents mimlre NIL
+SF550 per:religion mimlre NIL
+SF550 per:schools_attended mimlre NIL
+SF550 per:siblings mimlre NIL
+SF550 per:spouse mimlre NIL
+SF550 per:stateorprovince_of_birth mimlre NIL
+SF550 per:stateorprovince_of_death mimlre NIL
+SF550 per:stateorprovinces_of_residence mimlre NIL
+SF550 per:title mimlre NIL
+SF551 per:age mimlre NIL
+SF551 per:alternate_names mimlre NIL
+SF551 per:cause_of_death mimlre NIL
+SF551 per:charges mimlre NIL
+SF551 per:children mimlre NIL
+SF551 per:cities_of_residence mimlre NIL
+SF551 per:city_of_birth mimlre NIL
+SF551 per:city_of_death mimlre NIL
+SF551 per:countries_of_residence mimlre NIL
+SF551 per:country_of_birth mimlre  APW_ENG_20070827.0873.LDC2009T13  San
+SF551 per:country_of_death mimlre NIL
+SF551 per:date_of_birth mimlre NIL
+SF551 per:date_of_death mimlre NIL
+SF551 per:employee_of mimlre NIL
+SF551 per:member_of mimlre NIL
+SF551 per:origin mimlre  APW_ENG_20070827.0873.LDC2009T13  Yemeni
+SF551 per:other_family mimlre NIL
+SF551 per:parents mimlre NIL
+SF551 per:religion mimlre NIL
+SF551 per:schools_attended mimlre NIL
+SF551 per:siblings mimlre NIL
+SF551 per:spouse mimlre NIL
+SF551 per:stateorprovince_of_birth mimlre NIL
+SF551 per:stateorprovince_of_death mimlre NIL
+SF551 per:stateorprovinces_of_residence mimlre NIL
+SF551 per:title mimlre NIL
+SF552 per:age mimlre NIL
+SF552 per:alternate_names mimlre NIL
+SF552 per:cause_of_death mimlre NIL
+SF552 per:charges mimlre  AFP_ENG_20080701.0537.LDC2009T13  assault
+SF552 per:children mimlre NIL
+SF552 per:cities_of_residence mimlre NIL
+SF552 per:city_of_birth mimlre NIL
+SF552 per:city_of_death mimlre NIL
+SF552 per:countries_of_residence mimlre NIL
+SF552 per:country_of_birth mimlre  APW_ENG_19981105.0242.LDC2007T07  Malaysia
+SF552 per:country_of_death mimlre NIL
+SF552 per:date_of_birth mimlre NIL
+SF552 per:date_of_death mimlre NIL
+SF552 per:employee_of mimlre NIL
+SF552 per:member_of mimlre NIL
+SF552 per:origin mimlre NIL
+SF552 per:other_family mimlre NIL
+SF552 per:parents mimlre NIL
+SF552 per:religion mimlre NIL
+SF552 per:schools_attended mimlre NIL
+SF552 per:siblings mimlre NIL
+SF552 per:spouse mimlre NIL
+SF552 per:stateorprovince_of_birth mimlre NIL
+SF552 per:stateorprovince_of_death mimlre NIL
+SF552 per:stateorprovinces_of_residence mimlre NIL
+SF552 per:title mimlre NIL
+SF553 per:age mimlre NIL
+SF553 per:alternate_names mimlre NIL
+SF553 per:cause_of_death mimlre NIL
+SF553 per:charges mimlre NIL
+SF553 per:children mimlre NIL
+SF553 per:cities_of_residence mimlre NIL
+SF553 per:city_of_birth mimlre NIL
+SF553 per:city_of_death mimlre NIL
+SF553 per:countries_of_residence mimlre NIL
+SF553 per:country_of_birth mimlre NIL
+SF553 per:country_of_death mimlre NIL
+SF553 per:date_of_birth mimlre NIL
+SF553 per:date_of_death mimlre NIL
+SF553 per:employee_of mimlre NIL
+SF553 per:member_of mimlre NIL
+SF553 per:origin mimlre  APW_ENG_20080823.0611.LDC2009T13  Ethiopian
+SF553 per:other_family mimlre NIL
+SF553 per:parents mimlre NIL
+SF553 per:religion mimlre NIL
+SF553 per:schools_attended mimlre NIL
+SF553 per:siblings mimlre NIL
+SF553 per:spouse mimlre NIL
+SF553 per:stateorprovince_of_birth mimlre NIL
+SF553 per:stateorprovince_of_death mimlre NIL
+SF553 per:stateorprovinces_of_residence mimlre NIL
+SF553 per:title mimlre NIL
+SF554 per:age mimlre NIL
+SF554 per:alternate_names mimlre  AFP_ENG_20070416.0391.LDC2009T13  Zayn Al Abidin Muhammad Husayn
+SF554 per:cause_of_death mimlre NIL
+SF554 per:charges mimlre  APW_ENG_20020402.1472.LDC2007T07  escape
+SF554 per:charges mimlre  APW_ENG_20071208.0059.LDC2009T13  torture
+SF554 per:charges mimlre  APW_ENG_20020402.1472.LDC2007T07  bombing
+SF554 per:charges mimlre  NYT_ENG_20071208.0132.LDC2009T13  terrorism
+SF554 per:children mimlre NIL
+SF554 per:cities_of_residence mimlre NIL
+SF554 per:city_of_birth mimlre  APW_ENG_20020611.0199.LDC2007T07  Faisalabad
+SF554 per:city_of_death mimlre NIL
+SF554 per:countries_of_residence mimlre NIL
+SF554 per:country_of_birth mimlre  APW_ENG_20020611.0199.LDC2007T07  Afghanistan
+SF554 per:country_of_death mimlre NIL
+SF554 per:date_of_birth mimlre NIL
+SF554 per:date_of_death mimlre NIL
+SF554 per:employee_of mimlre NIL
+SF554 per:member_of mimlre  APW_ENG_20020403.1196.LDC2007T07  Taliban
+SF554 per:origin mimlre  NYT_ENG_20020611.0316.LDC2007T07  American
+SF554 per:origin mimlre  APW_ENG_20020611.0199.LDC2007T07  Pakistani
+SF554 per:other_family mimlre NIL
+SF554 per:parents mimlre NIL
+SF554 per:religion mimlre NIL
+SF554 per:schools_attended mimlre NIL
+SF554 per:siblings mimlre NIL
+SF554 per:spouse mimlre NIL
+SF554 per:stateorprovince_of_birth mimlre  APW_ENG_20020523.1194.LDC2007T07  Pennsylvania
+SF554 per:stateorprovince_of_death mimlre NIL
+SF554 per:stateorprovinces_of_residence mimlre  APW_ENG_20020523.1194.LDC2007T07  al
+SF554 per:title mimlre NIL
+SF556 per:age mimlre NIL
+SF556 per:alternate_names mimlre NIL
+SF556 per:cause_of_death mimlre NIL
+SF556 per:charges mimlre NIL
+SF556 per:children mimlre NIL
+SF556 per:cities_of_residence mimlre NIL
+SF556 per:city_of_birth mimlre NIL
+SF556 per:city_of_death mimlre NIL
+SF556 per:countries_of_residence mimlre NIL
+SF556 per:country_of_birth mimlre NIL
+SF556 per:country_of_death mimlre NIL
+SF556 per:date_of_birth mimlre NIL
+SF556 per:date_of_death mimlre NIL
+SF556 per:employee_of mimlre  XIN_ENG_20071128.0323.LDC2009T13  National Economic Council
+SF556 per:member_of mimlre  XIN_ENG_20071128.0323.LDC2009T13  National Economic Council
+SF556 per:member_of mimlre  LTW_ENG_20070127.0134.LDC2009T13  White House
+SF556 per:member_of mimlre  LTW_ENG_20070925.0097.LDC2009T13  Grassley
+SF556 per:origin mimlre NIL
+SF556 per:other_family mimlre NIL
+SF556 per:parents mimlre NIL
+SF556 per:religion mimlre NIL
+SF556 per:schools_attended mimlre NIL
+SF556 per:siblings mimlre NIL
+SF556 per:spouse mimlre NIL
+SF556 per:stateorprovince_of_birth mimlre NIL
+SF556 per:stateorprovince_of_death mimlre NIL
+SF556 per:stateorprovinces_of_residence mimlre NIL
+SF556 per:title mimlre  LTW_ENG_20070127.0010.LDC2009T13  President
+SF557 per:age mimlre NIL
+SF557 per:alternate_names mimlre NIL
+SF557 per:cause_of_death mimlre NIL
+SF557 per:charges mimlre  groups.google.com_misc.consumers_b16a74b55b469aba_ENG_20060123_056000.LDC2006E32  torture
+SF557 per:charges mimlre  APW_ENG_20070611.1384.LDC2009T13  terrorism
+SF557 per:children mimlre NIL
+SF557 per:cities_of_residence mimlre NIL
+SF557 per:city_of_birth mimlre NIL
+SF557 per:city_of_death mimlre NIL
+SF557 per:countries_of_residence mimlre NIL
+SF557 per:country_of_birth mimlre NIL
+SF557 per:country_of_death mimlre NIL
+SF557 per:date_of_birth mimlre NIL
+SF557 per:date_of_death mimlre NIL
+SF557 per:employee_of mimlre NIL
+SF557 per:member_of mimlre  APW_ENG_20070621.1499.LDC2009T13  Homeland Security
+SF557 per:member_of mimlre  eng-WL-11-174611-12982643  ENDA
+SF557 per:member_of mimlre  LTW_ENG_20070322.0104.LDC2009T13  White House
+SF557 per:origin mimlre NIL
+SF557 per:other_family mimlre NIL
+SF557 per:parents mimlre NIL
+SF557 per:religion mimlre NIL
+SF557 per:schools_attended mimlre NIL
+SF557 per:siblings mimlre NIL
+SF557 per:spouse mimlre NIL
+SF557 per:stateorprovince_of_birth mimlre NIL
+SF557 per:stateorprovince_of_death mimlre NIL
+SF557 per:stateorprovinces_of_residence mimlre NIL
+SF557 per:title mimlre  APW_ENG_20070329.1268.LDC2009T13  President
+SF558 per:age mimlre NIL
+SF558 per:alternate_names mimlre  eng-NG-31-143058-10142667  P.S.
+SF558 per:cause_of_death mimlre NIL
+SF558 per:charges mimlre NIL
+SF558 per:children mimlre NIL
+SF558 per:cities_of_residence mimlre NIL
+SF558 per:city_of_birth mimlre NIL
+SF558 per:city_of_death mimlre NIL
+SF558 per:countries_of_residence mimlre NIL
+SF558 per:country_of_birth mimlre  eng-NG-31-100554-11546558  United States
+SF558 per:country_of_death mimlre NIL
+SF558 per:date_of_birth mimlre NIL
+SF558 per:date_of_death mimlre NIL
+SF558 per:employee_of mimlre  LTW_ENG_20070830.0113.LDC2009T13  California
+SF558 per:employee_of mimlre  APW_ENG_20071030.1285.LDC2009T13  Schwarzenneger
+SF558 per:member_of mimlre  XIN_ENG_20080520.0209.LDC2009T13  democratic
+SF558 per:origin mimlre NIL
+SF558 per:other_family mimlre NIL
+SF558 per:parents mimlre NIL
+SF558 per:religion mimlre NIL
+SF558 per:schools_attended mimlre NIL
+SF558 per:siblings mimlre NIL
+SF558 per:spouse mimlre NIL
+SF558 per:stateorprovince_of_birth mimlre  APW_ENG_20070830.0131.LDC2009T13  Minnesota
+SF558 per:stateorprovince_of_death mimlre NIL
+SF558 per:stateorprovinces_of_residence mimlre  LTW_ENG_20070830.0113.LDC2009T13  California
+SF558 per:title mimlre NIL
+SF559 per:age mimlre NIL
+SF559 per:alternate_names mimlre NIL
+SF559 per:cause_of_death mimlre NIL
+SF559 per:charges mimlre NIL
+SF559 per:children mimlre NIL
+SF559 per:cities_of_residence mimlre  NYT_ENG_20081106.0216.LDC2009T13  Phoenix
+SF559 per:city_of_birth mimlre  NYT_ENG_20081106.0216.LDC2009T13  Phoenix
+SF559 per:city_of_death mimlre NIL
+SF559 per:countries_of_residence mimlre NIL
+SF559 per:country_of_birth mimlre  APW_ENG_20080229.0204.LDC2009T13  Panama
+SF559 per:country_of_death mimlre NIL
+SF559 per:date_of_birth mimlre  NYT_ENG_20081207.0164.LDC2009T13  1964
+SF559 per:date_of_death mimlre NIL
+SF559 per:employee_of mimlre  APW_ENG_20080229.0204.LDC2009T13  Arizona
+SF559 per:employee_of mimlre  NYT_ENG_20080304.0173.LDC2009T13  Wyoming
+SF559 per:member_of mimlre  LTW_ENG_20071225.0054.LDC2009T13  Democratic
+SF559 per:origin mimlre  eng-NG-31-138612-9810744  pole
+SF559 per:other_family mimlre NIL
+SF559 per:parents mimlre NIL
+SF559 per:religion mimlre NIL
+SF559 per:schools_attended mimlre NIL
+SF559 per:siblings mimlre NIL
+SF559 per:spouse mimlre NIL
+SF559 per:stateorprovince_of_birth mimlre  APW_ENG_20080229.0204.LDC2009T13  Arizona
+SF559 per:stateorprovince_of_death mimlre NIL
+SF559 per:stateorprovinces_of_residence mimlre  APW_ENG_20080229.0204.LDC2009T13  Arizona
+SF559 per:title mimlre  NYT_ENG_20071029.0069.LDC2009T13  president
+SF560 per:age mimlre NIL
+SF560 per:alternate_names mimlre NIL
+SF560 per:cause_of_death mimlre NIL
+SF560 per:charges mimlre NIL
+SF560 per:children mimlre NIL
+SF560 per:cities_of_residence mimlre NIL
+SF560 per:city_of_birth mimlre NIL
+SF560 per:city_of_death mimlre NIL
+SF560 per:countries_of_residence mimlre NIL
+SF560 per:country_of_birth mimlre  APW_ENG_20080122.1008.LDC2009T13  Germany
+SF560 per:country_of_death mimlre NIL
+SF560 per:date_of_birth mimlre NIL
+SF560 per:date_of_death mimlre NIL
+SF560 per:employee_of mimlre NIL
+SF560 per:member_of mimlre  AFP_ENG_20080912.0300.LDC2009T13  IG Metall
+SF560 per:origin mimlre  AFP_ENG_20070903.0196.LDC2009T13  German
+SF560 per:other_family mimlre NIL
+SF560 per:parents mimlre NIL
+SF560 per:religion mimlre NIL
+SF560 per:schools_attended mimlre NIL
+SF560 per:siblings mimlre NIL
+SF560 per:spouse mimlre NIL
+SF560 per:stateorprovince_of_birth mimlre NIL
+SF560 per:stateorprovince_of_death mimlre NIL
+SF560 per:stateorprovinces_of_residence mimlre NIL
+SF560 per:title mimlre NIL
+SF561 per:age mimlre NIL
+SF561 per:alternate_names mimlre NIL
+SF561 per:cause_of_death mimlre NIL
+SF561 per:charges mimlre NIL
+SF561 per:children mimlre NIL
+SF561 per:cities_of_residence mimlre  APW_ENG_20081107.0065.LDC2009T13  Wasilla
+SF561 per:city_of_birth mimlre NIL
+SF561 per:city_of_death mimlre NIL
+SF561 per:countries_of_residence mimlre NIL
+SF561 per:country_of_birth mimlre  APW_ENG_20080926.0259.LDC2009T13  Iceland
+SF561 per:country_of_death mimlre NIL
+SF561 per:date_of_birth mimlre NIL
+SF561 per:date_of_death mimlre NIL
+SF561 per:employee_of mimlre  NYT_ENG_20080807.0177.LDC2009T13  Montana
+SF561 per:member_of mimlre NIL
+SF561 per:origin mimlre NIL
+SF561 per:other_family mimlre NIL
+SF561 per:parents mimlre NIL
+SF561 per:religion mimlre NIL
+SF561 per:schools_attended mimlre NIL
+SF561 per:siblings mimlre NIL
+SF561 per:spouse mimlre NIL
+SF561 per:stateorprovince_of_birth mimlre  eng-NG-31-102460-10984798  Alaska
+SF561 per:stateorprovince_of_death mimlre NIL
+SF561 per:stateorprovinces_of_residence mimlre NIL
+SF561 per:title mimlre NIL
+SF562 per:age mimlre NIL
+SF562 per:alternate_names mimlre NIL
+SF562 per:cause_of_death mimlre NIL
+SF562 per:charges mimlre NIL
+SF562 per:children mimlre NIL
+SF562 per:cities_of_residence mimlre  NYT_ENG_20070131.0302.LDC2009T13  Pinellas
+SF562 per:city_of_birth mimlre NIL
+SF562 per:city_of_death mimlre NIL
+SF562 per:countries_of_residence mimlre NIL
+SF562 per:country_of_birth mimlre NIL
+SF562 per:country_of_death mimlre NIL
+SF562 per:date_of_birth mimlre NIL
+SF562 per:date_of_death mimlre NIL
+SF562 per:employee_of mimlre NIL
+SF562 per:member_of mimlre NIL
+SF562 per:origin mimlre NIL
+SF562 per:other_family mimlre NIL
+SF562 per:parents mimlre NIL
+SF562 per:religion mimlre NIL
+SF562 per:schools_attended mimlre NIL
+SF562 per:siblings mimlre NIL
+SF562 per:spouse mimlre NIL
+SF562 per:stateorprovince_of_birth mimlre NIL
+SF562 per:stateorprovince_of_death mimlre NIL
+SF562 per:stateorprovinces_of_residence mimlre  NYT_ENG_20070304.0195.LDC2009T13  Florida
+SF562 per:title mimlre NIL
+SF564 per:age mimlre  APW_ENG_20070629.0472.LDC2009T13  54
+SF564 per:alternate_names mimlre NIL
+SF564 per:cause_of_death mimlre NIL
+SF564 per:charges mimlre NIL
+SF564 per:children mimlre NIL
+SF564 per:cities_of_residence mimlre NIL
+SF564 per:city_of_birth mimlre  XIN_ENG_20080506.0301.LDC2009T13  Hunan
+SF564 per:city_of_death mimlre NIL
+SF564 per:countries_of_residence mimlre NIL
+SF564 per:country_of_birth mimlre  XIN_ENG_20071010.0008.LDC2009T13  China
+SF564 per:country_of_death mimlre NIL
+SF564 per:date_of_birth mimlre NIL
+SF564 per:date_of_death mimlre NIL
+SF564 per:employee_of mimlre  APW_ENG_20080519.0486.LDC2009T13  central
+SF564 per:employee_of mimlre  XIN_ENG_20071010.0008.LDC2009T13  China
+SF564 per:employee_of mimlre  XIN_ENG_20071010.0220.LDC2009T13  United States
+SF564 per:member_of mimlre  XIN_ENG_20071226.0022.LDC2009T13  Party
+SF564 per:member_of mimlre  XIN_ENG_20070911.0027.LDC2009T13  Chinese Health Minister
+SF564 per:origin mimlre  XIN_ENG_20070905.0242.LDC2009T13  Chinese
+SF564 per:other_family mimlre NIL
+SF564 per:parents mimlre NIL
+SF564 per:religion mimlre NIL
+SF564 per:schools_attended mimlre NIL
+SF564 per:siblings mimlre NIL
+SF564 per:spouse mimlre NIL
+SF564 per:stateorprovince_of_birth mimlre NIL
+SF564 per:stateorprovince_of_death mimlre NIL
+SF564 per:stateorprovinces_of_residence mimlre NIL
+SF564 per:title mimlre  AFP_ENG_20080917.0779.LDC2009T13  Minister
+SF566 per:age mimlre NIL
+SF566 per:alternate_names mimlre NIL
+SF566 per:cause_of_death mimlre NIL
+SF566 per:charges mimlre NIL
+SF566 per:children mimlre NIL
+SF566 per:cities_of_residence mimlre  NYT_ENG_20080309.0003.LDC2009T13  MSNBC
+SF566 per:city_of_birth mimlre  LTW_ENG_20071023.0027.LDC2009T13  Manhattan
+SF566 per:city_of_death mimlre NIL
+SF566 per:countries_of_residence mimlre  LTW_ENG_20070413.0165.LDC2009T13  American
+SF566 per:country_of_birth mimlre  eng-NG-31-141960-9983480  United States
+SF566 per:country_of_death mimlre NIL
+SF566 per:date_of_birth mimlre NIL
+SF566 per:date_of_death mimlre NIL
+SF566 per:employee_of mimlre NIL
+SF566 per:member_of mimlre NIL
+SF566 per:origin mimlre NIL
+SF566 per:other_family mimlre NIL
+SF566 per:parents mimlre NIL
+SF566 per:religion mimlre NIL
+SF566 per:schools_attended mimlre  eng-WL-11-174596-12957021  Duke University
+SF566 per:siblings mimlre NIL
+SF566 per:spouse mimlre NIL
+SF566 per:stateorprovince_of_birth mimlre  eng-NG-31-138139-9803484  PR
+SF566 per:stateorprovince_of_death mimlre NIL
+SF566 per:stateorprovinces_of_residence mimlre NIL
+SF566 per:title mimlre NIL
+SF568 per:age mimlre NIL
+SF568 per:alternate_names mimlre NIL
+SF568 per:cause_of_death mimlre NIL
+SF568 per:charges mimlre NIL
+SF568 per:children mimlre NIL
+SF568 per:cities_of_residence mimlre NIL
+SF568 per:city_of_birth mimlre NIL
+SF568 per:city_of_death mimlre NIL
+SF568 per:countries_of_residence mimlre NIL
+SF568 per:country_of_birth mimlre  APW_ENG_20070130.0154.LDC2009T13  Uganda
+SF568 per:country_of_death mimlre NIL
+SF568 per:date_of_birth mimlre NIL
+SF568 per:date_of_death mimlre NIL
+SF568 per:employee_of mimlre  NYT_ENG_20070523.0007.LDC2009T13  NBC News
+SF568 per:member_of mimlre  NYT_ENG_20070523.0007.LDC2009T13  NBC
+SF568 per:origin mimlre  NYT_ENG_20081103.0131.LDC2009T13  African
+SF568 per:other_family mimlre NIL
+SF568 per:parents mimlre NIL
+SF568 per:religion mimlre NIL
+SF568 per:schools_attended mimlre NIL
+SF568 per:siblings mimlre NIL
+SF568 per:spouse mimlre NIL
+SF568 per:stateorprovince_of_birth mimlre NIL
+SF568 per:stateorprovince_of_death mimlre NIL
+SF568 per:stateorprovinces_of_residence mimlre  LTW_ENG_20070413.0165.LDC2009T13  Maryland
+SF568 per:title mimlre NIL
+SF569 per:age mimlre NIL
+SF569 per:alternate_names mimlre NIL
+SF569 per:cause_of_death mimlre NIL
+SF569 per:charges mimlre NIL
+SF569 per:children mimlre  APW_ENG_20080825.0219.LDC2009T13  Craig Robinson
+SF569 per:cities_of_residence mimlre NIL
+SF569 per:city_of_birth mimlre  LTW_ENG_20081003.0014.LDC2009T13  Chicago
+SF569 per:city_of_death mimlre  LTW_ENG_20081003.0014.LDC2009T13  Chicago
+SF569 per:countries_of_residence mimlre NIL
+SF569 per:country_of_birth mimlre NIL
+SF569 per:country_of_death mimlre NIL
+SF569 per:date_of_birth mimlre  LTW_ENG_20081003.0014.LDC2009T13  1884
+SF569 per:date_of_death mimlre NIL
+SF569 per:employee_of mimlre  LTW_ENG_20081003.0014.LDC2009T13  South Carolina
+SF569 per:member_of mimlre NIL
+SF569 per:origin mimlre NIL
+SF569 per:other_family mimlre NIL
+SF569 per:parents mimlre NIL
+SF569 per:religion mimlre NIL
+SF569 per:schools_attended mimlre NIL
+SF569 per:siblings mimlre NIL
+SF569 per:spouse mimlre  LTW_ENG_20081003.0014.LDC2009T13  Marian
+SF569 per:stateorprovince_of_birth mimlre NIL
+SF569 per:stateorprovince_of_death mimlre  LTW_ENG_20081003.0014.LDC2009T13  South Carolina
+SF569 per:stateorprovinces_of_residence mimlre  LTW_ENG_20081003.0014.LDC2009T13  South Carolina
+SF569 per:title mimlre NIL
+SF571 per:age mimlre NIL
+SF571 per:alternate_names mimlre NIL
+SF571 per:cause_of_death mimlre NIL
+SF571 per:charges mimlre  NYT_ENG_20071231.0106.LDC2009T13  child abuse
+SF571 per:charges mimlre  NYT_ENG_20071231.0106.LDC2009T13  domestic violence
+SF571 per:children mimlre NIL
+SF571 per:cities_of_residence mimlre  NYT_ENG_20081004.0165.LDC2009T13  Tampa
+SF571 per:city_of_birth mimlre NIL
+SF571 per:city_of_death mimlre NIL
+SF571 per:countries_of_residence mimlre NIL
+SF571 per:country_of_birth mimlre NIL
+SF571 per:country_of_death mimlre NIL
+SF571 per:date_of_birth mimlre NIL
+SF571 per:date_of_death mimlre NIL
+SF571 per:employee_of mimlre  NYT_ENG_20081001.0008.LDC2009T13  St. Thomas University
+SF571 per:member_of mimlre  eng-NG-31-147907-10554088  DCF
+SF571 per:origin mimlre NIL
+SF571 per:other_family mimlre NIL
+SF571 per:parents mimlre NIL
+SF571 per:religion mimlre NIL
+SF571 per:schools_attended mimlre NIL
+SF571 per:siblings mimlre NIL
+SF571 per:spouse mimlre NIL
+SF571 per:stateorprovince_of_birth mimlre NIL
+SF571 per:stateorprovince_of_death mimlre NIL
+SF571 per:stateorprovinces_of_residence mimlre NIL
+SF571 per:title mimlre NIL
+SF572 per:age mimlre NIL
+SF572 per:alternate_names mimlre NIL
+SF572 per:cause_of_death mimlre NIL
+SF572 per:charges mimlre NIL
+SF572 per:children mimlre NIL
+SF572 per:cities_of_residence mimlre NIL
+SF572 per:city_of_birth mimlre NIL
+SF572 per:city_of_death mimlre NIL
+SF572 per:countries_of_residence mimlre NIL
+SF572 per:country_of_birth mimlre NIL
+SF572 per:country_of_death mimlre NIL
+SF572 per:date_of_birth mimlre NIL
+SF572 per:date_of_death mimlre NIL
+SF572 per:employee_of mimlre NIL
+SF572 per:member_of mimlre NIL
+SF572 per:origin mimlre NIL
+SF572 per:other_family mimlre NIL
+SF572 per:parents mimlre NIL
+SF572 per:religion mimlre NIL
+SF572 per:schools_attended mimlre NIL
+SF572 per:siblings mimlre NIL
+SF572 per:spouse mimlre NIL
+SF572 per:stateorprovince_of_birth mimlre NIL
+SF572 per:stateorprovince_of_death mimlre NIL
+SF572 per:stateorprovinces_of_residence mimlre NIL
+SF572 per:title mimlre NIL
+SF573 per:age mimlre NIL
+SF573 per:alternate_names mimlre NIL
+SF573 per:cause_of_death mimlre NIL
+SF573 per:charges mimlre NIL
+SF573 per:children mimlre NIL
+SF573 per:cities_of_residence mimlre NIL
+SF573 per:city_of_birth mimlre NIL
+SF573 per:city_of_death mimlre NIL
+SF573 per:countries_of_residence mimlre NIL
+SF573 per:country_of_birth mimlre  CNA_ENG_20070101.0026.LDC2009T13  Taiwan
+SF573 per:country_of_death mimlre NIL
+SF573 per:date_of_birth mimlre NIL
+SF573 per:date_of_death mimlre NIL
+SF573 per:employee_of mimlre NIL
+SF573 per:member_of mimlre NIL
+SF573 per:origin mimlre NIL
+SF573 per:other_family mimlre NIL
+SF573 per:parents mimlre NIL
+SF573 per:religion mimlre NIL
+SF573 per:schools_attended mimlre NIL
+SF573 per:siblings mimlre NIL
+SF573 per:spouse mimlre  CNA_ENG_20071227.0046.LDC2009T13  Hu
+SF573 per:stateorprovince_of_birth mimlre NIL
+SF573 per:stateorprovince_of_death mimlre NIL
+SF573 per:stateorprovinces_of_residence mimlre NIL
+SF573 per:title mimlre NIL
+SF574 per:age mimlre NIL
+SF574 per:alternate_names mimlre NIL
+SF574 per:cause_of_death mimlre  APW_ENG_20070830.1130.LDC2009T13  executed
+SF574 per:charges mimlre  NYT_ENG_20081207.0005.LDC2009T13  murder
+SF574 per:children mimlre NIL
+SF574 per:cities_of_residence mimlre NIL
+SF574 per:city_of_birth mimlre NIL
+SF574 per:city_of_death mimlre NIL
+SF574 per:countries_of_residence mimlre NIL
+SF574 per:country_of_birth mimlre  AFP_ENG_19950830.0430.LDC2007T07  Iraq
+SF574 per:country_of_death mimlre  AFP_ENG_19950830.0430.LDC2007T07  Iraq
+SF574 per:date_of_birth mimlre NIL
+SF574 per:date_of_death mimlre  AFP_ENG_20070818.0349.LDC2009T13  1996
+SF574 per:employee_of mimlre NIL
+SF574 per:member_of mimlre NIL
+SF574 per:origin mimlre  XIN_ENG_20011001.0106.LDC2007T07  Egyptian
+SF574 per:origin mimlre  AFP_ENG_19950830.0430.LDC2007T07  Iraqi
+SF574 per:other_family mimlre NIL
+SF574 per:parents mimlre NIL
+SF574 per:religion mimlre NIL
+SF574 per:schools_attended mimlre NIL
+SF574 per:siblings mimlre NIL
+SF574 per:spouse mimlre  APW_ENG_20070820.0609.LDC2009T13  King Hussein
+SF574 per:spouse mimlre  APW_ENG_19960228.1058.LDC2007T07  Saddam Kamel al-Majid
+SF574 per:spouse mimlre  AFP_ENG_20070818.0349.LDC2009T13  Rana
+SF574 per:stateorprovince_of_birth mimlre NIL
+SF574 per:stateorprovince_of_death mimlre NIL
+SF574 per:stateorprovinces_of_residence mimlre NIL
+SF574 per:title mimlre  AFP_ENG_19950831.0128.LDC2007T07  President
+SF574 per:title mimlre  AFP_ENG_19950810.0091.LDC2007T07  minister
+SF575 per:age mimlre NIL
+SF575 per:alternate_names mimlre  APW_ENG_20081025.0725.LDC2009T13  James
+SF575 per:cause_of_death mimlre NIL
+SF575 per:charges mimlre  NYT_ENG_20081123.0033.LDC2009T13  Murder
+SF575 per:charges mimlre  NYT_ENG_20071027.0064.LDC2009T13  insider trading
+SF575 per:children mimlre NIL
+SF575 per:cities_of_residence mimlre NIL
+SF575 per:city_of_birth mimlre NIL
+SF575 per:city_of_death mimlre NIL
+SF575 per:countries_of_residence mimlre NIL
+SF575 per:country_of_birth mimlre NIL
+SF575 per:country_of_death mimlre NIL
+SF575 per:date_of_birth mimlre NIL
+SF575 per:date_of_death mimlre NIL
+SF575 per:employee_of mimlre NIL
+SF575 per:member_of mimlre  NYT_ENG_20081204.0078.LDC2009T13  SmartMoney
+SF575 per:origin mimlre  NYT_ENG_20071027.0064.LDC2009T13  American
+SF575 per:other_family mimlre NIL
+SF575 per:parents mimlre NIL
+SF575 per:religion mimlre NIL
+SF575 per:schools_attended mimlre NIL
+SF575 per:siblings mimlre NIL
+SF575 per:spouse mimlre NIL
+SF575 per:stateorprovince_of_birth mimlre NIL
+SF575 per:stateorprovince_of_death mimlre NIL
+SF575 per:stateorprovinces_of_residence mimlre NIL
+SF575 per:title mimlre  APW_ENG_20071004.0289.LDC2009T13  lawyer
+SF575 per:title mimlre  NYT_ENG_20070325.0093.LDC2009T13  author
+SF575 per:title mimlre  APW_ENG_20071004.0289.LDC2009T13  journalist
+SF576 per:age mimlre NIL
+SF576 per:alternate_names mimlre NIL
+SF576 per:cause_of_death mimlre NIL
+SF576 per:charges mimlre  LTW_ENG_20070103.0079.LDC2009T13  escape
+SF576 per:children mimlre NIL
+SF576 per:cities_of_residence mimlre  NYT_ENG_20070220.0258.LDC2009T13  Chicago
+SF576 per:city_of_birth mimlre NIL
+SF576 per:city_of_death mimlre NIL
+SF576 per:countries_of_residence mimlre NIL
+SF576 per:country_of_birth mimlre NIL
+SF576 per:country_of_death mimlre NIL
+SF576 per:date_of_birth mimlre NIL
+SF576 per:date_of_death mimlre NIL
+SF576 per:employee_of mimlre NIL
+SF576 per:member_of mimlre  LTW_ENG_20070103.0079.LDC2009T13  Communist Party
+SF576 per:origin mimlre  NYT_ENG_20080413.0032.LDC2009T13  American
+SF576 per:other_family mimlre NIL
+SF576 per:parents mimlre NIL
+SF576 per:religion mimlre NIL
+SF576 per:schools_attended mimlre NIL
+SF576 per:siblings mimlre NIL
+SF576 per:spouse mimlre  LTW_ENG_20070103.0079.LDC2009T13  Tanaquil Le Clercq
+SF576 per:stateorprovince_of_birth mimlre NIL
+SF576 per:stateorprovince_of_death mimlre NIL
+SF576 per:stateorprovinces_of_residence mimlre NIL
+SF576 per:title mimlre NIL
+SF578 per:age mimlre NIL
+SF578 per:alternate_names mimlre NIL
+SF578 per:cause_of_death mimlre NIL
+SF578 per:charges mimlre  APW_ENG_20070821.1311.LDC2009T13  terrorism
+SF578 per:children mimlre NIL
+SF578 per:cities_of_residence mimlre NIL
+SF578 per:city_of_birth mimlre NIL
+SF578 per:city_of_death mimlre NIL
+SF578 per:countries_of_residence mimlre  AFP_ENG_20070621.0601.LDC2009T13  China
+SF578 per:country_of_birth mimlre NIL
+SF578 per:country_of_death mimlre NIL
+SF578 per:date_of_birth mimlre NIL
+SF578 per:date_of_death mimlre NIL
+SF578 per:employee_of mimlre  AFP_ENG_20081207.0434.LDC2009T13  Israel
+SF578 per:employee_of mimlre  APW_ENG_20080219.0863.LDC2009T13  United States
+SF578 per:employee_of mimlre  XIN_ENG_20070413.0049.LDC2009T13  Sudan
+SF578 per:employee_of mimlre  AFP_ENG_20071118.0499.LDC2009T13  US
+SF578 per:employee_of mimlre  AFP_ENG_20081211.0521.LDC2009T13  Pakistan
+SF578 per:member_of mimlre  XIN_ENG_20070103.0286.LDC2009T13  U.S. National Intelligence
+SF578 per:member_of mimlre  AFP_ENG_20070201.0703.LDC2009T13  National Intelligence
+SF578 per:origin mimlre  XIN_ENG_20081212.0081.LDC2009T13  Pakistani
+SF578 per:origin mimlre  APW_ENG_20070201.1289.LDC2009T13  Venezuelan
+SF578 per:origin mimlre  APW_ENG_20070416.0256.LDC2009T13  Sudanese
+SF578 per:origin mimlre  eng-WL-11-99241-9833210  Chinese
+SF578 per:other_family mimlre NIL
+SF578 per:parents mimlre NIL
+SF578 per:religion mimlre NIL
+SF578 per:schools_attended mimlre NIL
+SF578 per:siblings mimlre NIL
+SF578 per:spouse mimlre NIL
+SF578 per:stateorprovince_of_birth mimlre NIL
+SF578 per:stateorprovince_of_death mimlre NIL
+SF578 per:stateorprovinces_of_residence mimlre NIL
+SF578 per:title mimlre  XIN_ENG_20070227.0320.LDC2009T13  President
+SF579 per:age mimlre NIL
+SF579 per:alternate_names mimlre NIL
+SF579 per:cause_of_death mimlre NIL
+SF579 per:charges mimlre NIL
+SF579 per:children mimlre NIL
+SF579 per:cities_of_residence mimlre NIL
+SF579 per:city_of_birth mimlre NIL
+SF579 per:city_of_death mimlre NIL
+SF579 per:countries_of_residence mimlre NIL
+SF579 per:country_of_birth mimlre NIL
+SF579 per:country_of_death mimlre NIL
+SF579 per:date_of_birth mimlre NIL
+SF579 per:date_of_death mimlre NIL
+SF579 per:employee_of mimlre NIL
+SF579 per:member_of mimlre  eng-WL-11-174595-12967431  GQ
+SF579 per:origin mimlre  NYT_ENG_20080217.0125.LDC2009T13  American
+SF579 per:other_family mimlre NIL
+SF579 per:parents mimlre NIL
+SF579 per:religion mimlre NIL
+SF579 per:schools_attended mimlre NIL
+SF579 per:siblings mimlre NIL
+SF579 per:spouse mimlre NIL
+SF579 per:stateorprovince_of_birth mimlre NIL
+SF579 per:stateorprovince_of_death mimlre NIL
+SF579 per:stateorprovinces_of_residence mimlre NIL
+SF579 per:title mimlre NIL
+SF581 per:age mimlre  LTW_ENG_20070921.0034.LDC2009T13  36
+SF581 per:alternate_names mimlre NIL
+SF581 per:cause_of_death mimlre NIL
+SF581 per:charges mimlre NIL
+SF581 per:children mimlre NIL
+SF581 per:cities_of_residence mimlre NIL
+SF581 per:city_of_birth mimlre NIL
+SF581 per:city_of_death mimlre NIL
+SF581 per:countries_of_residence mimlre NIL
+SF581 per:country_of_birth mimlre  APW_ENG_20070803.0040.LDC2009T13  Mexico
+SF581 per:country_of_death mimlre NIL
+SF581 per:date_of_birth mimlre NIL
+SF581 per:date_of_death mimlre NIL
+SF581 per:employee_of mimlre NIL
+SF581 per:member_of mimlre NIL
+SF581 per:origin mimlre NIL
+SF581 per:other_family mimlre NIL
+SF581 per:parents mimlre NIL
+SF581 per:religion mimlre NIL
+SF581 per:schools_attended mimlre NIL
+SF581 per:siblings mimlre NIL
+SF581 per:spouse mimlre NIL
+SF581 per:stateorprovince_of_birth mimlre  LTW_ENG_20070906.0060.LDC2009T13  New York
+SF581 per:stateorprovince_of_death mimlre NIL
+SF581 per:stateorprovinces_of_residence mimlre NIL
+SF581 per:title mimlre  LTW_ENG_20070906.0060.LDC2009T13  Mayor
+SF583 per:age mimlre  NYT_ENG_20081220.0024.LDC2009T13  55
+SF583 per:alternate_names mimlre NIL
+SF583 per:cause_of_death mimlre NIL
+SF583 per:charges mimlre NIL
+SF583 per:children mimlre NIL
+SF583 per:cities_of_residence mimlre NIL
+SF583 per:city_of_birth mimlre  NYT_ENG_20081220.0024.LDC2009T13  Okeechobee
+SF583 per:city_of_death mimlre NIL
+SF583 per:countries_of_residence mimlre NIL
+SF583 per:country_of_birth mimlre  NYT_ENG_20081220.0024.LDC2009T13  Australia
+SF583 per:country_of_death mimlre NIL
+SF583 per:date_of_birth mimlre NIL
+SF583 per:date_of_death mimlre NIL
+SF583 per:employee_of mimlre NIL
+SF583 per:member_of mimlre NIL
+SF583 per:origin mimlre  NYT_ENG_20081220.0024.LDC2009T13  American
+SF583 per:other_family mimlre NIL
+SF583 per:parents mimlre NIL
+SF583 per:religion mimlre NIL
+SF583 per:schools_attended mimlre NIL
+SF583 per:siblings mimlre NIL
+SF583 per:spouse mimlre NIL
+SF583 per:stateorprovince_of_birth mimlre  NYT_ENG_20081220.0024.LDC2009T13  Florida
+SF583 per:stateorprovince_of_death mimlre NIL
+SF583 per:stateorprovinces_of_residence mimlre NIL
+SF583 per:title mimlre NIL
+SF584 per:age mimlre NIL
+SF584 per:alternate_names mimlre NIL
+SF584 per:cause_of_death mimlre NIL
+SF584 per:charges mimlre NIL
+SF584 per:children mimlre NIL
+SF584 per:cities_of_residence mimlre NIL
+SF584 per:city_of_birth mimlre NIL
+SF584 per:city_of_death mimlre NIL
+SF584 per:countries_of_residence mimlre NIL
+SF584 per:country_of_birth mimlre NIL
+SF584 per:country_of_death mimlre NIL
+SF584 per:date_of_birth mimlre NIL
+SF584 per:date_of_death mimlre NIL
+SF584 per:employee_of mimlre NIL
+SF584 per:member_of mimlre  XIN_ENG_20080715.0172.LDC2009T13  AP
+SF584 per:origin mimlre NIL
+SF584 per:other_family mimlre NIL
+SF584 per:parents mimlre NIL
+SF584 per:religion mimlre NIL
+SF584 per:schools_attended mimlre NIL
+SF584 per:siblings mimlre NIL
+SF584 per:spouse mimlre NIL
+SF584 per:stateorprovince_of_birth mimlre NIL
+SF584 per:stateorprovince_of_death mimlre NIL
+SF584 per:stateorprovinces_of_residence mimlre NIL
+SF584 per:title mimlre NIL
+SF585 per:age mimlre NIL
+SF585 per:alternate_names mimlre NIL
+SF585 per:cause_of_death mimlre NIL
+SF585 per:charges mimlre NIL
+SF585 per:children mimlre NIL
+SF585 per:cities_of_residence mimlre NIL
+SF585 per:city_of_birth mimlre NIL
+SF585 per:city_of_death mimlre NIL
+SF585 per:countries_of_residence mimlre NIL
+SF585 per:country_of_birth mimlre  XIN_ENG_20071107.0452.LDC2009T13  Mongolia
+SF585 per:country_of_death mimlre NIL
+SF585 per:date_of_birth mimlre NIL
+SF585 per:date_of_death mimlre NIL
+SF585 per:employee_of mimlre  XIN_ENG_20071107.0452.LDC2009T13  Mongolia
+SF585 per:member_of mimlre  XIN_ENG_20070104.0153.LDC2009T13  Popular Party
+SF585 per:member_of mimlre  XIN_ENG_20070903.0163.LDC2009T13  MPRP
+SF585 per:origin mimlre  XIN_ENG_20070903.0163.LDC2009T13  Mongolian
+SF585 per:other_family mimlre NIL
+SF585 per:parents mimlre NIL
+SF585 per:religion mimlre NIL
+SF585 per:schools_attended mimlre NIL
+SF585 per:siblings mimlre NIL
+SF585 per:spouse mimlre NIL
+SF585 per:stateorprovince_of_birth mimlre NIL
+SF585 per:stateorprovince_of_death mimlre NIL
+SF585 per:stateorprovinces_of_residence mimlre NIL
+SF585 per:title mimlre  XIN_ENG_20070829.0178.LDC2009T13  President
+SF585 per:title mimlre  XIN_ENG_20071015.0195.LDC2009T13  Assistant Minister
+SF585 per:title mimlre  XIN_ENG_20071107.0452.LDC2009T13  Prime Minister
+SF586 per:age mimlre NIL
+SF586 per:alternate_names mimlre NIL
+SF586 per:cause_of_death mimlre NIL
+SF586 per:charges mimlre NIL
+SF586 per:children mimlre NIL
+SF586 per:cities_of_residence mimlre  AFP_ENG_20071204.0448.LDC2009T13  Bajaur
+SF586 per:city_of_birth mimlre NIL
+SF586 per:city_of_death mimlre NIL
+SF586 per:countries_of_residence mimlre NIL
+SF586 per:country_of_birth mimlre NIL
+SF586 per:country_of_death mimlre NIL
+SF586 per:date_of_birth mimlre NIL
+SF586 per:date_of_death mimlre NIL
+SF586 per:employee_of mimlre NIL
+SF586 per:member_of mimlre NIL
+SF586 per:origin mimlre NIL
+SF586 per:other_family mimlre NIL
+SF586 per:parents mimlre NIL
+SF586 per:religion mimlre NIL
+SF586 per:schools_attended mimlre NIL
+SF586 per:siblings mimlre NIL
+SF586 per:spouse mimlre NIL
+SF586 per:stateorprovince_of_birth mimlre NIL
+SF586 per:stateorprovince_of_death mimlre NIL
+SF586 per:stateorprovinces_of_residence mimlre NIL
+SF586 per:title mimlre NIL
+SF587 per:age mimlre NIL
+SF587 per:alternate_names mimlre NIL
+SF587 per:cause_of_death mimlre NIL
+SF587 per:charges mimlre  AFP_ENG_20070821.0243.LDC2009T13  bombing
+SF587 per:children mimlre NIL
+SF587 per:cities_of_residence mimlre NIL
+SF587 per:city_of_birth mimlre NIL
+SF587 per:city_of_death mimlre NIL
+SF587 per:countries_of_residence mimlre NIL
+SF587 per:country_of_birth mimlre NIL
+SF587 per:country_of_death mimlre NIL
+SF587 per:date_of_birth mimlre NIL
+SF587 per:date_of_death mimlre NIL
+SF587 per:employee_of mimlre NIL
+SF587 per:member_of mimlre NIL
+SF587 per:origin mimlre NIL
+SF587 per:other_family mimlre NIL
+SF587 per:parents mimlre NIL
+SF587 per:religion mimlre NIL
+SF587 per:schools_attended mimlre NIL
+SF587 per:siblings mimlre NIL
+SF587 per:spouse mimlre NIL
+SF587 per:stateorprovince_of_birth mimlre NIL
+SF587 per:stateorprovince_of_death mimlre NIL
+SF587 per:stateorprovinces_of_residence mimlre NIL
+SF587 per:title mimlre  XIN_ENG_20070910.0431.LDC2009T13  Superintendent
+SF588 per:age mimlre NIL
+SF588 per:alternate_names mimlre NIL
+SF588 per:cause_of_death mimlre NIL
+SF588 per:charges mimlre NIL
+SF588 per:children mimlre NIL
+SF588 per:cities_of_residence mimlre NIL
+SF588 per:city_of_birth mimlre NIL
+SF588 per:city_of_death mimlre NIL
+SF588 per:countries_of_residence mimlre NIL
+SF588 per:country_of_birth mimlre NIL
+SF588 per:country_of_death mimlre NIL
+SF588 per:date_of_birth mimlre NIL
+SF588 per:date_of_death mimlre NIL
+SF588 per:employee_of mimlre NIL
+SF588 per:member_of mimlre  APW_ENG_20070205.0589.LDC2009T13  Greenpeace
+SF588 per:origin mimlre NIL
+SF588 per:other_family mimlre NIL
+SF588 per:parents mimlre NIL
+SF588 per:religion mimlre NIL
+SF588 per:schools_attended mimlre NIL
+SF588 per:siblings mimlre NIL
+SF588 per:spouse mimlre NIL
+SF588 per:stateorprovince_of_birth mimlre NIL
+SF588 per:stateorprovince_of_death mimlre NIL
+SF588 per:stateorprovinces_of_residence mimlre NIL
+SF588 per:title mimlre NIL
+SF589 per:age mimlre NIL
+SF589 per:alternate_names mimlre NIL
+SF589 per:cause_of_death mimlre NIL
+SF589 per:charges mimlre  APW_ENG_20070824.1254.LDC2009T13  genocide
+SF589 per:children mimlre NIL
+SF589 per:cities_of_residence mimlre NIL
+SF589 per:city_of_birth mimlre NIL
+SF589 per:city_of_death mimlre NIL
+SF589 per:countries_of_residence mimlre NIL
+SF589 per:country_of_birth mimlre NIL
+SF589 per:country_of_death mimlre NIL
+SF589 per:date_of_birth mimlre NIL
+SF589 per:date_of_death mimlre NIL
+SF589 per:employee_of mimlre  APW_ENG_20071205.1171.LDC2009T13  Sudan
+SF589 per:member_of mimlre NIL
+SF589 per:origin mimlre  AFP_ENG_20080427.0408.LDC2009T13  Chinese
+SF589 per:other_family mimlre NIL
+SF589 per:parents mimlre NIL
+SF589 per:religion mimlre NIL
+SF589 per:schools_attended mimlre NIL
+SF589 per:siblings mimlre NIL
+SF589 per:spouse mimlre NIL
+SF589 per:stateorprovince_of_birth mimlre NIL
+SF589 per:stateorprovince_of_death mimlre NIL
+SF589 per:stateorprovinces_of_residence mimlre NIL
+SF589 per:title mimlre  APW_ENG_20080213.0163.LDC2009T13  film director
+SF590 per:age mimlre NIL
+SF590 per:alternate_names mimlre NIL
+SF590 per:cause_of_death mimlre NIL
+SF590 per:charges mimlre NIL
+SF590 per:children mimlre NIL
+SF590 per:cities_of_residence mimlre  AFP_ENG_20081117.0309.LDC2009T13  Dubai
+SF590 per:cities_of_residence mimlre  AFP_ENG_20070626.0003.LDC2009T13  North Korea
+SF590 per:city_of_birth mimlre NIL
+SF590 per:city_of_death mimlre NIL
+SF590 per:countries_of_residence mimlre NIL
+SF590 per:country_of_birth mimlre NIL
+SF590 per:country_of_death mimlre NIL
+SF590 per:date_of_birth mimlre NIL
+SF590 per:date_of_death mimlre NIL
+SF590 per:employee_of mimlre  AFP_ENG_20071028.0173.LDC2009T13  U.N.
+SF590 per:employee_of mimlre  XIN_ENG_20070308.0010.LDC2009T13  U.N. Security Council
+SF590 per:employee_of mimlre  XIN_ENG_20071029.0345.LDC2009T13  Israel
+SF590 per:employee_of mimlre  AFP_ENG_20070201.0267.LDC2009T13  International Atomic Energy Agency
+SF590 per:employee_of mimlre  AFP_ENG_20071028.0173.LDC2009T13  UN
+SF590 per:employee_of mimlre  AFP_ENG_20070709.0199.LDC2009T13  Natanz
+SF590 per:employee_of mimlre  AFP_ENG_20070209.0135.LDC2009T13  IAEA
+SF590 per:employee_of mimlre  AFP_ENG_20070219.0106.LDC2009T13  Iran
+SF590 per:member_of mimlre  AFP_ENG_20070209.0135.LDC2009T13  IAEA
+SF590 per:member_of mimlre  AFP_ENG_20071028.0173.LDC2009T13  UN
+SF590 per:origin mimlre NIL
+SF590 per:other_family mimlre NIL
+SF590 per:parents mimlre NIL
+SF590 per:religion mimlre NIL
+SF590 per:schools_attended mimlre NIL
+SF590 per:siblings mimlre NIL
+SF590 per:spouse mimlre NIL
+SF590 per:stateorprovince_of_birth mimlre NIL
+SF590 per:stateorprovince_of_death mimlre NIL
+SF590 per:stateorprovinces_of_residence mimlre NIL
+SF590 per:title mimlre  AFP_ENG_20071108.0612.LDC2009T13  Prime Minister
+SF590 per:title mimlre  AFP_ENG_20070223.0321.LDC2009T13  chief
+SF592 per:age mimlre NIL
+SF592 per:alternate_names mimlre NIL
+SF592 per:cause_of_death mimlre NIL
+SF592 per:charges mimlre NIL
+SF592 per:children mimlre NIL
+SF592 per:cities_of_residence mimlre NIL
+SF592 per:city_of_birth mimlre  AFP_ENG_20071211.0266.LDC2009T13  London
+SF592 per:city_of_death mimlre NIL
+SF592 per:countries_of_residence mimlre NIL
+SF592 per:country_of_birth mimlre  AFP_ENG_20080401.0406.LDC2009T13  Switzerland
+SF592 per:country_of_death mimlre NIL
+SF592 per:date_of_birth mimlre  AFP_ENG_20080401.0406.LDC2009T13  1950
+SF592 per:date_of_death mimlre NIL
+SF592 per:employee_of mimlre NIL
+SF592 per:member_of mimlre  NYT_ENG_20080227.0155.LDC2009T13  UBS
+SF592 per:member_of mimlre  APW_ENG_20080401.0250.LDC2009T13  UBS AG
+SF592 per:origin mimlre  NYT_ENG_20080406.0040.LDC2009T13  Swiss
+SF592 per:other_family mimlre NIL
+SF592 per:parents mimlre NIL
+SF592 per:religion mimlre NIL
+SF592 per:schools_attended mimlre  AFP_ENG_20080401.0406.LDC2009T13  Rochester University
+SF592 per:siblings mimlre NIL
+SF592 per:spouse mimlre NIL
+SF592 per:stateorprovince_of_birth mimlre NIL
+SF592 per:stateorprovince_of_death mimlre NIL
+SF592 per:stateorprovinces_of_residence mimlre NIL
+SF592 per:title mimlre  AFP_ENG_20071006.0253.LDC2009T13  president
+SF593 per:age mimlre  LTW_ENG_20080116.0116.LDC2009T13  85
+SF593 per:alternate_names mimlre NIL
+SF593 per:cause_of_death mimlre NIL
+SF593 per:charges mimlre NIL
+SF593 per:children mimlre NIL
+SF593 per:cities_of_residence mimlre NIL
+SF593 per:city_of_birth mimlre NIL
+SF593 per:city_of_death mimlre  LTW_ENG_20080116.0116.LDC2009T13  Hollywood
+SF593 per:countries_of_residence mimlre NIL
+SF593 per:country_of_birth mimlre  XIN_ENG_20080816.0203.LDC2009T13  Finland
+SF593 per:country_of_death mimlre NIL
+SF593 per:date_of_birth mimlre  LTW_ENG_20080116.0116.LDC2009T13  1953
+SF593 per:date_of_death mimlre NIL
+SF593 per:employee_of mimlre NIL
+SF593 per:member_of mimlre  AFP_ENG_20080812.0975.LDC2009T13  Phelps
+SF593 per:origin mimlre  NYT_ENG_20080813.0035.LDC2009T13  American
+SF593 per:origin mimlre  XIN_ENG_20080812.0266.LDC2009T13  Finnish
+SF593 per:origin mimlre  AFP_ENG_20071218.5016.LDC2009T13  Moroccan
+SF593 per:origin mimlre  AFP_ENG_20071218.5016.LDC2009T13  Finn
+SF593 per:origin mimlre  AFP_ENG_20070902.0399.LDC2009T13  African
+SF593 per:other_family mimlre NIL
+SF593 per:parents mimlre NIL
+SF593 per:religion mimlre NIL
+SF593 per:schools_attended mimlre NIL
+SF593 per:siblings mimlre NIL
+SF593 per:spouse mimlre NIL
+SF593 per:stateorprovince_of_birth mimlre NIL
+SF593 per:stateorprovince_of_death mimlre NIL
+SF593 per:stateorprovinces_of_residence mimlre NIL
+SF593 per:title mimlre NIL
+SF594 per:age mimlre NIL
+SF594 per:alternate_names mimlre NIL
+SF594 per:cause_of_death mimlre NIL
+SF594 per:charges mimlre NIL
+SF594 per:children mimlre NIL
+SF594 per:cities_of_residence mimlre NIL
+SF594 per:city_of_birth mimlre NIL
+SF594 per:city_of_death mimlre NIL
+SF594 per:countries_of_residence mimlre NIL
+SF594 per:country_of_birth mimlre  APW_ENG_20080304.0088.LDC2009T13  Japan
+SF594 per:country_of_death mimlre NIL
+SF594 per:date_of_birth mimlre NIL
+SF594 per:date_of_death mimlre NIL
+SF594 per:employee_of mimlre  APW_ENG_20080117.0101.LDC2009T13  Sea Shepherd
+SF594 per:employee_of mimlre  eng-NG-31-141866-9974175  Sea Shepherd Conservation Society
+SF594 per:member_of mimlre  APW_ENG_20080117.0101.LDC2009T13  Sea Shepherd
+SF594 per:member_of mimlre  eng-NG-31-141866-9974175  Sea Shepherd Conservation Society
+SF594 per:origin mimlre  AFP_ENG_20080117.0626.LDC2009T13  Australian
+SF594 per:origin mimlre  eng-NG-31-142506-10057905  Japanese
+SF594 per:other_family mimlre NIL
+SF594 per:parents mimlre NIL
+SF594 per:religion mimlre NIL
+SF594 per:schools_attended mimlre NIL
+SF594 per:siblings mimlre NIL
+SF594 per:spouse mimlre NIL
+SF594 per:stateorprovince_of_birth mimlre NIL
+SF594 per:stateorprovince_of_death mimlre NIL
+SF594 per:stateorprovinces_of_residence mimlre NIL
+SF594 per:title mimlre NIL
+SF595 per:age mimlre  APW_ENG_20070912.1752.LDC2009T13  26
+SF595 per:alternate_names mimlre  NYT_ENG_20070714.0117.LDC2009T13  Remy Martin
+SF595 per:alternate_names mimlre  APW_ENG_20080325.0110.LDC2009T13  Remy Smith
+SF595 per:alternate_names mimlre  APW_ENG_20071205.1491.LDC2009T13  Joe
+SF595 per:cause_of_death mimlre NIL
+SF595 per:charges mimlre  eng-NG-31-141957-9979685  assault
+SF595 per:charges mimlre  APW_ENG_20071205.1491.LDC2009T13  intimidation
+SF595 per:charges mimlre  eng-NG-31-141957-9979685  stealing
+SF595 per:children mimlre NIL
+SF595 per:cities_of_residence mimlre NIL
+SF595 per:city_of_birth mimlre NIL
+SF595 per:city_of_death mimlre NIL
+SF595 per:countries_of_residence mimlre NIL
+SF595 per:country_of_birth mimlre NIL
+SF595 per:country_of_death mimlre NIL
+SF595 per:date_of_birth mimlre NIL
+SF595 per:date_of_death mimlre NIL
+SF595 per:employee_of mimlre NIL
+SF595 per:member_of mimlre NIL
+SF595 per:origin mimlre NIL
+SF595 per:other_family mimlre NIL
+SF595 per:parents mimlre NIL
+SF595 per:religion mimlre NIL
+SF595 per:schools_attended mimlre NIL
+SF595 per:siblings mimlre NIL
+SF595 per:spouse mimlre  APW_ENG_20080513.1158.LDC2009T13  Papoose
+SF595 per:stateorprovince_of_birth mimlre  APW_ENG_20071220.1403.LDC2009T13  New York
+SF595 per:stateorprovince_of_death mimlre NIL
+SF595 per:stateorprovinces_of_residence mimlre NIL
+SF595 per:title mimlre NIL
+SF596 per:age mimlre NIL
+SF596 per:alternate_names mimlre NIL
+SF596 per:cause_of_death mimlre NIL
+SF596 per:charges mimlre NIL
+SF596 per:children mimlre NIL
+SF596 per:cities_of_residence mimlre NIL
+SF596 per:city_of_birth mimlre NIL
+SF596 per:city_of_death mimlre NIL
+SF596 per:countries_of_residence mimlre  eng-NG-31-102460-11836654  USA
+SF596 per:country_of_birth mimlre  eng-NG-31-142148-10022630  Iraq
+SF596 per:country_of_death mimlre NIL
+SF596 per:date_of_birth mimlre NIL
+SF596 per:date_of_death mimlre NIL
+SF596 per:employee_of mimlre  juancole.com_juancole_20040204090800_ENG_20040204_090800.LDC2006E32  US
+SF596 per:employee_of mimlre  eng-NG-31-100720-11787065  Israel
+SF596 per:employee_of mimlre  juancole.com_juancole_20050620061000_ENG_20050620_061000.LDC2006E32  American Enterprise Institute
+SF596 per:member_of mimlre  eng-NG-31-141913-9976257  PNAC
+SF596 per:member_of mimlre  eng-NG-31-100716-10897156  Bolton
+SF596 per:member_of mimlre  LTW_ENG_20071129.0009.LDC2009T13  Defense
+SF596 per:member_of mimlre  eng-WL-11-174575-12946349  Neocons
+SF596 per:member_of mimlre  juancole.com_juancole_20040110113800_ENG_20040110_113800.LDC2006E32  Likud Party
+SF596 per:member_of mimlre  NYT_ENG_20080714.0235.LDC2009T13  Pentagon
+SF596 per:member_of mimlre  juancole.com_juancole_20031124081600_ENG_20031124_081600.LDC2006E32  Likud
+SF596 per:origin mimlre  eng-NG-31-100720-11787083  Israeli
+SF596 per:origin mimlre  juancole.com_juancole_20050620061000_ENG_20050620_061000.LDC2006E32  American
+SF596 per:origin mimlre  AFP_ENG_20080729.0526.LDC2009T13  Kazakh
+SF596 per:other_family mimlre NIL
+SF596 per:parents mimlre NIL
+SF596 per:religion mimlre NIL
+SF596 per:schools_attended mimlre NIL
+SF596 per:siblings mimlre NIL
+SF596 per:spouse mimlre NIL
+SF596 per:stateorprovince_of_birth mimlre NIL
+SF596 per:stateorprovince_of_death mimlre NIL
+SF596 per:stateorprovinces_of_residence mimlre NIL
+SF596 per:title mimlre  APW_ENG_20070908.0199.LDC2009T13  Vice President
+SF596 per:title mimlre  AFP_ENG_20070427.0087.LDC2009T13  President
+SF596 per:title mimlre  LTW_ENG_20071129.0009.LDC2009T13  Prime Minister
+SF596 per:title mimlre  NYT_ENG_20071125.0021.LDC2009T13  lobbyist
+SF597 per:age mimlre NIL
+SF597 per:alternate_names mimlre NIL
+SF597 per:cause_of_death mimlre  eng-NG-31-142091-9996771  infection
+SF597 per:charges mimlre NIL
+SF597 per:children mimlre NIL
+SF597 per:cities_of_residence mimlre NIL
+SF597 per:city_of_birth mimlre  eng-NG-31-142091-9996771  Orange
+SF597 per:city_of_death mimlre NIL
+SF597 per:countries_of_residence mimlre NIL
+SF597 per:country_of_birth mimlre  eng-NG-31-106347-11986134  Italy
+SF597 per:country_of_death mimlre NIL
+SF597 per:date_of_birth mimlre NIL
+SF597 per:date_of_death mimlre  APW_ENG_20080226.0075.LDC2009T13  Feb. 1 , 2007
+SF597 per:employee_of mimlre  eng-NG-31-142091-9996771  N.Y.
+SF597 per:member_of mimlre NIL
+SF597 per:origin mimlre NIL
+SF597 per:other_family mimlre NIL
+SF597 per:parents mimlre NIL
+SF597 per:religion mimlre NIL
+SF597 per:schools_attended mimlre  APW_ENG_20080211.0172.LDC2009T13  University of Arkansas for Medical Sciences
+SF597 per:siblings mimlre NIL
+SF597 per:spouse mimlre NIL
+SF597 per:stateorprovince_of_birth mimlre  eng-NG-31-142091-9996771  N.J.
+SF597 per:stateorprovince_of_death mimlre NIL
+SF597 per:stateorprovinces_of_residence mimlre NIL
+SF597 per:title mimlre NIL
+SF598 per:age mimlre NIL
+SF598 per:alternate_names mimlre NIL
+SF598 per:cause_of_death mimlre NIL
+SF598 per:charges mimlre NIL
+SF598 per:children mimlre NIL
+SF598 per:cities_of_residence mimlre NIL
+SF598 per:city_of_birth mimlre NIL
+SF598 per:city_of_death mimlre NIL
+SF598 per:countries_of_residence mimlre NIL
+SF598 per:country_of_birth mimlre NIL
+SF598 per:country_of_death mimlre NIL
+SF598 per:date_of_birth mimlre NIL
+SF598 per:date_of_death mimlre NIL
+SF598 per:employee_of mimlre NIL
+SF598 per:member_of mimlre NIL
+SF598 per:origin mimlre NIL
+SF598 per:other_family mimlre NIL
+SF598 per:parents mimlre NIL
+SF598 per:religion mimlre NIL
+SF598 per:schools_attended mimlre NIL
+SF598 per:siblings mimlre NIL
+SF598 per:spouse mimlre NIL
+SF598 per:stateorprovince_of_birth mimlre  AFP_ENG_20081113.0111.LDC2009T13  California
+SF598 per:stateorprovince_of_death mimlre NIL
+SF598 per:stateorprovinces_of_residence mimlre NIL
+SF598 per:title mimlre  NYT_ENG_20080723.0239.LDC2009T13  Vice President
