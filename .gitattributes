@@ -1,3 +1,13 @@
 lib/stanford-corenlp-2012-05-22-models.jar filter=lfs diff=lfs merge=lfs -text
 resources.zip filter=lfs diff=lfs merge=lfs -text
 corpora.zip filter=lfs diff=lfs merge=lfs -text
+results/kbp_relation_model_mimlre.JOINT_BAYES.5.initial.ser filter=lfs diff=lfs merge=lfs -text
+results/kbp_relation_model_mimlre.JOINT_BAYES.5_EPOCH0.ser filter=lfs diff=lfs merge=lfs -text
+results/kbp_relation_model_mimlre.JOINT_BAYES.5_EPOCH1.ser filter=lfs diff=lfs merge=lfs -text
+results/kbp_relation_model_mimlre.JOINT_BAYES.5_EPOCH2.ser filter=lfs diff=lfs merge=lfs -text
+results/kbp_relation_model_mimlre.JOINT_BAYES.5_EPOCH5.ser filter=lfs diff=lfs merge=lfs -text
+results/kbp_relation_model_mimlre.JOINT_BAYES.5.ser filter=lfs diff=lfs merge=lfs -text
+results/kbp_relation_model_mimlre.JOINT_BAYES.5_EPOCH3.ser filter=lfs diff=lfs merge=lfs -text
+results/kbp_relation_model_mimlre.JOINT_BAYES.5_EPOCH4.ser filter=lfs diff=lfs merge=lfs -text
+results/kbp_relation_model_mimlre.JOINT_BAYES.5_EPOCH6.ser filter=lfs diff=lfs merge=lfs -text
+results/kbp_relation_model_mimlre.JOINT_BAYES.5_EPOCH7.ser filter=lfs diff=lfs merge=lfs -text
