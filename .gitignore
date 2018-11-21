@@ -1,3 +1,5 @@
 .idea
-._.DS_Store
-._LICENSE.txt
+.DS_Store
+corpora
+resources
+out

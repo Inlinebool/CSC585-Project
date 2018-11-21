@@ -53,9 +53,9 @@ public class KBPSlot implements Serializable {
   /** Tokenized forms of the alternate slot values. Used ONLY during slot matching in sentence, in the reader */
   public List<String []> alternateSlotValues;
   
-  /** 
+  /**
    * Score assigned to this relation by the predictor
-   * This score is assigned after conflict resolution so it may not be a probability anymore 
+   * This score is assigned after conflict resolution so it may not be a probability anymore
    */
   double score;
 

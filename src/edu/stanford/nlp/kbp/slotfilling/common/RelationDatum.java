@@ -117,7 +117,7 @@ public class RelationDatum {
     if(entEnd < 2) throw new RuntimeException("Invalid datum line: " + line);
     String eid = line.substring(1, entEnd);
     line = line.substring(entEnd + 2);
-    
+
     String [] bits = line.split("\\s+");
     String entType = bits[0];
     String neType = bits[1];

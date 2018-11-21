@@ -55,7 +55,7 @@ import edu.stanford.nlp.util.StringUtils;
 public class KBPTrainer {
   private static final boolean TEST_ON_DEVEL = false;
   private static final boolean EVALUATE_AFTER_TRAIN = true;
-  private static boolean CALL_TRAIN_FROM_DATUM_GEN = true; 
+  private static boolean CALL_TRAIN_FROM_DATUM_GEN = true;
 
   private final String workDir;
   private final String serializedRelationExtractorName;
@@ -87,7 +87,7 @@ public class KBPTrainer {
     featureCountThreshold = PropertiesUtils.getInt(props, Props.FEATURE_COUNT_THRESHOLD, 5);
     Log.severe("featureCountThreshold: " + featureCountThreshold);
     boolean temporal = PropertiesUtils.getBool(props, Props.KBP_TEMPORAL);
-    if(! trainOnly){
+    if (!trainOnly) {
       reader = new KBPReader(props, false, temporal, false);
       reader.setLoggerLevel(Log.stringToLevel(props.getProperty(Props.READER_LOG_LEVEL)));
     } else {
@@ -99,11 +99,11 @@ public class KBPTrainer {
     relationExtractor = null;
     factory = new RelationExtractorFactory(props.getProperty(Props.MODEL_TYPE, Constants.DEFAULT_MODEL));
     slotsByEntityId = readSlotsByEntityId(props);
-    samplingRatio = PropertiesUtils.getDouble(props, 
-        Props.NEGATIVES_SAMPLE_RATIO,
-        Constants.DEFAULT_NEGATIVES_SAMPLING_RATIO);
+    samplingRatio = PropertiesUtils.getDouble(props,
+            Props.NEGATIVES_SAMPLE_RATIO,
+            Constants.DEFAULT_NEGATIVES_SAMPLING_RATIO);
     Log.severe("samplingRatio: " + samplingRatio);
-    
+
     Log.severe("Completed constructor for KBPTrainer.");
   }
 
@@ -114,7 +114,7 @@ public class KBPTrainer {
     }
     KBPDomReader domReader = new KBPDomReader(props);
     Map<KBPEntity, List<KBPSlot>> entitySlots =
-      domReader.parse(props.getProperty(Props.INPUT_KB));
+            domReader.parse(props.getProperty(Props.INPUT_KB));
     Map<String, Set<String>> slotsByEntityId = extractSlotsById(entitySlots);
     return slotsByEntityId;
   }
@@ -144,14 +144,14 @@ public class KBPTrainer {
   private String makeModelPath() {
     return makeModelPath(workDir, serializedRelationExtractorName, factory.modelType(), samplingRatio);
   }
-  
-  public static String makeModelPath(String workDir, 
-      String serializedRelationExtractorName, 
-      ModelType modelType, 
-      double samplingRatio) {
-    return workDir + File.separator + serializedRelationExtractorName + 
-      "." + modelType + "." + (int) (100.0 * samplingRatio) +  
-      Constants.SER_EXT;
+
+  public static String makeModelPath(String workDir,
+                                     String serializedRelationExtractorName,
+                                     ModelType modelType,
+                                     double samplingRatio) {
+    return workDir + File.separator + serializedRelationExtractorName +
+            "." + modelType + "." + (int) (100.0 * samplingRatio) +
+            Constants.SER_EXT;
   }
 
   public void setEntitySlotsById(Map<String, Set<String>> slots) {
@@ -165,14 +165,14 @@ public class KBPTrainer {
     int total = 0, selected = 0;
     for (File trainDatumFile : trainDatumFiles) {
       BufferedReader is = new BufferedReader(new FileReader(trainDatumFile));
-      for (String line; (line = is.readLine()) != null;) {
+      for (String line; (line = is.readLine()) != null; ) {
         List<MinimalDatum> minDatums = MinimalDatum.lineToDatum(line);
-        for(MinimalDatum minDatum: minDatums){
-          if(minDatum.datum().label().equals(RelationMention.UNRELATED)){
-            total ++;
-            if(random.nextDouble() < subsamplingProb){
+        for (MinimalDatum minDatum : minDatums) {
+          if (minDatum.datum().label().equals(RelationMention.UNRELATED)) {
+            total++;
+            if (random.nextDouble() < subsamplingProb) {
               os.println(line);
-              selected ++;
+              selected++;
             }
           }
         }
@@ -182,12 +182,12 @@ public class KBPTrainer {
     os.close();
     Log.severe("Extracted " + selected + " out of " + total + " negative examples in " + negFile.getAbsolutePath());
   }
-  
+
   private static void generateNegativeLabels(Map<String, RelationDatum> datums,
-      Map<String, Set<String>> slotsById) {
-    for(String key: datums.keySet()) {
+                                             Map<String, Set<String>> slotsById) {
+    for (String key : datums.keySet()) {
       RelationDatum datum = datums.get(key);
-      
+
       List<String> knownSlots = new ArrayList<String>(slotsById.get(datum.entityId()));
       Collections.sort(knownSlots);
 
@@ -203,82 +203,82 @@ public class KBPTrainer {
       }
     }
   }
-  
+
   private static void loadRelationDatumsFromFile(File trainFile,
-      Map<String, Set<String>> slotsById,
-      boolean considerNegatives,
-      Map<String, RelationDatum> datums) throws IOException {
+                                                 Map<String, Set<String>> slotsById,
+                                                 boolean considerNegatives,
+                                                 Map<String, RelationDatum> datums) throws IOException {
     Log.severe("Processing file " + trainFile.getAbsolutePath() + "...");
     BufferedReader is = new BufferedReader(new FileReader(trainFile));
     int lineCount = 0;
-    for (String line; (line = is.readLine()) != null;) {
+    for (String line; (line = is.readLine()) != null; ) {
       lineCount++;
-      
+
       RelationDatum relDatum = RelationDatum.lineToDatum(line);
       if (slotsById.get(relDatum.entityId()) == null) {
         Log.fine("WARNING: Unknown slots for id: " + relDatum.entityId()
-            + ". This happens because this entity was filtered out from the KB. Continuing.");
+                + ". This happens because this entity was filtered out from the KB. Continuing.");
         continue;
       }
-      
-      if(relDatum.yPos().size() == 0 && ! considerNegatives){
+
+      if (relDatum.yPos().size() == 0 && !considerNegatives) {
         // skip negatives if considerNegatives is set
         continue;
       }
-      
+
       // the current datums might have to be merged with a previously see one
       RelationDatum seenDatum = datums.get(relDatum.key());
-      if(seenDatum == null){
+      if (seenDatum == null) {
         datums.put(relDatum.key(), relDatum);
       } else {
         seenDatum.merge(relDatum);
       }
-      
+
       if (lineCount % 10000 == 0) {
         Log.severe("Loaded " + lineCount + " datums.");
       }
     }
     is.close();
 
-    if(datums.size() == 0) {
+    if (datums.size() == 0) {
       throw new RuntimeException("ERROR: cannot have 0 datums after loading a datum file!");
     }
   }
-  
+
   private static Collection<RelationDatum> loadRelationDatums(
-      List<File> trainDatumFiles, 
-      File negFile,
-      Map<String, Set<String>> slotsById) throws IOException {
+          List<File> trainDatumFiles,
+          File negFile,
+          Map<String, Set<String>> slotsById) throws IOException {
     // map from (entity, slot) to the actual RelationDatum
     Map<String, RelationDatum> datums = new HashMap<String, RelationDatum>();
-    
-    for(File tf: trainDatumFiles){
+
+    for (File tf : trainDatumFiles) {
       loadRelationDatumsFromFile(tf, slotsById, false, datums);
     }
     loadRelationDatumsFromFile(negFile, slotsById, true, datums);
-    
+
     generateNegativeLabels(datums, slotsById);
-    
+
     return datums.values();
   }
-  
+
   public void trainAtLeastOnce(Properties props, List<File> trainDatumFiles, File negFile) throws IOException {
-    assert(negFile != null);
-    
+    assert (negFile != null);
+
     Collection<RelationDatum> datums = loadRelationDatums(trainDatumFiles, negFile, slotsByEntityId);
-    
+
     //
     // some stats
     //
-    for(RelationDatum datum: datums){
-      if(datum.yPos().size() > 1) {
+    for (RelationDatum datum : datums) {
+      if (datum.yPos().size() > 1) {
         Log.severe("DATUM DUMP " + datum.entityType() + " " + datum.slotValue() + " (" + datum.datums().size() + "): " + datum.posAsString());
       }
     }
     Counter<String> posStats = new ClassicCounter<String>();
     Counter<String> negStats = new ClassicCounter<String>();
     Counter<Integer> sizeStats = new ClassicCounter<Integer>();
-    for(RelationDatum datum: datums){
+    for (RelationDatum datum : datums) {
       posStats.incrementCount(datum.posAsString());
       negStats.incrementCount(datum.negAsString());
       sizeStats.incrementCount(datum.datums().size());
@@ -286,27 +286,27 @@ public class KBPTrainer {
     printStats(posStats, "POSITIVE");
     printStats(negStats, "NEGATIVE");
     Log.severe("Stats for datum size:");
-    List<Pair<Integer,Double>> sorted = Counters.toDescendingMagnitudeSortedListWithCounts(sizeStats);
-    for(Pair<Integer,Double> e: sorted) {
+    List<Pair<Integer, Double>> sorted = Counters.toDescendingMagnitudeSortedListWithCounts(sizeStats);
+    for (Pair<Integer, Double> e : sorted) {
       Log.severe("DATUM SIZE " + e.first() + " seen " + e.second() + " times.");
     }
-    
+
     //
     // build dataset and discard the datums
     //
     MultiLabelDataset<String, String> dataset = new MultiLabelDataset<String, String>();
-    for(RelationDatum d: datums) {
-      
+    for (RelationDatum d : datums) {
+
       dataset.addDatum(d.yPos(), d.yNeg(), d.datums());
     }
     datums = null; // can be GCed now
-    
+
     //
     // feature selection
     //
     Log.severe("Applying feature selection with threshold " + featureCountThreshold + "...");
     dataset.applyFeatureCountThreshold(featureCountThreshold);
-    
+
     //
     // actual training
     //
@@ -315,11 +315,11 @@ public class KBPTrainer {
     extractor.save(makeModelPath());
     relationExtractor = extractor;
   }
-  
+
   private static void printStats(Counter<String> stats, String name) {
-    List<Pair<String,Double>> sorted = Counters.toDescendingMagnitudeSortedListWithCounts(stats);
+    List<Pair<String, Double>> sorted = Counters.toDescendingMagnitudeSortedListWithCounts(stats);
     Log.severe("Stats for labels of type " + name);
-    for(Pair<String,Double> l: sorted){
+    for (Pair<String, Double> l : sorted) {
       Log.severe("LABEL: " + l.first() + " with count " + l.second());
     }
   }
@@ -327,12 +327,12 @@ public class KBPTrainer {
   public void trainOneVsAll(List<File> trainDatumFiles, File negFile) throws IOException {
     // create one dataset for each label
     Map<String, GeneralDataset<String, String>> trainSets = null;
-    
-    assert(negFile != null);
+
+    assert (negFile != null);
     trainSets = createDatasetsWithOfflineNegatives(
-        trainDatumFiles,
-        negFile,
-        slotsByEntityId);
+            trainDatumFiles,
+            negFile,
+            slotsByEntityId);
 
     // feature selection
     for (String label : trainSets.keySet()) {
@@ -348,84 +348,84 @@ public class KBPTrainer {
   }
 
   static Set<String> allSlots = new HashSet<String>(Arrays.asList(
-      "per:date_of_birth",
-      "per:age",
-      "per:country_of_birth",
-      "per:stateorprovince_of_birth",
-      "per:city_of_birth",
-      "per:date_of_death",
-      "per:country_of_death",
-      "per:stateorprovince_of_death",
-      "per:city_of_death",
-      "per:cause_of_death",
-      "per:religion",
-      "org:number_of_employeesSLASHmembers",
-      "org:founded",
-      "org:dissolved",
-      "org:country_of_headquarters",
-      "org:stateorprovince_of_headquarters",
-      "org:city_of_headquarters",
-      "org:website",
-      "per:alternate_names",
-      "per:origin",
-      "per:countries_of_residence",
-      "per:stateorprovinces_of_residence",
-      "per:cities_of_residence",
-      "per:schools_attended",
-      "per:title",
-      "per:member_of",
-      "per:employee_of",
-      "per:spouse",
-      "per:children",
-      "per:parents",
-      "per:siblings",
-      "per:other_family",
-      "per:charges",
-      "org:alternate_names",
-      "org:politicalSLASHreligious_affiliation",
-      "org:top_membersSLASHemployees",
-      "org:members",
-      "org:member_of",
-      "org:subsidiaries",
-      "org:parents",
-      "org:founded_by",
-      "org:shareholders"));
-  
+          "per:date_of_birth",
+          "per:age",
+          "per:country_of_birth",
+          "per:stateorprovince_of_birth",
+          "per:city_of_birth",
+          "per:date_of_death",
+          "per:country_of_death",
+          "per:stateorprovince_of_death",
+          "per:city_of_death",
+          "per:cause_of_death",
+          "per:religion",
+          "org:number_of_employeesSLASHmembers",
+          "org:founded",
+          "org:dissolved",
+          "org:country_of_headquarters",
+          "org:stateorprovince_of_headquarters",
+          "org:city_of_headquarters",
+          "org:website",
+          "per:alternate_names",
+          "per:origin",
+          "per:countries_of_residence",
+          "per:stateorprovinces_of_residence",
+          "per:cities_of_residence",
+          "per:schools_attended",
+          "per:title",
+          "per:member_of",
+          "per:employee_of",
+          "per:spouse",
+          "per:children",
+          "per:parents",
+          "per:siblings",
+          "per:other_family",
+          "per:charges",
+          "org:alternate_names",
+          "org:politicalSLASHreligious_affiliation",
+          "org:top_membersSLASHemployees",
+          "org:members",
+          "org:member_of",
+          "org:subsidiaries",
+          "org:parents",
+          "org:founded_by",
+          "org:shareholders"));
+
   private static void loadFile(
-      Map<String, GeneralDataset<String, String>> corporaByLabel,
-      String fileName,
-      Map<String, Set<String>> slotsById,
-      boolean considerNegatives,
-      boolean allNegatives,
-      Counter<String> posStats,
-      Counter<String> negStats) throws IOException {
+          Map<String, GeneralDataset<String, String>> corporaByLabel,
+          String fileName,
+          Map<String, Set<String>> slotsById,
+          boolean considerNegatives,
+          boolean allNegatives,
+          Counter<String> posStats,
+          Counter<String> negStats) throws IOException {
     Log.severe("Processing file " + fileName);
     BufferedReader is = new BufferedReader(new FileReader(fileName));
     int lineCount = 0;
-    for (String line; (line = is.readLine()) != null;) {
+    for (String line; (line = is.readLine()) != null; ) {
       lineCount++;
-      
+
       List<MinimalDatum> minDatums = MinimalDatum.lineToDatum(line);
-      for(MinimalDatum minDatum: minDatums) {
+      for (MinimalDatum minDatum : minDatums) {
         if (slotsById.get(minDatum.entityId()) == null) {
           Log.fine("WARNING: Unknown slots for id: " + minDatum.entityId()
-              + ". This happens because this entity was filtered out from the KB. Continuing.");
+                  + ". This happens because this entity was filtered out from the KB. Continuing.");
           continue;
         }
 
         BasicDatum<String, String> datum = (BasicDatum<String, String>) minDatum.datum();
         String label = datum.label();
-        if(label.equals(RelationMention.UNRELATED) && ! considerNegatives) {
+        if (label.equals(RelationMention.UNRELATED) && !considerNegatives) {
           continue;
         }
 
-        List<String> knownSlots = (allNegatives ? 
-            new ArrayList<String>(allSlots) :
-              new ArrayList<String>(slotsById.get(minDatum.entityId())));
+        List<String> knownSlots = (allNegatives ?
+                new ArrayList<String>(allSlots) :
+                new ArrayList<String>(slotsById.get(minDatum.entityId())));
         Collections.sort(knownSlots);
 
         // store a positive example
-        if(! label.equals(RelationMention.UNRELATED)){
+        if (!label.equals(RelationMention.UNRELATED)) {
           addDatum(corporaByLabel, label, datum, (float) 1.0);
           posStats.incrementCount(label);
         }
@@ -434,8 +434,8 @@ public class KBPTrainer {
         if (knownSlots != null && knownSlots.size() > 0) {
           // all negative examples have the label _NR
           BasicDatum<String, String> negDatum = new BasicDatum<String, String>(
-              datum.asFeatures(),
-              RelationMention.UNRELATED);
+                  datum.asFeatures(),
+                  RelationMention.UNRELATED);
 
           // add this datum as negative example to all other labels from the known slots of this entity
           // Note: we consider ONLY these slot types because we don't know anything about other slots for this entity
@@ -448,19 +448,19 @@ public class KBPTrainer {
           }
         }
       }
-      
+
       if (lineCount % 10000 == 0) {
         Log.severe("Loaded " + lineCount + " datums.");
       }
     }
     is.close();
   }
-      
-  
+
+
   private static Map<String, GeneralDataset<String, String>> createDatasetsWithOfflineNegatives(
-      List<File> trainDatumFiles,
-      File negFile,
-      Map<String, Set<String>> slotsById) throws IOException {
+          List<File> trainDatumFiles,
+          File negFile,
+          Map<String, Set<String>> slotsById) throws IOException {
     Map<String, GeneralDataset<String, String>> corporaByLabel = new HashMap<String, GeneralDataset<String, String>>();
     Counter<String> posStats = new ClassicCounter<String>();
     Counter<String> negStats = new ClassicCounter<String>();
@@ -472,29 +472,29 @@ public class KBPTrainer {
     int fileCount = 0;
     for (File trainDatumFile : trainDatumFiles) {
       loadFile(corporaByLabel, trainDatumFile.getAbsolutePath(), slotsById, false, allNegatives, posStats, negStats);
-      fileCount ++;
+      fileCount++;
       Log.severe("Processed " + fileCount + " out of " + trainDatumFiles.size() + " datum files.");
     }
-    
+
     //
     // Extract negative examples from the dedicated file
     //
     Log.severe("Loading negative examples from offline file " + negFile);
     loadFile(corporaByLabel, negFile.getAbsolutePath(), slotsById, true, allNegatives, posStats, negStats);
-    fileCount ++;
+    fileCount++;
     Log.severe("Processed all " + fileCount + " datum files.");
-    
+
     // keep only corpora where we have > 0 positive examples
     removeLabelsWithZeroExamples(corporaByLabel, posStats, negStats);
-    
+
     return corporaByLabel;
   }
 
   private static void removeLabelsWithZeroExamples(
-      Map<String, GeneralDataset<String, String>> corporaByLabel,
-      Counter<String> posStats,
-      Counter<String> negStats) {
-    
+          Map<String, GeneralDataset<String, String>> corporaByLabel,
+          Counter<String> posStats,
+          Counter<String> negStats) {
+
     Set<String> labels = corporaByLabel.keySet();
     Set<String> toRemove = new HashSet<String>();
     for (String label : labels) {
@@ -511,7 +511,7 @@ public class KBPTrainer {
     for (String label : toRemove) {
       corporaByLabel.remove(label);
     }
-    
+
     Log.severe("DATASET LABEL STATS:");
     for (String label : labels) {
       int posCount = (int) posStats.getCount(label);
@@ -522,7 +522,7 @@ public class KBPTrainer {
   }
 
   private static void addDatum(Map<String, GeneralDataset<String, String>> corporaByLabel, String label,
-      BasicDatum<String, String> datum, float datumWeight) {
+                               BasicDatum<String, String> datum, float datumWeight) {
     WeightedDataset<String, String> dataset = (WeightedDataset<String, String>) corporaByLabel.get(label);
     if (dataset == null) {
       dataset = new WeightedDataset<String, String>();
@@ -548,10 +548,11 @@ public class KBPTrainer {
 
     if (props.containsKey(Props.INPUT)) {
       datumGeneration(props);
-    } else if(props.containsKey("negatives")) {
+    } else if (props.containsKey("negatives")) {
+      Log.severe("jkr: Generating negatives.");
       generateNegatives(props);
     } else if (props.containsKey(Props.NLPSUB)) {
-      if(Boolean.valueOf(props.getProperty(Props.NLPSUB))) {
+      if (Boolean.valueOf(props.getProperty(Props.NLPSUB))) {
         mapReduceMain(props, true);
       } else {
         mapReduceMain(props, false);
@@ -559,8 +560,9 @@ public class KBPTrainer {
     } else {
       // default: train followed by test
       // this is the former block enabled by Props.TRAINER
+      Log.severe("jkr: Training and Testing.");
       train(props);
-      if(EVALUATE_AFTER_TRAIN) evaluate(props);
+      if (EVALUATE_AFTER_TRAIN) evaluate(props);
     }
   }
 
@@ -600,25 +602,25 @@ public class KBPTrainer {
     for (File inputFile : trainFiles) {
       if (createDatumGenerationJob(inputFile, workDir, false, inParallel, props) == false) {
         throw new RuntimeException("Failed to create datum generation job for TRAINING file: "
-            + inputFile.getAbsolutePath());
+                + inputFile.getAbsolutePath());
       }
     }
     if (TEST_ON_DEVEL) {
       for (File inputFile : testFiles) {
         if (createDatumGenerationJob(inputFile, workDir, true, inParallel, props) == false) {
           throw new RuntimeException("Failed to create datum generation job for TESTING file: "
-              + inputFile.getAbsolutePath());
+                  + inputFile.getAbsolutePath());
         }
       }
     }
 
     if (!inParallel) {
       train(props);
-      
+
       // evaluate on actual KBP queries
-      if(EVALUATE_AFTER_TRAIN) evaluate(props);
-    } else if (!props.contains("notrain")){
-      if(CALL_TRAIN_FROM_DATUM_GEN == false) {
+      if (EVALUATE_AFTER_TRAIN) evaluate(props);
+    } else if (!props.contains("notrain")) {
+      if (CALL_TRAIN_FROM_DATUM_GEN == false) {
         // wait until all datum generation jobs for training complete
         waitForChecks(trainDir, trainFiles.size());
 
@@ -632,9 +634,9 @@ public class KBPTrainer {
         Log.severe("All datum generation jobs created successfully.");
         Log.severe("The trainer job will be started when all datum generation jobs complete.");
       }
-    }    
+    }
   }
-  
+
   public static void evaluate(Properties props) throws Exception {
     // enable coref during testing!
     props.setProperty(Props.INDEX_PIPELINE_METHOD, "FULL");
@@ -642,17 +644,17 @@ public class KBPTrainer {
     props.setProperty(Props.MODEL_COMBINATION_ENABLED, "false");
     KBPEvaluator.extractAndScore(props, false);
   }
-  
+
   private static void generateNegatives(Properties props) throws Exception {
     File workDir = new File(props.getProperty(Props.WORK_DIR));
     assert (workDir.isDirectory());
     File trainDir = new File(workDir + File.separator + "train");
     List<File> trainDatumFiles = fetchFiles(trainDir.getAbsolutePath(), ".datums");
     List<Double> ratios = new ArrayList<Double>(Arrays.asList(1.00, 0.50, 0.25, 0.10));
-    for(double ratio: ratios) {
-      File negFile = new File(trainDir + File.separator + 
-          "datums_" + (int) (100.0 * ratio) + ".negatives");
-      if(! negFile.exists()) {
+    for (double ratio : ratios) {
+      File negFile = new File(trainDir + File.separator +
+              "datums_" + (int) (100.0 * ratio) + ".negatives");
+      if (!negFile.exists()) {
         KBPTrainer.subsampleNegatives(trainDatumFiles, negFile, ratio);
       }
     }
@@ -662,34 +664,34 @@ public class KBPTrainer {
     File workDir = new File(props.getProperty(Props.WORK_DIR));
     assert (workDir.isDirectory());
     File trainDir = new File(workDir + File.separator + "train");
-    RelationExtractorFactory factory = 
-      new RelationExtractorFactory(props.getProperty(Props.MODEL_TYPE, Constants.DEFAULT_MODEL));
+    RelationExtractorFactory factory =
+            new RelationExtractorFactory(props.getProperty(Props.MODEL_TYPE, Constants.DEFAULT_MODEL));
     Log.severe("modelType = " + factory.modelType());
-    double samplingRatio = PropertiesUtils.getDouble(props, 
-        Props.NEGATIVES_SAMPLE_RATIO,
-        Constants.DEFAULT_NEGATIVES_SAMPLING_RATIO);
+    double samplingRatio = PropertiesUtils.getDouble(props,
+            Props.NEGATIVES_SAMPLE_RATIO,
+            Constants.DEFAULT_NEGATIVES_SAMPLING_RATIO);
 
     KBPTrainer trainer = new KBPTrainer(props, true);
     if (!trainer.modelExists()) {
       // construct dataset and train
       List<File> trainDatumFiles = fetchFiles(trainDir.getAbsolutePath(), ".datums");
-      
+
       // generate a separate file with negative examples, so we have a fixed dataset for training
       File negFile = null;
-      if(Constants.OFFLINE_NEGATIVES) {
-        negFile = new File(trainDir + File.separator + 
-            "datums_" + (int) (100.0 * samplingRatio) + ".negatives");
-        if(! negFile.exists()) {
+      if (Constants.OFFLINE_NEGATIVES) {
+        negFile = new File(trainDir + File.separator +
+                "datums_" + (int) (100.0 * samplingRatio) + ".negatives");
+        if (!negFile.exists()) {
           KBPTrainer.subsampleNegatives(trainDatumFiles, negFile, samplingRatio);
         }
       }
-      
+
       if (factory.isLocallyTrained()) {
         trainer.trainOneVsAll(trainDatumFiles, negFile);
       } else {
-        assert(Constants.OFFLINE_NEGATIVES);
+        assert (Constants.OFFLINE_NEGATIVES);
         trainer.trainAtLeastOnce(props, trainDatumFiles, negFile);
-      } 
+      }
       Log.severe("Training complete.");
     }
   }
@@ -761,28 +763,28 @@ public class KBPTrainer {
 
     System.err.println("Creating KBPTrainer job: " + jobName);
     String cmd = "nlpsub -v --join-output-streams --queue=long --debug" +
-        // " --priority=preemptable" +
-        // " --hosts=" + HOSTS +
-        // " --no-autodetect-memory" + // memory management SUCKS in PBS. do not use it
-        " --cores=3"
-        + // a single trainer job fits in a node, and we have 4 cores per node
-        " --log-dir=" + logDir.getAbsolutePath() + " --name=" + jobName + " java -ea -Xmx" + TRAINER_MEMORY
-        + " -XX:MaxPermSize=512m" + " edu.stanford.nlp.kbp.slotfilling.KBPTrainer" + " -props "
-        + workDir.getAbsolutePath() + File.separator + PROP_FILE + " -" + Props.TRAINER + " true";
+            // " --priority=preemptable" +
+            // " --hosts=" + HOSTS +
+            // " --no-autodetect-memory" + // memory management SUCKS in PBS. do not use it
+            " --cores=3"
+            + // a single trainer job fits in a node, and we have 4 cores per node
+            " --log-dir=" + logDir.getAbsolutePath() + " --name=" + jobName + " java -ea -Xmx" + TRAINER_MEMORY
+            + " -XX:MaxPermSize=512m" + " edu.stanford.nlp.kbp.slotfilling.KBPTrainer" + " -props "
+            + workDir.getAbsolutePath() + File.separator + PROP_FILE + " -" + Props.TRAINER + " true";
 
     boolean ret = launch(cmd);
     return ret;
   }
 
   private static boolean createDatumGenerationJob(File inputFile, File workDir, boolean isTest, boolean inParallel,
-      Properties props) throws Exception {
+                                                  Properties props) throws Exception {
     //
     // create the parent of all log directories
     //
     File nlpsubDir = null;
     if (inParallel) {
       nlpsubDir = new File(workDir.getAbsolutePath() + File.separator + "nlpsub" + File.separator
-          + (isTest ? "test" : "train"));
+              + (isTest ? "test" : "train"));
       mkDir(nlpsubDir);
     }
 
@@ -793,7 +795,7 @@ public class KBPTrainer {
     mkDir(datumDir);
     String outputFileName = datumDir.getAbsolutePath() + File.separator + jobName + ".datums";
     File outputFile = new File(outputFileName);
-    
+
     if (FileSystem.existsAndNonEmpty(outputFile)) {
       System.err.println("Output file already exists: " + outputFileName);
       System.err.println("Skipping KBPDatumGenerator job: " + jobName);
@@ -808,22 +810,22 @@ public class KBPTrainer {
       mkDir(logDir);
 
       String java = "java -ea -Xmx" + DATUM_GEN_MEMORY + " -XX:MaxPermSize=512m"
-          + " edu.stanford.nlp.kbp.slotfilling.KBPTrainer" + " -props " + workDir.getAbsolutePath() + File.separator
-          + PROP_FILE + " -" + Props.INPUT + " " + inputFile.getAbsolutePath() + " -" + Props.OUTPUT + " "
-          + outputFileName + " -" + Props.IS_TEST + " " + isTest;
+              + " edu.stanford.nlp.kbp.slotfilling.KBPTrainer" + " -props " + workDir.getAbsolutePath() + File.separator
+              + PROP_FILE + " -" + Props.INPUT + " " + inputFile.getAbsolutePath() + " -" + Props.OUTPUT + " "
+              + outputFileName + " -" + Props.IS_TEST + " " + isTest;
 
       System.err.println("Creating KBPDatumGenerator job: " + jobName);
       String cmd = "nlpsub -v --join-output-streams --queue=long --debug" +
-          // " --priority=preemptable" +
-          // " --hosts=" + HOSTS +
-          // " --no-autodetect-memory" + // memory management SUCKS in PBS. do not use it
-          " --cores=2" + // about two datum generation jobs fit in a node, and we have 4 cores per node
-          " --log-dir=" + logDirName + " --name=" + jobName + " " + java;
+              // " --priority=preemptable" +
+              // " --hosts=" + HOSTS +
+              // " --no-autodetect-memory" + // memory management SUCKS in PBS. do not use it
+              " --cores=2" + // about two datum generation jobs fit in a node, and we have 4 cores per node
+              " --log-dir=" + logDirName + " --name=" + jobName + " " + java;
 
       ret = launch(cmd);
 
       System.err.println("If you want to run this job manually use this command:\n" + "nohup " + java + " >& "
-          + logDirName + File.separator + "nohup.out &");
+              + logDirName + File.separator + "nohup.out &");
     } else {
       KBPTrainer trainer = new KBPTrainer(props);
       trainer.generateDatums(inputFile.getAbsolutePath(), outputFileName);
@@ -894,7 +896,7 @@ public class KBPTrainer {
     });
     return files;
   }
-  
+
   private static void datumGeneration(Properties props) throws Exception {
     String kbPath = props.getProperty(Props.INPUT);
     String datumFile = props.getProperty(Props.OUTPUT);
@@ -909,21 +911,21 @@ public class KBPTrainer {
     Log.severe("Datums successfully saved in " + datumFile);
     Log.severe("Check file saved as " + datumFile + ".check");
 
-    if(CALL_TRAIN_FROM_DATUM_GEN){
-      String trainPath = props.getProperty(Props.TRAIN_PATH); 
-      assert (trainPath != null); 
-      Log.severe("trainPath: " + trainPath); 
+    if (CALL_TRAIN_FROM_DATUM_GEN) {
+      String trainPath = props.getProperty(Props.TRAIN_PATH);
+      assert (trainPath != null);
+      Log.severe("trainPath: " + trainPath);
       List<File> trainFiles = fetchFiles(trainPath, KB_EXTENSION);
-      int checkCount = countChecks(new File(trainer.workDir + File.separator + "train")); 
-      if(checkCount == trainFiles.size()) { 
+      int checkCount = countChecks(new File(trainer.workDir + File.separator + "train"));
+      if (checkCount == trainFiles.size()) {
         Log.severe("Found all " + checkCount + " datum files. Starting trainer job..."); // everything finished; run the actual trainer PBS job 
         boolean ret = createTrainerJob(new File(trainer.workDir));
-        if(ret) Log.severe("Trainer job created successfully.");
+        if (ret) Log.severe("Trainer job created successfully.");
         else Log.severe("ERROR: Failed to create trainer job!");
-      } else { 
+      } else {
         Log.severe("Found only " + checkCount + " out of " + trainFiles.size() +
-        " datum files. Will NOT start trainer job."); 
-      } 
+                " datum files. Will NOT start trainer job.");
+      }
     }
   }
 }
