@@ -11,3 +11,4 @@ results/kbp_relation_model_mimlre.JOINT_BAYES.5_EPOCH3.ser filter=lfs diff=lfs m
 results/kbp_relation_model_mimlre.JOINT_BAYES.5_EPOCH4.ser filter=lfs diff=lfs merge=lfs -text
 results/kbp_relation_model_mimlre.JOINT_BAYES.5_EPOCH6.ser filter=lfs diff=lfs merge=lfs -text
 results/kbp_relation_model_mimlre.JOINT_BAYES.5_EPOCH7.ser filter=lfs diff=lfs merge=lfs -text
+label_tool/data/* filter=lfs diff=lfs merge=lfs -text

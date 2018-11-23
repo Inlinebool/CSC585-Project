@@ -3,3 +3,5 @@
 corpora
 resources
 out
+label_tool/data/vectors.txt
+.vscode
