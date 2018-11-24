@@ -4,4 +4,5 @@ corpora
 resources
 out
 label_tool/data/vectors.txt
+label_tool/data/wordVecs.json
 .vscode
