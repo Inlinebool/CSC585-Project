@@ -1,0 +1,67 @@
+%
+% File emnlp2018.tex
+%
+%% Based on the style files for EMNLP 2018, which were
+%% Based on the style files for ACL 2018, which were
+%% Based on the style files for ACL-2015, with some improvements
+%%  taken from the NAACL-2016 style
+%% Based on the style files for ACL-2014, which were, in turn,
+%% based on ACL-2013, ACL-2012, ACL-2011, ACL-2010, ACL-IJCNLP-2009,
+%% EACL-2009, IJCNLP-2008...
+%% Based on the style files for EACL 2006 by 
+%%e.agirre@ehu.es or Sergi.Balari@uab.es
+%% and that of ACL 08 by Joakim Nivre and Noah Smith
+
+\documentclass[11pt,a4paper]{article}
+  \usepackage[hyperref]{emnlp2018}
+  \usepackage{times}
+  \usepackage{latexsym}
+  
+  \usepackage{url}
+  
+  \aclfinalcopy % Uncomment this line for the final submission
+  
+  %\setlength\titlebox{5cm}
+  % You can expand the titlebox if you need extra space
+  % to show all the authors. Please do not make the titlebox
+  % smaller than 5cm (the original size); we will check this
+  % in the camera-ready version and ask you to change it back.
+  
+  \newcommand\BibTeX{B{\sc ib}\TeX}
+  \newcommand\confname{EMNLP 2018}
+  \newcommand\conforg{SIGDAT}
+  
+  \title{Visual Active Learning with Distant Supervision for Relation Extraction}
+  
+  \author{Kairong Jiang \\
+    University of Arizona \\
+    {\tt jiangkairong@email.arizona.edu}\\\And
+    Mihai Surdeanu \\
+    University of Arizona\\}
+  
+  \date{}
+  
+  \begin{document}
+  \maketitle
+  
+  \section{Introduction}
+  Relation extraction is an import part of information extraction (IE) where a classifier is trained to label the \emph{relation} between two entity mentions in one sentence. For example, in the sentence ``\textbf{Obama} \emph{was born in} the \textbf{United States} just as he has always said.'', the classifier should lable relation \emph{``BornIn''} with entity mention pair ``Barack Obama'' and ``United States''.
+
+  While supervised learning methods have been developed for relation extraxtion tasks, they typiaclly require large amount of annotated training data to perform competitively. It is likely in real world problems that annotated data is limited or expensive to acquire. Therefore, it is benifitial to look for active learning methods that exploit a few informative annotated data and achieve resonable performance while greatly reduce the work needed for human annotators. 
+  
+  On the other hand, existing active learning methods ~\cite{angeli2014combining, fu2013efficient, sun2012active} for relation extraction mainly focus on selecting the sampling strategies and improving the active learning model. While they have achieved notable improvements, the effectiveness and efficiency of human interactions are largely neglected in the aforementioned works. Human annotation is often simulated with fully-labeled data ~\cite{fu2013efficient, sun2012active}, or conducted using a listed multiple-choice view ~\cite{angeli2014combining}. 
+  
+  In this paper, we present a relation extraction system implementing a distantly supervised model from ~\cite{surdeanu2012multi} and active learning strategy from ~\cite{angeli2014combining} with a 2D scatterplot visual interface similar to ~\cite{berger2014visual} for human annotators, and we conduct user studies to show that carefully designed and implemented visual interface can further improve the effectiveness and efficiency of active learning methods for relation extraction, primarily thanks to greater number of annotations that can be done with the same human effort. We also experiment with several sampling methods outlined in ~\cite{angeli2014combining} and ~\cite{berger2014visual} and explore the best sampling strategy suitable for the 2D scatterplot interface.
+
+  We are able to achieve following contributions through our studies:
+
+  \begin{itemize}
+    \item We present a 2D scatterplot visual interface for the human annotation process of relation extraction active learning model, which, despite lower accuracy, increases the number of annotations that can be made with the same human effort, hence imporves the overall performance of the system.
+    \item We experiment with different sampling methods and acquire understandings on the strong sides as well as draw backs of those methods, providing insights on sampling method selection with active learning using 2D scatterplot interface.
+  \end{itemize}
+
+  \bibliography{a01.bib}
+  \bibliographystyle{acl_natbib_nourl}
+  
+  \end{document}
+  

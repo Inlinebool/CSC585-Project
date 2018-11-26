@@ -1,0 +1,40 @@
+\begin{thebibliography}{5}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Angeli et~al.(2014)Angeli, Tibshirani, Wu, and
+  Manning}]{angeli2014combining}
+Gabor Angeli, Julie Tibshirani, Jean Wu, and Christopher~D Manning. 2014.
+\newblock Combining distant and partial supervision for relation extraction.
+\newblock In \emph{Proceedings of the 2014 conference on empirical methods in
+  natural language processing (EMNLP)}, pages 1556--1567.
+
+\bibitem[{Berger et~al.(2018)Berger, Nagesh, Levine, Surdeanu, and
+  Zhang}]{berger2014visual}
+Matt Berger, Ajay Nagesh, Joshua Levine, Mihai Surdeanu, and Hao~Helen Zhang.
+  2018.
+\newblock Visual supervision in bootstrapped information extraction.
+\newblock In \emph{To Be Published}.
+
+\bibitem[{Fu and Grishman(2013)}]{fu2013efficient}
+Lisheng Fu and Ralph Grishman. 2013.
+\newblock An efficient active learning framework for new relation types.
+\newblock In \emph{Proceedings of the Sixth International Joint Conference on
+  Natural Language Processing}, pages 692--698.
+
+\bibitem[{Sun and Grishman(2012)}]{sun2012active}
+Ang Sun and Ralph Grishman. 2012.
+\newblock Active learning for relation type extension with local and global
+  data views.
+\newblock In \emph{Proceedings of the 21st ACM international conference on
+  Information and knowledge management}, pages 1105--1112. ACM.
+
+\bibitem[{Surdeanu et~al.(2012)Surdeanu, Tibshirani, Nallapati, and
+  Manning}]{surdeanu2012multi}
+Mihai Surdeanu, Julie Tibshirani, Ramesh Nallapati, and Christopher~D Manning.
+  2012.
+\newblock Multi-instance multi-label learning for relation extraction.
+\newblock In \emph{Proceedings of the 2012 joint conference on empirical
+  methods in natural language processing and computational natural language
+  learning}, pages 455--465. Association for Computational Linguistics.
+
+\end{thebibliography}

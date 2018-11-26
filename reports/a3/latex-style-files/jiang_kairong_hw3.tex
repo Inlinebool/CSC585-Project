@@ -1,0 +1,94 @@
+%
+% File emnlp2018.tex
+%
+%% Based on the style files for EMNLP 2018, which were
+%% Based on the style files for ACL 2018, which were
+%% Based on the style files for ACL-2015, with some improvements
+%%  taken from the NAACL-2016 style
+%% Based on the style files for ACL-2014, which were, in turn,
+%% based on ACL-2013, ACL-2012, ACL-2011, ACL-2010, ACL-IJCNLP-2009,
+%% EACL-2009, IJCNLP-2008...
+%% Based on the style files for EACL 2006 by 
+%%e.agirre@ehu.es or Sergi.Balari@uab.es
+%% and that of ACL 08 by Joakim Nivre and Noah Smith
+
+\documentclass[11pt,a4paper]{article}
+  \usepackage[hyperref]{emnlp2018}
+  \usepackage{times}
+  \usepackage{latexsym}
+  
+  \usepackage{url}
+  
+  \aclfinalcopy % Uncomment this line for the final submission
+  
+  %\setlength\titlebox{5cm}
+  % You can expand the titlebox if you need extra space
+  % to show all the authors. Please do not make the titlebox
+  % smaller than 5cm (the original size); we will check this
+  % in the camera-ready version and ask you to change it back.
+  
+  \newcommand\BibTeX{B{\sc ib}\TeX}
+  \newcommand\confname{EMNLP 2018}
+  \newcommand\conforg{SIGDAT}
+  
+  \title{Visual Active Learning for Relation Extraction}
+  
+  \author{Kairong Jiang \\
+    University of Arizona \\
+    {\tt jiangkairong@email.arizona.edu}\\\And
+    Mihai Surdeanu \\
+    University of Arizona\\}
+  
+  \date{}
+  
+  \begin{document}
+  \maketitle
+  
+  \section{Introduction}
+  Relation extraction is an import part of information extraction (IE) where a classifier is trained to label the \emph{relation} between a set of entity mentions in some text. It provides crucial information for later IE processes like disambiguation. For example, in the sentence ``\textbf{Obama} \emph{was born in} the \textbf{United States} just as he has always said.'', the classifier should label relation \emph{``BornIn''} with entity mention pair ``Barack Obama'' and ``United States''.
+
+  While supervised learning methods have been developed for relation extraction tasks, they typically require large amount of annotated training data to perform competitively. It is likely in real world problems that annotated data is limited or expensive to acquire. Therefore, it is beneficial to look for active learning methods that exploit a few informative annotated data and achieve reasonable performance while greatly reduce the work needed for human annotators. 
+  
+  On the other hand, existing active learning methods ~\cite{angeli2014combining, fu2013efficient, sun2012active} for relation extraction mainly focus on selecting the sampling strategies and improving the active learning model. While they have achieved notable improvements, the effectiveness and efficiency of human interactions are largely neglected in the aforementioned works. Human annotation is often simulated with fully-labeled data ~\cite{fu2013efficient, sun2012active}, or conducted using a listed multiple-choice view ~\cite{angeli2014combining}. 
+  
+  In this paper, we present a relation extraction system implementing a distantly supervised model from ~\citet{surdeanu2012multi} with a 2D scatter plot visual interface similar to ~\citet{berger2014visual} for human annotators, and we conduct user studies to show that carefully designed and implemented visual interface can further improve the effectiveness and efficiency of active learning methods for relation extraction, primarily thanks to greater number of annotations that can be done with the same human effort. We also experiment with several sampling methods outlined in ~\citet{angeli2014combining} and ~\citet{berger2014visual} and explore the best sampling strategy suitable for the 2D scatter plot interface.
+
+  We are able to achieve following contributions through our studies:
+
+  \begin{itemize}
+    \item We present a 2D scatter plot visual interface for human annotations in relation extraction, which, despite lower accuracy, increases the number of annotations that can be made with the same human effort, hence improves the overall performance of the system.
+    \item We experiment with different sampling methods and acquire understandings on the strong sides as well as draw backs of those methods, providing insights on sampling method selection with active learning using 2D scatter plot interface.
+  \end{itemize}
+
+  \section{Related Work}
+    Distant supervision has become a popular branch of approaches in relation extraction. It automatically generates labeled data by looking for the argument pair in the relation tables in a knowledge base (like Wikidata). ~\citet{surdeanu2012multi} presents a multi-instance multi-label (\texttt{MIML}) model for distant supervision in relation extraction, addressing two major challenges in distant supervised models, namely incorrect labeling and multiple possible relations for one pair of entities. Still another problem exists where the knowledge base is often incomplete. Treating the missing knowledge as negative data will result in large amount of false negative labels, which will hinder the model's performance. ~\citet{min2013distant} addresses this problem by only generating positive and unlabeled data. 
+    
+    Active learning methods have also been developed during the years.
+~\citet{sun2012active} presents a \emph{co-testing} active learning model with local and global views. While local view is based on the context of a pair of entity, the global view classifies new examples based on the distributional similarity of the relation phrases. ~\citet{fu2013efficient} implements several improvements to the \emph{co-testing} model including better initial setting and balancing imbalanced classifiers. Both of these works simulates user annotated data using fully-labeled data, thus neglecting the human interactions in the classification process. Also, these papers only test their models on a single dataset, providing limited experimental results.
+
+    ~\citet{angeli2014combining} combines the \texttt{MIML} model presented by ~\citet{surdeanu2012multi} with active learning. The paper present two criteria for selecting examples to annotate based on disagreement provided by QBC. Their experiments showed that combining the \texttt{MIML} model with annotated data yields improved results.
+
+    All of the previous active learning methods incorporate a list-based view presented to the human annotators. ~\citet{bernard2018comparing} conducts a thorough set of experiments comparing the effectiveness of traditional active learning strategies with visual-interface labeling methods, showing that visual-interface labeling can compete with traditional active learning methods in various tasks. Though in the paper uniformed sampling of example data is used as baseline while other sampling method may have better performance. ~\citet{berger2014visual} presents a 2D-scatter-plot visual interface for human annotations of name-entity classification and conducts user-studies showing their visual interface out-performs traditional list-based active learning methods despite of noisy data. However, the paper doesn't compare different sampling methods and their visual interface approach can be extended to other information extraction tasks.
+  \section{Baseline}
+    We compare our model with the MIML\_RE model presented by ~\citet{surdeanu2012multi}. The model is trained and tested on KBP 2010 and 2011 data ~\cite{ji2010overview, ji2011overview}, aligning the relations with both the knowledge based provided by the shared tasks and a snapshot of the English Wikipedia from June 2010. They use Stanford's CoreNLP package to identify entity mentions in text and they only consider entity mention candidates occurred in the same sentence. Table \ref{table:results} shows the results of the MIML\_RE model.
+    
+    The data and source code can be found at \url{https://github.com/Inlinebool/CSC585-Project}.
+  \subsection{Error Analysis}
+    As mentioned before, one major problem for distant-supervised models such as the MIML\_RE model is that the knowledge base is often incomplete, resulting in a large number of false-negative examples. The model subsamples the negative examples at a rate of 5\%, but the result can yet be improved by providing better negative examples, using human annotations.
+    Another cause of error is that some relation pairs do not exist in the knowledge base, making it impossible for the model to learn those relations. This can also be mitigated by providing human annotations for the unknown relation pairs.
+    
+    Other errors include system error inherited from CoreNLP and imperfect initialization. 
+\begin{table}[]\label{table:results}
+\center
+\caption{Experimental results.}
+\begin{tabular}{|l|l|l|l|}
+\hline
+Model    & Precision & Recall & F1   \\ \hline
+MIML\_RE & 19.5      & 30.7   & 23.8 \\ \hline
+\end{tabular}
+\end{table}
+  \bibliography{jiang_kairong_hw3}
+  \bibliographystyle{acl_natbib_nourl}
+  
+  \end{document}
+  
