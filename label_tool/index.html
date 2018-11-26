@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en_US">
+
+<head>
+    <script src="lib/d3/d3.js"></script>
+    <script src="lib/jquery-3.3.1.js"></script>
+    <script src="lib/bootstrap-4.1.3/js/bootstrap.js"></script>
+    <script src="data/sample_0.js"></script>
+    <script src="data/projection_0.js"></script>
+    <link rel="stylesheet" href="lib/bootstrap-4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Relation Labeling Tool</title>
+</head>
+
+<body>
+<h1>Relation Labeling Tool</h1>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg">
+            <svg id="projection_view" height="600" width="600">
+            </svg>
+        </div>
+        <div class="col">
+            <div class="container-fluid">
+                <div class="row" style="height:90%; display: block; overflow:scroll;" id="sentence_view">
+                    <div class="sentence">
+                        <p></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col"><button type="button" id="btn_relation_1">Relation 1</button></div>
+                    <div class="col"><button type="button" id="btn_relation_2">Relation 2</button></div>
+                    <div class="col"><button type="button" id="btn_relation_3">Relation 3</button></div>
+                    <div class="col"><button type="button" id="btn_relation_4">Relation 4</button></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="main.js"></script>
+</body>
+
+</html>

@@ -6,7 +6,6 @@ data = []
 dataObjs = []
 simpleDataObjs = []
 negativeObjs = []
-sampleObjs = []
 simpleEvents = ["per:spouse", "per:city_of_birth",
                 "org:city_of_headquarters"]
 with open('./data/annotated_sentences.csv', newline='', encoding="utf8") as csvFile:
@@ -35,26 +34,33 @@ sampleNumber = 300
 negativeRatio = len(negativeObjs) / len(dataObjs)
 negativeSampleNumber = int(sampleNumber * negativeRatio)
 
-positiveSampled = {}
-negativeSampled = {}
+sampleFileNumber = 10
 
-for i in range(sampleNumber - negativeSampleNumber):
-    x = random.randint(0, len(simpleDataObjs))
-    while x in positiveSampled:
-        x = random.randint(0, len(simpleDataObjs))
-    positiveSampled[x] = True
-    sampleObjs.append(simpleDataObjs[x])
+for t in range(sampleFileNumber):
+    positiveSampled = {}
+    negativeSampled = {}
+    sampleObjs = []
 
-for i in range(negativeSampleNumber):
-    x = random.randint(0, len(negativeObjs))
-    while x in negativeSampled:
-        x = random.randint(0, len(negativeObjs))
-    negativeSampled[x] = True
-    sampleObjs.append(negativeObjs[x])
+    for i in range(sampleNumber - negativeSampleNumber):
+        x = random.randint(0, len(simpleDataObjs) - 1)
+        while x in positiveSampled:
+            x = random.randint(0, len(simpleDataObjs) - 1)
+        positiveSampled[x] = True
+        sampleObjs.append(simpleDataObjs[x])
 
-random.shuffle(sampleObjs)
+    for i in range(negativeSampleNumber):
+        x = random.randint(0, len(negativeObjs) - 1)
+        while x in negativeSampled:
+            x = random.randint(0, len(negativeObjs) - 1)
+        negativeSampled[x] = True
+        sampleObjs.append(negativeObjs[x])
 
-with open("./data/data.json", 'w') as fp:
-    json.dump(dataObjs, fp)
-with open("./data/sample.json", 'w') as fp:
-    json.dump(sampleObjs, fp)
+    random.shuffle(sampleObjs)
+    sampleFileName = './data/sample_' + str(t) + '.json'
+
+    with open(sampleFileName, 'w') as fp:
+        json.dump(sampleObjs, fp)
+
+
+# with open("./data/data.json", 'w') as fp:
+#     json.dump(dataObjs, fp)
