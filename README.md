@@ -4,6 +4,8 @@ MIML_RE model adopted from <https://nlp.stanford.edu/software/mimlre.shtml>.
 
 The ```README``` file contains introductions on the project provided by the original authors.
 
+The Relation Labeling Tool is the the ```label_tool``` directory.
+
 ## Authors
 
 Mihai Surdeanu, Julie Tibshirani, Ramesh Nallapati, Sonal Gupta, John Bauer, 
@@ -42,6 +44,8 @@ see the file LIBRARY_LICENSES.txt.
 
 # How to Run
 
+## The MIMR_RE model
+
 The program requires java 1.6 or higher. I tested the model on KBP data provided by the authors. The results are in ```results``` directory.
 
 To train and test the model, first unzip ```resources.zip``` and ```corpora.zip```, then run
@@ -49,3 +53,33 @@ To train and test the model, first unzip ```resources.zip``` and ```corpora.zip`
 ```java -ea -cp classes/;lib/* edu.stanford.nlp.kbp.slotfilling.KBPTrainer -props config/kbp/kbp_mimlre.properties``` on Windows operating system, or
 
 ```java -ea -cp classes/:lib/* edu.stanford.nlp.kbp.slotfilling.KBPTrainer -props config/kbp/kbp_mimlre.properties``` on Unix operating system.
+
+## The Relation Labeling Tool
+
+### Generate Sample Data
+
+The sample data is generated from the annotated data provided by Gabor Angeli at. el. 2014.
+
+Python 3.6 or higher is required for the scripts.
+
+run ```python parseCsv.py``` to generate 10 sample datasets. Each dataset contains 300 random data instances from the annotated dataset with either ```per:spouse```, ```per:city_of_birth```, ```org:city_of_headquarters```, or ```no_relation```.
+
+### Construct Sentence Embedding
+
+The sentence embedding is constructed using the simple weighted bag-of-words methods proposed in Sanjeev Arora at. el. 2016.
+
+A precomputed word embedding is included in ```data``` directory. ```nltk``` is required for the scripts.
+
+To generate sentence embedding for all the sentences, first unzip ```vectors.txt.zip```, then run ```python wordEmbedding.py```, ```python wordFreq.py```, and ```python sentenceEmbedding.py```. The result will be stored in ```data/sentenceVecs.json```.
+
+### 2D Projection
+
+```scikit-learn``` and ```nltk``` are needed for the script to run.
+
+Run ```python projection {inputdata.json} {outputdata.json}``` to project the data into 2D using t-SNE. After projection a 2D scatter-plot will pop up and the results will be stored in ```{outputdata.json}```.
+
+### Visual Labeling Interface
+
+The web-based visual labeling interface can be invoked by running ```index.html``` in any modern internet browser supporting HTML5 such as Chrome, Safari, or Microsoft Edge.
+
+By default the first sample and its projection is used. For now this cannot be changed interactively. It can only be changed by directly change the ```index.html``` file.
